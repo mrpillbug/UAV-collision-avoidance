@@ -1,0 +1,2571 @@
+July 2
+Second Ground Test of Day
+
+POSITION LOGGED
+
+Test Point 1
+
+Our Velocity (vx ,vy): (0.010000, -0.190000)
+Our Position (X,Y): (34.059418, -117.820983)
+other (X,Y): (-119.104021, 8.388621)
+Collision predicted? 0
+Distance between aircraft: 11638731.551764
+
+Test Point 2
+
+Our Velocity (vx ,vy): (-0.170000, -0.390000)
+Our Position (X,Y): (34.059417, -117.820984)
+other (X,Y): (33.989090, -117.870128)
+Collision predicted? 0
+Distance between aircraft: 9046.854143
+
+Test Point 3
+
+Our Velocity (vx ,vy): (-0.560000, -1.330000)
+Our Position (X,Y): (34.059413, -117.820998)
+other (X,Y): (34.014401, -117.734642)
+Collision predicted? 0
+Distance between aircraft: 9410.811653
+
+
+Test Point 4
+
+Our Velocity (vx ,vy): (-0.460000, -1.200000)
+Our Position (X,Y): (34.059410, -117.821010)
+other (X,Y): (34.014401, -117.734642)
+Collision predicted? 0
+Distance between aircraft: 9411.572902
+
+Test Point 5
+
+Our Velocity (vx ,vy): (-0.420000, -1.150000)
+Our Position (X,Y): (34.059405, -117.821029)
+other (X,Y): (34.016097, -117.734427)
+Collision predicted? 0
+Distance between aircraft: 9330.586926
+
+Test Point 6
+
+Our Velocity (vx ,vy): (-0.360000, -1.190000)
+Our Position (X,Y): (34.059401, -117.821044)
+other (X,Y): (33.988254, -117.878265)
+Collision predicted? 0
+Distance between aircraft: 9518.106041
+
+Test Point 7
+
+Our Velocity (vx ,vy): (-0.280000, -1.310000)
+Our Position (X,Y): (34.059396, -117.821057)
+other (X,Y): (34.001568, -117.739105)
+Collision predicted? 0
+Distance between aircraft: 9824.961322
+
+Test Point 8
+
+Our Velocity (vx ,vy): (-0.470000, -1.620000)
+Our Position (X,Y): (34.059389, -117.821090)
+other (X,Y): (33.987882, -117.882042)
+Collision predicted? 0
+Distance between aircraft: 9746.048205
+
+Test Point 9
+
+Our Velocity (vx ,vy): (-0.140000, -1.400000)
+Our Position (X,Y): (34.059387, -117.821107)
+other (X,Y): (34.001038, -117.744234)
+Collision predicted? 0
+Distance between aircraft: 9616.819240
+
+Test Point 10
+
+Our Velocity (vx ,vy): (-0.170000, -1.130000)
+Our Position (X,Y): (34.059384, -117.821111)
+other (X,Y): (34.000717, -117.747597)
+Collision predicted? 0
+Distance between aircraft: 9415.109796
+
+TP 11
+
+Our Velocity (vx ,vy): (-0.480000, -1.460000)
+Our Position (X,Y): (34.059381, -117.821125)
+other (X,Y): (34.000717, -117.747597)
+Collision predicted? 0
+Distance between aircraft: 9415.810790
+
+TP 12
+
+Our Velocity (vx ,vy): (-0.460000, -1.610000)
+Our Position (X,Y): (34.059378, -117.821142)
+other (X,Y): (34.000351, -117.750904)
+Collision predicted? 0
+Distance between aircraft: 9228.320553
+
+TP 13
+
+Our Velocity (vx ,vy): (-0.390000, -1.640000)
+Our Position (X,Y): (34.059375, -117.821157)
+other (X,Y): (34.000214, -117.752586)
+Collision predicted? 0
+Distance between aircraft: 9131.843694
+
+TP 14
+
+Our Velocity (vx ,vy): (-0.230000, -1.550000)
+Our Position (X,Y): (34.059373, -117.821171)
+other (X,Y): (34.000214, -117.752586)
+Collision predicted? 0
+Distance between aircraft: 9132.546009
+
+TP 15
+
+Our Velocity (vx ,vy): (-0.360000, -1.340000)
+Our Position (X,Y): (34.059369, -117.821188)
+other (X,Y): (34.000031, -117.754211)
+Collision predicted? 0
+Distance between aircraft: 9044.923438
+
+
+Edited out Predicted Positions
+Untouched DATA Commented in latitude/longitude of ourAircraft
+Preconverted lat/lon FUTURE POS DATA
+
+
+START READ THREAD 
+
+CHECK FOR MESSAGES
+Found
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD 
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+
+vx 0.010000
+
+
+POSITION LOGGED
+Our Velocity (vx ,vy): (0.010000, -0.190000)
+Our Position (X,Y): (34.059418, -117.820983)
+other (X,Y): (-119.104021, 8.388621)
+
+Future latitude distance of plane A (0.000000, 0.000001, 0.000001)
+Future longitude distance of plane A (-0.000000, -0.000011, -0.000011)
+Our Predicted position: (34.059418, -117.820984)
+
+Future latitude distance of plane A (0.015000, 0.005111, -0.009889)
+Future longitude distance of plane A (-0.285000, -0.097101, 0.187899)
+Our Predicted position: (34.059418, -117.820976)
+
+Future latitude distance of plane A (0.040000, 0.020221, -0.019779)
+Future longitude distance of plane A (-0.760000, -0.384191, 0.375809)
+Our Predicted position: (34.059418, -117.820976)
+
+Future latitude distance of plane A (0.075000, 0.045331, -0.029669)
+Future longitude distance of plane A (-1.425000, -0.861281, 0.563719)
+Our Predicted position: (34.059418, -117.820969)
+
+Future latitude distance of plane A (0.120000, 0.080441, -0.039559)
+Future longitude distance of plane A (-2.280000, -1.528372, 0.751628)
+Our Predicted position: (34.059418, -117.820969)
+
+Future latitude distance of plane A (0.175000, 0.125551, -0.049449)
+Future longitude distance of plane A (-3.325000, -2.385462, 0.939538)
+Our Predicted position: (34.059418, -117.820961)
+
+Future latitude distance of plane A (0.240000, 0.180661, -0.059339)
+Future longitude distance of plane A (-4.560000, -3.432552, 1.127448)
+Our Predicted position: (34.059418, -117.820961)
+
+Future latitude distance of plane A (0.315000, 0.245771, -0.069229)
+Future longitude distance of plane A (-5.985000, -4.669642, 1.315358)
+Our Predicted position: (34.059418, -117.820961)
+
+Future latitude distance of plane A (0.400000, 0.320881, -0.079119)
+Future longitude distance of plane A (-7.600000, -6.096732, 1.503268)
+Our Predicted position: (34.059418, -117.820953)
+
+Future latitude distance of plane A (0.495000, 0.405991, -0.089009)
+Future longitude distance of plane A (-9.405000, -7.713822, 1.691178)
+Our Predicted position: (34.059418, -117.820953)
+
+Future latitude distance of plane A (0.600000, 0.501101, -0.098899)
+Future longitude distance of plane A (-11.400000, -9.520912, 1.879088)
+Our Predicted position: (34.059418, -117.820946)
+
+Future latitude distance of plane A (0.715000, 0.606211, -0.108789)
+Future longitude distance of plane A (-13.585000, -11.518002, 2.066998)
+Our Predicted position: (34.059418, -117.820946)
+
+Future latitude distance of plane A (0.840000, 0.721321, -0.118679)
+Future longitude distance of plane A (-15.960000, -13.705092, 2.254908)
+Our Predicted position: (34.059418, -117.820938)
+
+Future latitude distance of plane A (0.975000, 0.846431, -0.128569)
+Future longitude distance of plane A (-18.525000, -16.082182, 2.442818)
+Our Predicted position: (34.059418, -117.820938)
+
+Future latitude distance of plane A (1.120000, 0.981541, -0.138459)
+Future longitude distance of plane A (-21.280000, -18.649272, 2.630728)
+Our Predicted position: (34.059418, -117.820930)
+
+Future latitude distance of plane A (1.275000, 1.126651, -0.148349)
+Future longitude distance of plane A (-24.225000, -21.406362, 2.818638)
+Our Predicted position: (34.059418, -117.820930)
+
+Future latitude distance of plane A (1.440000, 1.281761, -0.158239)
+Future longitude distance of plane A (-27.360000, -24.353452, 3.006548)
+Our Predicted position: (34.059418, -117.820923)
+
+Future latitude distance of plane A (1.615000, 1.446871, -0.168129)
+Future longitude distance of plane A (-30.685000, -27.490542, 3.194458)
+Our Predicted position: (34.059418, -117.820923)
+
+Future latitude distance of plane A (1.800000, 1.621981, -0.178019)
+Future longitude distance of plane A (-34.200000, -30.817632, 3.382368)
+Our Predicted position: (34.059418, -117.820915)
+
+Future latitude distance of plane A (1.995000, 1.807091, -0.187909)
+Future longitude distance of plane A (-37.904999, -34.334722, 3.570278)
+Our Predicted position: (34.059418, -117.820915)
+
+
+Collision predicted? 0
+Distance between aircraft: 11638731.551764
+Our Velocity (vx ,vy): (-0.170000, -0.390000)
+Our Position (X,Y): (34.059417, -117.820984)
+other (X,Y): (33.989090, -117.870128)
+
+Future latitude distance of plane A (-0.000000, 0.000089, 0.000089)
+Future longitude distance of plane A (-0.000000, -0.001912, -0.001912)
+Our Predicted position: (34.059418, -117.820984)
+
+Future latitude distance of plane A (-0.260000, -0.081891, 0.178109)
+Future longitude distance of plane A (-0.490000, -0.294112, 0.195888)
+Our Predicted position: (34.059414, -117.820984)
+
+Future latitude distance of plane A (-0.700000, -0.343871, 0.356129)
+Future longitude distance of plane A (-1.180000, -0.786312, 0.393688)
+Our Predicted position: (34.059414, -117.820976)
+
+Future latitude distance of plane A (-1.320000, -0.785851, 0.534149)
+Future longitude distance of plane A (-2.070000, -1.478512, 0.591488)
+Our Predicted position: (34.059414, -117.820976)
+
+Future latitude distance of plane A (-2.120000, -1.407831, 0.712169)
+Future longitude distance of plane A (-3.160000, -2.370712, 0.789288)
+Our Predicted position: (34.059410, -117.820969)
+
+Future latitude distance of plane A (-3.100000, -2.209811, 0.890189)
+Future longitude distance of plane A (-4.450000, -3.462912, 0.987088)
+Our Predicted position: (34.059410, -117.820969)
+
+Future latitude distance of plane A (-4.260000, -3.191791, 1.068209)
+Future longitude distance of plane A (-5.940000, -4.755112, 1.184887)
+Our Predicted position: (34.059406, -117.820961)
+
+Future latitude distance of plane A (-5.600000, -4.353771, 1.246229)
+Future longitude distance of plane A (-7.630000, -6.247312, 1.382688)
+Our Predicted position: (34.059406, -117.820961)
+
+Future latitude distance of plane A (-7.120000, -5.695751, 1.424249)
+Future longitude distance of plane A (-9.520000, -7.939512, 1.580487)
+Our Predicted position: (34.059402, -117.820953)
+
+Future latitude distance of plane A (-8.820000, -7.217732, 1.602269)
+Future longitude distance of plane A (-11.609999, -9.831712, 1.778287)
+Our Predicted position: (34.059402, -117.820953)
+
+Future latitude distance of plane A (-10.700000, -8.919712, 1.780289)
+Future longitude distance of plane A (-13.899999, -11.923912, 1.976087)
+Our Predicted position: (34.059402, -117.820946)
+
+Future latitude distance of plane A (-12.760000, -10.801692, 1.958309)
+Future longitude distance of plane A (-16.389999, -14.216112, 2.173887)
+Our Predicted position: (34.059399, -117.820946)
+
+Future latitude distance of plane A (-15.000000, -12.863672, 2.136329)
+Future longitude distance of plane A (-19.079999, -16.708312, 2.371687)
+Our Predicted position: (34.059399, -117.820938)
+
+Future latitude distance of plane A (-17.420001, -15.105652, 2.314349)
+Future longitude distance of plane A (-21.969999, -19.400512, 2.569487)
+Our Predicted position: (34.059395, -117.820938)
+
+Future latitude distance of plane A (-20.020001, -17.527632, 2.492369)
+Future longitude distance of plane A (-25.059999, -22.292712, 2.767287)
+Our Predicted position: (34.059395, -117.820930)
+
+Future latitude distance of plane A (-22.800001, -20.129612, 2.670388)
+Future longitude distance of plane A (-28.349999, -25.384912, 2.965087)
+Our Predicted position: (34.059395, -117.820930)
+
+Future latitude distance of plane A (-25.760001, -22.911592, 2.848408)
+Future longitude distance of plane A (-31.839998, -28.677111, 3.162887)
+Our Predicted position: (34.059391, -117.820923)
+
+Future latitude distance of plane A (-28.900001, -25.873573, 3.026429)
+Future longitude distance of plane A (-35.529998, -32.169311, 3.360687)
+Our Predicted position: (34.059391, -117.820923)
+
+Future latitude distance of plane A (-32.220001, -29.015553, 3.204448)
+Future longitude distance of plane A (-39.419998, -35.861511, 3.558487)
+Our Predicted position: (34.059387, -117.820915)
+
+Future latitude distance of plane A (-35.720001, -32.337533, 3.382468)
+Future longitude distance of plane A (-43.509998, -39.753711, 3.756287)
+Our Predicted position: (34.059387, -117.820915)
+
+
+Collision predicted? 0
+Distance between aircraft: 9046.854143
+
+
+vx -0.560000
+
+Our Velocity (vx ,vy): (-0.560000, -1.330000)
+Our Position (X,Y): (34.059413, -117.820998)
+other (X,Y): (34.014401, -117.734642)
+
+Future latitude distance of plane A (-0.000000, -0.001724, -0.001724)
+Future longitude distance of plane A (-0.000000, -0.003957, -0.003957)
+Our Predicted position: (34.059414, -117.820999)
+
+Future latitude distance of plane A (-0.755000, -0.371014, 0.383986)
+Future longitude distance of plane A (-1.800000, -0.874297, 0.925703)
+Our Predicted position: (34.059410, -117.820976)
+
+Future latitude distance of plane A (-1.900000, -1.130304, 0.769696)
+Future longitude distance of plane A (-4.540000, -2.684637, 1.855363)
+Our Predicted position: (34.059406, -117.820961)
+
+Future latitude distance of plane A (-3.435000, -2.279593, 1.155407)
+Future longitude distance of plane A (-8.220001, -5.434977, 2.785023)
+Our Predicted position: (34.059402, -117.820946)
+
+Future latitude distance of plane A (-5.360000, -3.818884, 1.541116)
+Future longitude distance of plane A (-12.840001, -9.125318, 3.714682)
+Our Predicted position: (34.059399, -117.820923)
+
+Future latitude distance of plane A (-7.675000, -5.748174, 1.926826)
+Future longitude distance of plane A (-18.400001, -13.755659, 4.644342)
+Our Predicted position: (34.059395, -117.820908)
+
+Future latitude distance of plane A (-10.380000, -8.067464, 2.312536)
+Future longitude distance of plane A (-24.900002, -19.325999, 5.574002)
+Our Predicted position: (34.059391, -117.820892)
+
+Future latitude distance of plane A (-13.475000, -10.776754, 2.698246)
+Future longitude distance of plane A (-32.340002, -25.836340, 6.503662)
+Our Predicted position: (34.059387, -117.820869)
+
+Future latitude distance of plane A (-16.960000, -13.876044, 3.083956)
+Future longitude distance of plane A (-40.720002, -33.286680, 7.433322)
+Our Predicted position: (34.059387, -117.820854)
+
+Future latitude distance of plane A (-20.834999, -17.365334, 3.469666)
+Future longitude distance of plane A (-50.040003, -41.677021, 8.362981)
+Our Predicted position: (34.059383, -117.820839)
+
+Future latitude distance of plane A (-25.099999, -21.244624, 3.855375)
+Future longitude distance of plane A (-60.300003, -51.007362, 9.292641)
+Our Predicted position: (34.059380, -117.820816)
+
+Future latitude distance of plane A (-29.754999, -25.513914, 4.241085)
+Future longitude distance of plane A (-71.500004, -61.277703, 10.222301)
+Our Predicted position: (34.059376, -117.820801)
+
+Future latitude distance of plane A (-34.799999, -30.173204, 4.626795)
+Future longitude distance of plane A (-83.640005, -72.488043, 11.151962)
+Our Predicted position: (34.059372, -117.820786)
+
+Future latitude distance of plane A (-40.234999, -35.222494, 5.012505)
+Future longitude distance of plane A (-96.720006, -84.638384, 12.081621)
+Our Predicted position: (34.059368, -117.820763)
+
+Future latitude distance of plane A (-46.059999, -40.661783, 5.398215)
+Future longitude distance of plane A (-110.740006, -97.728726, 13.011281)
+Our Predicted position: (34.059364, -117.820747)
+
+Future latitude distance of plane A (-52.274998, -46.491073, 5.783925)
+Future longitude distance of plane A (-125.700007, -111.759067, 13.940941)
+Our Predicted position: (34.059361, -117.820732)
+
+Future latitude distance of plane A (-58.879998, -52.710363, 6.169635)
+Future longitude distance of plane A (-141.600008, -126.729407, 14.870601)
+Our Predicted position: (34.059357, -117.820709)
+
+Future latitude distance of plane A (-65.874998, -59.319653, 6.555345)
+Future longitude distance of plane A (-158.440009, -142.639748, 15.800260)
+Our Predicted position: (34.059353, -117.820694)
+
+Future latitude distance of plane A (-73.259998, -66.318943, 6.941055)
+Future longitude distance of plane A (-176.220010, -159.490090, 16.729920)
+Our Predicted position: (34.059349, -117.820679)
+
+Future latitude distance of plane A (-81.034998, -73.708233, 7.326765)
+Future longitude distance of plane A (-194.940011, -177.280431, 17.659580)
+Our Predicted position: (34.059349, -117.820656)
+
+
+Collision predicted? 0
+Distance between aircraft: 9410.811653
+Our Velocity (vx ,vy): (-0.460000, -1.200000)
+Our Position (X,Y): (34.059410, -117.821010)
+other (X,Y): (34.014401, -117.734642)
+
+Future latitude distance of plane A (0.000000, -0.005594, -0.005594)
+Future longitude distance of plane A (0.000000, -0.013292, -0.013292)
+Our Predicted position: (34.059410, -117.821007)
+
+Future latitude distance of plane A (-0.410000, -0.514494, -0.104494)
+Future longitude distance of plane A (-1.135000, -1.276862, -0.141862)
+Our Predicted position: (34.059410, -117.821014)
+
+Future latitude distance of plane A (-0.720000, -0.923394, -0.203394)
+Future longitude distance of plane A (-2.140000, -2.410432, -0.270432)
+Our Predicted position: (34.059410, -117.821014)
+
+Future latitude distance of plane A (-0.930000, -1.232294, -0.302294)
+Future longitude distance of plane A (-3.015000, -3.414002, -0.399002)
+Our Predicted position: (34.059414, -117.821014)
+
+Future latitude distance of plane A (-1.040000, -1.441194, -0.401194)
+Future longitude distance of plane A (-3.760000, -4.287573, -0.527572)
+Our Predicted position: (34.059414, -117.821022)
+
+Future latitude distance of plane A (-1.050000, -1.550094, -0.500094)
+Future longitude distance of plane A (-4.375000, -5.031143, -0.656143)
+Our Predicted position: (34.059414, -117.821022)
+
+Future latitude distance of plane A (-0.960000, -1.558994, -0.598994)
+Future longitude distance of plane A (-4.860000, -5.644712, -0.784712)
+Our Predicted position: (34.059414, -117.821022)
+
+Future latitude distance of plane A (-0.770000, -1.467894, -0.697894)
+Future longitude distance of plane A (-5.215001, -6.128282, -0.913282)
+Our Predicted position: (34.059418, -117.821030)
+
+Future latitude distance of plane A (-0.480000, -1.276794, -0.796794)
+Future longitude distance of plane A (-5.440001, -6.481852, -1.041852)
+Our Predicted position: (34.059418, -117.821030)
+
+Future latitude distance of plane A (-0.090000, -0.985694, -0.895694)
+Future longitude distance of plane A (-5.535000, -6.705423, -1.170423)
+Our Predicted position: (34.059418, -117.821030)
+
+Future latitude distance of plane A (0.400000, -0.594594, -0.994594)
+Future longitude distance of plane A (-5.500000, -6.798993, -1.298993)
+Our Predicted position: (34.059418, -117.821037)
+
+Future latitude distance of plane A (0.990000, -0.103494, -1.093494)
+Future longitude distance of plane A (-5.335001, -6.762563, -1.427562)
+Our Predicted position: (34.059422, -117.821037)
+
+Future latitude distance of plane A (1.680000, 0.487606, -1.192394)
+Future longitude distance of plane A (-5.040001, -6.596133, -1.556132)
+Our Predicted position: (34.059422, -117.821037)
+
+Future latitude distance of plane A (2.469999, 1.178706, -1.291294)
+Future longitude distance of plane A (-4.615001, -6.299703, -1.684702)
+Our Predicted position: (34.059422, -117.821045)
+
+Future latitude distance of plane A (3.359999, 1.969806, -1.390194)
+Future longitude distance of plane A (-4.060002, -5.873273, -1.813271)
+Our Predicted position: (34.059422, -117.821045)
+
+Future latitude distance of plane A (4.349999, 2.860905, -1.489094)
+Future longitude distance of plane A (-3.375001, -5.316843, -1.941842)
+Our Predicted position: (34.059425, -117.821045)
+
+Future latitude distance of plane A (5.439999, 3.852006, -1.587993)
+Future longitude distance of plane A (-2.560001, -4.630413, -2.070412)
+Our Predicted position: (34.059425, -117.821053)
+
+Future latitude distance of plane A (6.629999, 4.943105, -1.686894)
+Future longitude distance of plane A (-1.615002, -3.813983, -2.198981)
+Our Predicted position: (34.059425, -117.821053)
+
+Future latitude distance of plane A (7.919999, 6.134206, -1.785794)
+Future longitude distance of plane A (-0.540001, -2.867553, -2.327552)
+Our Predicted position: (34.059425, -117.821053)
+
+Future latitude distance of plane A (9.309999, 7.425305, -1.884694)
+Future longitude distance of plane A (0.664998, -1.791123, -2.456121)
+Our Predicted position: (34.059425, -117.821060)
+
+
+Collision predicted? 0
+Distance between aircraft: 9411.572902
+
+
+vx -0.420000
+
+Our Velocity (vx ,vy): (-0.420000, -1.150000)
+Our Position (X,Y): (34.059405, -117.821029)
+other (X,Y): (34.016097, -117.734427)
+
+Future latitude distance of plane A (0.000000, -0.004598, -0.004598)
+Future longitude distance of plane A (0.000000, -0.011997, -0.011997)
+Our Predicted position: (34.059406, -117.821030)
+
+Future latitude distance of plane A (-0.400000, -0.444158, -0.044158)
+Future longitude distance of plane A (-1.125000, -1.186447, -0.061447)
+Our Predicted position: (34.059406, -117.821030)
+
+Future latitude distance of plane A (-0.760000, -0.843718, -0.083718)
+Future longitude distance of plane A (-2.200000, -2.310897, -0.110897)
+Our Predicted position: (34.059406, -117.821030)
+
+Future latitude distance of plane A (-1.080000, -1.203278, -0.123278)
+Future longitude distance of plane A (-3.224999, -3.385347, -0.160347)
+Our Predicted position: (34.059406, -117.821030)
+
+Future latitude distance of plane A (-1.360000, -1.522837, -0.162838)
+Future longitude distance of plane A (-4.199999, -4.409797, -0.209797)
+Our Predicted position: (34.059406, -117.821030)
+
+Future latitude distance of plane A (-1.600000, -1.802398, -0.202398)
+Future longitude distance of plane A (-5.124999, -5.384247, -0.259247)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (-1.800000, -2.041957, -0.241958)
+Future longitude distance of plane A (-5.999998, -6.308696, -0.308698)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (-1.959999, -2.241517, -0.281518)
+Future longitude distance of plane A (-6.824998, -7.183146, -0.358147)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (-2.079999, -2.401077, -0.321078)
+Future longitude distance of plane A (-7.599998, -8.007595, -0.407598)
+Our Predicted position: (34.059410, -117.821037)
+
+Future latitude distance of plane A (-2.159999, -2.520637, -0.360638)
+Future longitude distance of plane A (-8.324997, -8.782044, -0.457048)
+Our Predicted position: (34.059410, -117.821037)
+
+Future latitude distance of plane A (-2.199999, -2.600196, -0.400198)
+Future longitude distance of plane A (-8.999996, -9.506494, -0.506498)
+Our Predicted position: (34.059410, -117.821037)
+
+Future latitude distance of plane A (-2.199999, -2.639756, -0.439758)
+Future longitude distance of plane A (-9.624995, -10.180943, -0.555948)
+Our Predicted position: (34.059410, -117.821037)
+
+Future latitude distance of plane A (-2.159998, -2.639316, -0.479318)
+Future longitude distance of plane A (-10.199994, -10.805392, -0.605398)
+Our Predicted position: (34.059410, -117.821037)
+
+Future latitude distance of plane A (-2.079998, -2.598876, -0.518877)
+Future longitude distance of plane A (-10.724994, -11.379841, -0.654847)
+Our Predicted position: (34.059410, -117.821045)
+
+Future latitude distance of plane A (-1.959998, -2.518435, -0.558438)
+Future longitude distance of plane A (-11.199993, -11.904290, -0.704297)
+Our Predicted position: (34.059410, -117.821045)
+
+Future latitude distance of plane A (-1.799997, -2.397995, -0.597998)
+Future longitude distance of plane A (-11.624992, -12.378740, -0.753748)
+Our Predicted position: (34.059410, -117.821045)
+
+Future latitude distance of plane A (-1.599997, -2.237555, -0.637558)
+Future longitude distance of plane A (-11.999990, -12.803189, -0.803199)
+Our Predicted position: (34.059410, -117.821045)
+
+Future latitude distance of plane A (-1.359997, -2.037115, -0.677118)
+Future longitude distance of plane A (-12.324989, -13.177637, -0.852648)
+Our Predicted position: (34.059410, -117.821045)
+
+Future latitude distance of plane A (-1.079996, -1.796674, -0.716678)
+Future longitude distance of plane A (-12.599987, -13.502087, -0.902099)
+Our Predicted position: (34.059410, -117.821045)
+
+Future latitude distance of plane A (-0.759996, -1.516234, -0.756238)
+Future longitude distance of plane A (-12.824987, -13.776534, -0.951547)
+Our Predicted position: (34.059414, -117.821045)
+
+
+Collision predicted? 0
+Distance between aircraft: 9330.586926
+Our Velocity (vx ,vy): (-0.360000, -1.190000)
+Our Position (X,Y): (34.059401, -117.821044)
+other (X,Y): (33.988254, -117.878265)
+
+Future latitude distance of plane A (0.000000, -0.004196, -0.004196)
+Future longitude distance of plane A (-0.000000, -0.011502, -0.011502)
+Our Predicted position: (34.059399, -117.821045)
+
+Future latitude distance of plane A (-0.330000, -0.393536, -0.063536)
+Future longitude distance of plane A (-1.210000, -1.181942, 0.028058)
+Our Predicted position: (34.059402, -117.821045)
+
+Future latitude distance of plane A (-0.600000, -0.722876, -0.122876)
+Future longitude distance of plane A (-2.460000, -2.392382, 0.067618)
+Our Predicted position: (34.059402, -117.821045)
+
+Future latitude distance of plane A (-0.810000, -0.992216, -0.182216)
+Future longitude distance of plane A (-3.750001, -3.642823, 0.107178)
+Our Predicted position: (34.059402, -117.821045)
+
+Future latitude distance of plane A (-0.960000, -1.201557, -0.241556)
+Future longitude distance of plane A (-5.080001, -4.933263, 0.146738)
+Our Predicted position: (34.059402, -117.821045)
+
+Future latitude distance of plane A (-1.050000, -1.350897, -0.300896)
+Future longitude distance of plane A (-6.450001, -6.263704, 0.186297)
+Our Predicted position: (34.059402, -117.821037)
+
+Future latitude distance of plane A (-1.080001, -1.440237, -0.360236)
+Future longitude distance of plane A (-7.860002, -7.634144, 0.225858)
+Our Predicted position: (34.059402, -117.821037)
+
+Future latitude distance of plane A (-1.050001, -1.469577, -0.419576)
+Future longitude distance of plane A (-9.310002, -9.044585, 0.265417)
+Our Predicted position: (34.059402, -117.821037)
+
+Future latitude distance of plane A (-0.960001, -1.438917, -0.478916)
+Future longitude distance of plane A (-10.800003, -10.495025, 0.304978)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (-0.810001, -1.348257, -0.538256)
+Future longitude distance of plane A (-12.330004, -11.985466, 0.344539)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (-0.600002, -1.197597, -0.597596)
+Future longitude distance of plane A (-13.900005, -13.515907, 0.384098)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (-0.330002, -0.986938, -0.656936)
+Future longitude distance of plane A (-15.510005, -15.086347, 0.423658)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (-0.000002, -0.716278, -0.716276)
+Future longitude distance of plane A (-17.160007, -16.696788, 0.463219)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (0.389997, -0.385619, -0.775616)
+Future longitude distance of plane A (-18.850008, -18.347230, 0.502779)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (0.839997, 0.005041, -0.834956)
+Future longitude distance of plane A (-20.580008, -20.037670, 0.542338)
+Our Predicted position: (34.059406, -117.821037)
+
+Future latitude distance of plane A (1.349997, 0.455701, -0.894296)
+Future longitude distance of plane A (-22.350010, -21.768111, 0.581898)
+Our Predicted position: (34.059410, -117.821030)
+
+Future latitude distance of plane A (1.919996, 0.966361, -0.953636)
+Future longitude distance of plane A (-24.160011, -23.538552, 0.621459)
+Our Predicted position: (34.059410, -117.821030)
+
+Future latitude distance of plane A (2.549996, 1.537020, -1.012976)
+Future longitude distance of plane A (-26.010013, -25.348995, 0.661018)
+Our Predicted position: (34.059410, -117.821030)
+
+Future latitude distance of plane A (3.239995, 2.167680, -1.072316)
+Future longitude distance of plane A (-27.900015, -27.199436, 0.700579)
+Our Predicted position: (34.059410, -117.821030)
+
+Future latitude distance of plane A (3.989995, 2.858339, -1.131656)
+Future longitude distance of plane A (-29.830015, -29.089877, 0.740138)
+Our Predicted position: (34.059410, -117.821030)
+
+
+Collision predicted? 0
+Distance between aircraft: 9518.106041
+
+
+vx -0.280000
+
+Our Velocity (vx ,vy): (-0.280000, -1.310000)
+Our Position (X,Y): (34.059396, -117.821057)
+other (X,Y): (34.001568, -117.739105)
+
+Future latitude distance of plane A (0.000000, -0.003595, -0.003595)
+Future longitude distance of plane A (-0.000000, -0.011907, -0.011907)
+Our Predicted position: (34.059395, -117.821060)
+
+Future latitude distance of plane A (-0.240000, -0.322715, -0.082715)
+Future longitude distance of plane A (-1.370000, -1.263227, 0.106773)
+Our Predicted position: (34.059399, -117.821053)
+
+Future latitude distance of plane A (-0.400000, -0.561835, -0.161835)
+Future longitude distance of plane A (-2.860000, -2.634547, 0.225453)
+Our Predicted position: (34.059399, -117.821053)
+
+Future latitude distance of plane A (-0.480000, -0.720955, -0.240955)
+Future longitude distance of plane A (-4.469999, -4.125867, 0.344132)
+Our Predicted position: (34.059399, -117.821053)
+
+Future latitude distance of plane A (-0.480000, -0.800075, -0.320075)
+Future longitude distance of plane A (-6.199999, -5.737187, 0.462812)
+Our Predicted position: (34.059399, -117.821045)
+
+Future latitude distance of plane A (-0.400000, -0.799195, -0.399195)
+Future longitude distance of plane A (-8.049998, -7.468507, 0.581492)
+Our Predicted position: (34.059399, -117.821045)
+
+Future latitude distance of plane A (-0.240000, -0.718315, -0.478315)
+Future longitude distance of plane A (-10.019998, -9.319826, 0.700171)
+Our Predicted position: (34.059399, -117.821045)
+
+Future latitude distance of plane A (0.000000, -0.557435, -0.557435)
+Future longitude distance of plane A (-12.109997, -11.291145, 0.818852)
+Our Predicted position: (34.059402, -117.821045)
+
+Future latitude distance of plane A (0.320000, -0.316555, -0.636555)
+Future longitude distance of plane A (-14.319996, -13.382464, 0.937532)
+Our Predicted position: (34.059402, -117.821037)
+
+Future latitude distance of plane A (0.720001, 0.004325, -0.715675)
+Future longitude distance of plane A (-16.649994, -15.593784, 1.056211)
+Our Predicted position: (34.059402, -117.821037)
+
+Future latitude distance of plane A (1.200001, 0.405205, -0.794795)
+Future longitude distance of plane A (-19.099994, -17.925102, 1.174891)
+Our Predicted position: (34.059402, -117.821037)
+
+Future latitude distance of plane A (1.760001, 0.886086, -0.873915)
+Future longitude distance of plane A (-21.669993, -20.376422, 1.293571)
+Our Predicted position: (34.059402, -117.821030)
+
+Future latitude distance of plane A (2.400001, 1.446966, -0.953035)
+Future longitude distance of plane A (-24.359991, -22.947740, 1.412251)
+Our Predicted position: (34.059406, -117.821030)
+
+Future latitude distance of plane A (3.120001, 2.087846, -1.032155)
+Future longitude distance of plane A (-27.169989, -25.639059, 1.530930)
+Our Predicted position: (34.059406, -117.821030)
+
+Future latitude distance of plane A (3.920001, 2.808726, -1.111275)
+Future longitude distance of plane A (-30.099989, -28.450378, 1.649611)
+Our Predicted position: (34.059406, -117.821022)
+
+Future latitude distance of plane A (4.800002, 3.609606, -1.190395)
+Future longitude distance of plane A (-33.149987, -31.381695, 1.768292)
+Our Predicted position: (34.059406, -117.821022)
+
+Future latitude distance of plane A (5.760002, 4.490486, -1.269515)
+Future longitude distance of plane A (-36.319984, -34.433014, 1.886971)
+Our Predicted position: (34.059406, -117.821022)
+
+Future latitude distance of plane A (6.800002, 5.451367, -1.348635)
+Future longitude distance of plane A (-39.609982, -37.604333, 2.005649)
+Our Predicted position: (34.059410, -117.821022)
+
+Future latitude distance of plane A (7.920002, 6.492247, -1.427755)
+Future longitude distance of plane A (-43.019979, -40.895651, 2.124328)
+Our Predicted position: (34.059410, -117.821014)
+
+Future latitude distance of plane A (9.120002, 7.613127, -1.506875)
+Future longitude distance of plane A (-46.549979, -44.306968, 2.243011)
+Our Predicted position: (34.059410, -117.821014)
+
+
+Collision predicted? 0
+Distance between aircraft: 9929.609799
+Our Velocity (vx ,vy): (-0.590000, -1.690000)
+Our Position (X,Y): (34.059394, -117.821077)
+other (X,Y): (34.001429, -117.740765)
+
+Future latitude distance of plane A (-0.000000, -0.002819, -0.002819)
+Future longitude distance of plane A (-0.000000, -0.013123, -0.013123)
+Our Predicted position: (34.059395, -117.821075)
+
+Future latitude distance of plane A (-0.745000, -0.441229, 0.303771)
+Future longitude distance of plane A (-1.880000, -1.517303, 0.362697)
+Our Predicted position: (34.059391, -117.821068)
+
+Future latitude distance of plane A (-1.800000, -1.189639, 0.610361)
+Future longitude distance of plane A (-4.140000, -3.401483, 0.738517)
+Our Predicted position: (34.059387, -117.821060)
+
+Future latitude distance of plane A (-3.165000, -2.248049, 0.916951)
+Future longitude distance of plane A (-6.780001, -5.665663, 1.114337)
+Our Predicted position: (34.059387, -117.821053)
+
+Future latitude distance of plane A (-4.840000, -3.616459, 1.223541)
+Future longitude distance of plane A (-9.800001, -8.309844, 1.490157)
+Our Predicted position: (34.059383, -117.821045)
+
+Future latitude distance of plane A (-6.824999, -5.294869, 1.530131)
+Future longitude distance of plane A (-13.200002, -11.334025, 1.865977)
+Our Predicted position: (34.059380, -117.821037)
+
+Future latitude distance of plane A (-9.119999, -7.283279, 1.836721)
+Future longitude distance of plane A (-16.980002, -14.738205, 2.241797)
+Our Predicted position: (34.059376, -117.821030)
+
+Future latitude distance of plane A (-11.724999, -9.581689, 2.143310)
+Future longitude distance of plane A (-21.140003, -18.522386, 2.617617)
+Our Predicted position: (34.059376, -117.821030)
+
+Future latitude distance of plane A (-14.639999, -12.190098, 2.449900)
+Future longitude distance of plane A (-25.680004, -22.686568, 2.993437)
+Our Predicted position: (34.059372, -117.821022)
+
+Future latitude distance of plane A (-17.864999, -15.108508, 2.756491)
+Future longitude distance of plane A (-30.600006, -27.230748, 3.369258)
+Our Predicted position: (34.059368, -117.821014)
+
+Future latitude distance of plane A (-21.399998, -18.336918, 3.063080)
+Future longitude distance of plane A (-35.900007, -32.154930, 3.745078)
+Our Predicted position: (34.059368, -117.821007)
+
+Future latitude distance of plane A (-25.244998, -21.875328, 3.369670)
+Future longitude distance of plane A (-41.580007, -37.459110, 4.120897)
+Our Predicted position: (34.059364, -117.820999)
+
+Future latitude distance of plane A (-29.399998, -25.723738, 3.676260)
+Future longitude distance of plane A (-47.640009, -43.143292, 4.496717)
+Our Predicted position: (34.059361, -117.820992)
+
+Future latitude distance of plane A (-33.864997, -29.882147, 3.982850)
+Future longitude distance of plane A (-54.080011, -49.207474, 4.872537)
+Our Predicted position: (34.059357, -117.820984)
+
+Future latitude distance of plane A (-38.639997, -34.350557, 4.289439)
+Future longitude distance of plane A (-60.900011, -55.651655, 5.248356)
+Our Predicted position: (34.059357, -117.820976)
+
+Future latitude distance of plane A (-43.724996, -39.128967, 4.596029)
+Future longitude distance of plane A (-68.100013, -62.475836, 5.624177)
+Our Predicted position: (34.059353, -117.820969)
+
+Future latitude distance of plane A (-49.119996, -44.217376, 4.902620)
+Future longitude distance of plane A (-75.680016, -69.680018, 5.999998)
+Our Predicted position: (34.059349, -117.820961)
+
+Future latitude distance of plane A (-54.824996, -49.615786, 5.209210)
+Future longitude distance of plane A (-83.640018, -77.264201, 6.375817)
+Our Predicted position: (34.059345, -117.820953)
+
+Future latitude distance of plane A (-60.839995, -55.324196, 5.515800)
+Future longitude distance of plane A (-91.980021, -85.228383, 6.751638)
+Our Predicted position: (34.059345, -117.820946)
+
+Future latitude distance of plane A (-67.164994, -61.342605, 5.822389)
+Future longitude distance of plane A (-100.700021, -93.572564, 7.127457)
+Our Predicted position: (34.059341, -117.820938)
+
+
+Collision predicted? 0
+Distance between aircraft: 9824.961322
+
+
+vx -0.470000
+
+Our Velocity (vx ,vy): (-0.470000, -1.620000)
+Our Position (X,Y): (34.059389, -117.821090)
+other (X,Y): (33.987882, -117.882042)
+
+Future latitude distance of plane A (0.000000, -0.005893, -0.005893)
+Future longitude distance of plane A (0.000000, -0.016896, -0.016896)
+Our Predicted position: (34.059391, -117.821091)
+
+Future latitude distance of plane A (-0.410000, -0.534573, -0.124573)
+Future longitude distance of plane A (-1.585000, -1.671126, -0.086126)
+Our Predicted position: (34.059391, -117.821091)
+
+Future latitude distance of plane A (-0.700000, -0.943253, -0.243253)
+Future longitude distance of plane A (-3.100000, -3.255356, -0.155356)
+Our Predicted position: (34.059391, -117.821091)
+
+Future latitude distance of plane A (-0.870000, -1.231933, -0.361933)
+Future longitude distance of plane A (-4.545000, -4.769586, -0.224586)
+Our Predicted position: (34.059391, -117.821098)
+
+Future latitude distance of plane A (-0.920000, -1.400613, -0.480613)
+Future longitude distance of plane A (-5.920000, -6.213816, -0.293816)
+Our Predicted position: (34.059395, -117.821098)
+
+Future latitude distance of plane A (-0.850000, -1.449293, -0.599293)
+Future longitude distance of plane A (-7.225000, -7.588046, -0.363046)
+Our Predicted position: (34.059395, -117.821098)
+
+Future latitude distance of plane A (-0.660000, -1.377973, -0.717973)
+Future longitude distance of plane A (-8.459999, -8.892275, -0.432276)
+Our Predicted position: (34.059395, -117.821098)
+
+Future latitude distance of plane A (-0.350001, -1.186653, -0.836653)
+Future longitude distance of plane A (-9.624999, -10.126505, -0.501506)
+Our Predicted position: (34.059399, -117.821098)
+
+Future latitude distance of plane A (0.079999, -0.875333, -0.955332)
+Future longitude distance of plane A (-10.719998, -11.290734, -0.570736)
+Our Predicted position: (34.059399, -117.821098)
+
+Future latitude distance of plane A (0.629999, -0.444013, -1.074012)
+Future longitude distance of plane A (-11.744998, -12.384965, -0.639967)
+Our Predicted position: (34.059399, -117.821106)
+
+Future latitude distance of plane A (1.299999, 0.107306, -1.192693)
+Future longitude distance of plane A (-12.699998, -13.409194, -0.709195)
+Our Predicted position: (34.059399, -117.821106)
+
+Future latitude distance of plane A (2.089998, 0.778626, -1.311372)
+Future longitude distance of plane A (-13.584997, -14.363424, -0.778427)
+Our Predicted position: (34.059402, -117.821106)
+
+Future latitude distance of plane A (2.999998, 1.569946, -1.430052)
+Future longitude distance of plane A (-14.399997, -15.247653, -0.847657)
+Our Predicted position: (34.059402, -117.821106)
+
+Future latitude distance of plane A (4.029998, 2.481266, -1.548732)
+Future longitude distance of plane A (-15.144995, -16.061881, -0.916886)
+Our Predicted position: (34.059402, -117.821106)
+
+Future latitude distance of plane A (5.179998, 3.512586, -1.667412)
+Future longitude distance of plane A (-15.819995, -16.806111, -0.986116)
+Our Predicted position: (34.059402, -117.821106)
+
+Future latitude distance of plane A (6.449997, 4.663905, -1.786092)
+Future longitude distance of plane A (-16.424993, -17.480341, -1.055348)
+Our Predicted position: (34.059406, -117.821114)
+
+Future latitude distance of plane A (7.839997, 5.935225, -1.904772)
+Future longitude distance of plane A (-16.959993, -18.084571, -1.124577)
+Our Predicted position: (34.059406, -117.821114)
+
+Future latitude distance of plane A (9.349997, 7.326544, -2.023453)
+Future longitude distance of plane A (-17.424993, -18.618798, -1.193805)
+Our Predicted position: (34.059406, -117.821114)
+
+Future latitude distance of plane A (10.979996, 8.837864, -2.142132)
+Future longitude distance of plane A (-17.819991, -19.083028, -1.263037)
+Our Predicted position: (34.059410, -117.821114)
+
+Future latitude distance of plane A (12.729995, 10.469184, -2.260811)
+Future longitude distance of plane A (-18.144991, -19.477256, -1.332264)
+Our Predicted position: (34.059410, -117.821114)
+
+
+Collision predicted? 0
+Distance between aircraft: 9746.048205
+Our Velocity (vx ,vy): (-0.140000, -1.400000)
+Our Position (X,Y): (34.059387, -117.821107)
+other (X,Y): (34.001038, -117.744234)
+
+Future latitude distance of plane A (0.000000, -0.004680, -0.004680)
+Future longitude distance of plane A (0.000000, -0.016187, -0.016187)
+Our Predicted position: (34.059387, -117.821106)
+
+Future latitude distance of plane A (0.025000, -0.306050, -0.331050)
+Future longitude distance of plane A (-1.290000, -1.523767, -0.233767)
+Our Predicted position: (34.059391, -117.821114)
+
+Future latitude distance of plane A (0.380000, -0.277420, -0.657420)
+Future longitude distance of plane A (-2.360000, -2.811347, -0.451347)
+Our Predicted position: (34.059395, -117.821114)
+
+Future latitude distance of plane A (1.065000, 0.081210, -0.983790)
+Future longitude distance of plane A (-3.210000, -3.878927, -0.668927)
+Our Predicted position: (34.059395, -117.821121)
+
+Future latitude distance of plane A (2.080000, 0.769840, -1.310160)
+Future longitude distance of plane A (-3.840000, -4.726507, -0.886507)
+Our Predicted position: (34.059399, -117.821121)
+
+Future latitude distance of plane A (3.425000, 1.788470, -1.636530)
+Future longitude distance of plane A (-4.250000, -5.354087, -1.104087)
+Our Predicted position: (34.059402, -117.821129)
+
+Future latitude distance of plane A (5.100000, 3.137100, -1.962900)
+Future longitude distance of plane A (-4.439999, -5.761666, -1.321667)
+Our Predicted position: (34.059406, -117.821129)
+
+Future latitude distance of plane A (7.105000, 4.815730, -2.289270)
+Future longitude distance of plane A (-4.409999, -5.949246, -1.539246)
+Our Predicted position: (34.059406, -117.821136)
+
+Future latitude distance of plane A (9.439999, 6.824360, -2.615640)
+Future longitude distance of plane A (-4.159999, -5.916825, -1.756827)
+Our Predicted position: (34.059410, -117.821144)
+
+Future latitude distance of plane A (12.104999, 9.162990, -2.942010)
+Future longitude distance of plane A (-3.689998, -5.664405, -1.974407)
+Our Predicted position: (34.059414, -117.821144)
+
+Future latitude distance of plane A (15.099999, 11.831620, -3.268379)
+Future longitude distance of plane A (-2.999999, -5.191985, -2.191986)
+Our Predicted position: (34.059418, -117.821152)
+
+Future latitude distance of plane A (18.424999, 14.830250, -3.594750)
+Future longitude distance of plane A (-2.089998, -4.499565, -2.409567)
+Our Predicted position: (34.059418, -117.821152)
+
+Future latitude distance of plane A (22.079999, 18.158880, -3.921119)
+Future longitude distance of plane A (-0.959997, -3.587144, -2.627146)
+Our Predicted position: (34.059422, -117.821159)
+
+Future latitude distance of plane A (26.064999, 21.817509, -4.247489)
+Future longitude distance of plane A (0.390004, -2.454724, -2.844728)
+Our Predicted position: (34.059425, -117.821159)
+
+Future latitude distance of plane A (30.379998, 25.806139, -4.573859)
+Future longitude distance of plane A (1.960002, -1.102305, -3.062307)
+Our Predicted position: (34.059429, -117.821167)
+
+Future latitude distance of plane A (35.024998, 30.124769, -4.900229)
+Future longitude distance of plane A (3.750003, 0.470117, -3.279886)
+Our Predicted position: (34.059433, -117.821167)
+
+Future latitude distance of plane A (39.999998, 34.773399, -5.226599)
+Future longitude distance of plane A (5.760004, 2.262537, -3.497467)
+Our Predicted position: (34.059433, -117.821175)
+
+Future latitude distance of plane A (45.304997, 39.752029, -5.552969)
+Future longitude distance of plane A (7.990005, 4.274958, -3.715047)
+Our Predicted position: (34.059437, -117.821175)
+
+Future latitude distance of plane A (50.939997, 45.060659, -5.879338)
+Future longitude distance of plane A (10.440006, 6.507378, -3.932628)
+Our Predicted position: (34.059441, -117.821182)
+
+Future latitude distance of plane A (56.904997, 50.699288, -6.205709)
+Future longitude distance of plane A (13.110005, 8.959800, -4.150205)
+Our Predicted position: (34.059444, -117.821190)
+
+
+Collision predicted? 0
+Distance between aircraft: 9616.819240
+
+
+vx -0.170000
+
+Our Velocity (vx ,vy): (-0.170000, -1.130000)
+Our Position (X,Y): (34.059384, -117.821111)
+other (X,Y): (34.000717, -117.747597)
+
+Future latitude distance of plane A (-0.000000, -0.001402, -0.001402)
+Future longitude distance of plane A (0.000000, -0.013984, -0.013984)
+Our Predicted position: (34.059383, -117.821114)
+
+Future latitude distance of plane A (-0.185000, -0.156732, 0.028268)
+Future longitude distance of plane A (-0.995000, -1.276014, -0.281014)
+Our Predicted position: (34.059383, -117.821114)
+
+Future latitude distance of plane A (-0.400000, -0.342062, 0.057938)
+Future longitude distance of plane A (-1.720000, -2.268044, -0.548044)
+Our Predicted position: (34.059383, -117.821121)
+
+Future latitude distance of plane A (-0.645000, -0.557392, 0.087608)
+Future longitude distance of plane A (-2.175000, -2.990074, -0.815074)
+Our Predicted position: (34.059383, -117.821129)
+
+Future latitude distance of plane A (-0.920000, -0.802722, 0.117278)
+Future longitude distance of plane A (-2.360000, -3.442104, -1.082104)
+Our Predicted position: (34.059383, -117.821129)
+
+Future latitude distance of plane A (-1.225000, -1.078052, 0.146948)
+Future longitude distance of plane A (-2.275000, -3.624134, -1.349134)
+Our Predicted position: (34.059383, -117.821136)
+
+Future latitude distance of plane A (-1.560000, -1.383382, 0.176618)
+Future longitude distance of plane A (-1.920000, -3.536164, -1.616164)
+Our Predicted position: (34.059383, -117.821144)
+
+Future latitude distance of plane A (-1.925000, -1.718712, 0.206288)
+Future longitude distance of plane A (-1.295000, -3.178194, -1.883194)
+Our Predicted position: (34.059383, -117.821144)
+
+Future latitude distance of plane A (-2.320000, -2.084042, 0.235958)
+Future longitude distance of plane A (-0.400001, -2.550224, -2.150223)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (-2.745000, -2.479372, 0.265628)
+Future longitude distance of plane A (0.764999, -1.652254, -2.417253)
+Our Predicted position: (34.059383, -117.821159)
+
+Future latitude distance of plane A (-3.200000, -2.904702, 0.295298)
+Future longitude distance of plane A (2.199999, -0.484284, -2.684283)
+Our Predicted position: (34.059380, -117.821159)
+
+Future latitude distance of plane A (-3.685000, -3.360032, 0.324968)
+Future longitude distance of plane A (3.904999, 0.953685, -2.951313)
+Our Predicted position: (34.059380, -117.821167)
+
+Future latitude distance of plane A (-4.200000, -3.845362, 0.354638)
+Future longitude distance of plane A (5.879999, 2.661657, -3.218343)
+Our Predicted position: (34.059380, -117.821175)
+
+Future latitude distance of plane A (-4.745000, -4.360692, 0.384308)
+Future longitude distance of plane A (8.124999, 4.639625, -3.485374)
+Our Predicted position: (34.059380, -117.821175)
+
+Future latitude distance of plane A (-5.320000, -4.906022, 0.413978)
+Future longitude distance of plane A (10.639998, 6.887595, -3.752403)
+Our Predicted position: (34.059380, -117.821182)
+
+Future latitude distance of plane A (-5.925000, -5.481352, 0.443648)
+Future longitude distance of plane A (13.424997, 9.405565, -4.019432)
+Our Predicted position: (34.059380, -117.821190)
+
+Future latitude distance of plane A (-6.560000, -6.086682, 0.473318)
+Future longitude distance of plane A (16.479998, 12.193535, -4.286462)
+Our Predicted position: (34.059380, -117.821190)
+
+Future latitude distance of plane A (-7.225000, -6.722012, 0.502988)
+Future longitude distance of plane A (19.804998, 15.251505, -4.553493)
+Our Predicted position: (34.059380, -117.821198)
+
+Future latitude distance of plane A (-7.920000, -7.387342, 0.532658)
+Future longitude distance of plane A (23.399997, 18.579474, -4.820523)
+Our Predicted position: (34.059380, -117.821205)
+
+Future latitude distance of plane A (-8.645000, -8.082672, 0.562328)
+Future longitude distance of plane A (27.264997, 22.177444, -5.087554)
+Our Predicted position: (34.059380, -117.821205)
+
+
+Collision predicted? 0
+Distance between aircraft: 9415.109796
+Our Velocity (vx ,vy): (-0.480000, -1.460000)
+Our Position (X,Y): (34.059381, -117.821125)
+other (X,Y): (34.000717, -117.747597)
+
+Future latitude distance of plane A (-0.000000, -0.001719, -0.001719)
+Future longitude distance of plane A (-0.000000, -0.011320, -0.011320)
+Our Predicted position: (34.059380, -117.821121)
+
+Future latitude distance of plane A (-0.635000, -0.330129, 0.304871)
+Future longitude distance of plane A (-1.625000, -1.309950, 0.315050)
+Our Predicted position: (34.059380, -117.821121)
+
+Future latitude distance of plane A (-1.580000, -0.968539, 0.611461)
+Future longitude distance of plane A (-3.580000, -2.938580, 0.641420)
+Our Predicted position: (34.059376, -117.821114)
+
+Future latitude distance of plane A (-2.835000, -1.916949, 0.918051)
+Future longitude distance of plane A (-5.865000, -4.897210, 0.967790)
+Our Predicted position: (34.059372, -117.821106)
+
+Future latitude distance of plane A (-4.400000, -3.175359, 1.224641)
+Future longitude distance of plane A (-8.480000, -7.185841, 1.294160)
+Our Predicted position: (34.059372, -117.821098)
+
+Future latitude distance of plane A (-6.275000, -4.743769, 1.531231)
+Future longitude distance of plane A (-11.425001, -9.804471, 1.620530)
+Our Predicted position: (34.059368, -117.821091)
+
+Future latitude distance of plane A (-8.460000, -6.622179, 1.837821)
+Future longitude distance of plane A (-14.700001, -12.753101, 1.946900)
+Our Predicted position: (34.059364, -117.821091)
+
+Future latitude distance of plane A (-10.955000, -8.810589, 2.144411)
+Future longitude distance of plane A (-18.305001, -16.031732, 2.273269)
+Our Predicted position: (34.059361, -117.821083)
+
+Future latitude distance of plane A (-13.760000, -11.308999, 2.451001)
+Future longitude distance of plane A (-22.240002, -19.640362, 2.599640)
+Our Predicted position: (34.059361, -117.821075)
+
+Future latitude distance of plane A (-16.875000, -14.117410, 2.757590)
+Future longitude distance of plane A (-26.505002, -23.578993, 2.926010)
+Our Predicted position: (34.059357, -117.821068)
+
+Future latitude distance of plane A (-20.300000, -17.235820, 3.064180)
+Future longitude distance of plane A (-31.100003, -27.847623, 3.252379)
+Our Predicted position: (34.059353, -117.821060)
+
+Future latitude distance of plane A (-24.035000, -20.664230, 3.370770)
+Future longitude distance of plane A (-36.025004, -32.446254, 3.578750)
+Our Predicted position: (34.059353, -117.821053)
+
+Future latitude distance of plane A (-28.080000, -24.402640, 3.677360)
+Future longitude distance of plane A (-41.280004, -37.374884, 3.905119)
+Our Predicted position: (34.059349, -117.821053)
+
+Future latitude distance of plane A (-32.435000, -28.451050, 3.983950)
+Future longitude distance of plane A (-46.865003, -42.633515, 4.231488)
+Our Predicted position: (34.059345, -117.821045)
+
+Future latitude distance of plane A (-37.100000, -32.809460, 4.290540)
+Future longitude distance of plane A (-52.780005, -48.222145, 4.557860)
+Our Predicted position: (34.059341, -117.821037)
+
+Future latitude distance of plane A (-42.075000, -37.477870, 4.597130)
+Future longitude distance of plane A (-59.025006, -54.140776, 4.884231)
+Our Predicted position: (34.059341, -117.821030)
+
+Future latitude distance of plane A (-47.360000, -42.456280, 4.903720)
+Future longitude distance of plane A (-65.600006, -60.389408, 5.210598)
+Our Predicted position: (34.059338, -117.821022)
+
+Future latitude distance of plane A (-52.955000, -47.744690, 5.210310)
+Future longitude distance of plane A (-72.505006, -66.968038, 5.536968)
+Our Predicted position: (34.059334, -117.821014)
+
+Future latitude distance of plane A (-58.860000, -53.343101, 5.516899)
+Future longitude distance of plane A (-79.740008, -73.876668, 5.863340)
+Our Predicted position: (34.059330, -117.821014)
+
+Future latitude distance of plane A (-65.075000, -59.251511, 5.823490)
+Future longitude distance of plane A (-87.305009, -81.115300, 6.189710)
+Our Predicted position: (34.059330, -117.821007)
+
+
+Collision predicted? 0
+Distance between aircraft: 9415.810790
+
+
+vx -0.460000
+
+Our Velocity (vx ,vy): (-0.460000, -1.610000)
+Our Position (X,Y): (34.059378, -117.821142)
+other (X,Y): (34.000351, -117.750904)
+
+Future latitude distance of plane A (0.000000, -0.004799, -0.004799)
+Future longitude distance of plane A (-0.000000, -0.014609, -0.014609)
+Our Predicted position: (34.059380, -117.821144)
+
+Future latitude distance of plane A (-0.450000, -0.474579, -0.024579)
+Future longitude distance of plane A (-1.685000, -1.551259, 0.133741)
+Our Predicted position: (34.059380, -117.821136)
+
+Future latitude distance of plane A (-0.880000, -0.924359, -0.044359)
+Future longitude distance of plane A (-3.520000, -3.237909, 0.282091)
+Our Predicted position: (34.059380, -117.821136)
+
+Future latitude distance of plane A (-1.290000, -1.354139, -0.064139)
+Future longitude distance of plane A (-5.505000, -5.074559, 0.430441)
+Our Predicted position: (34.059380, -117.821136)
+
+Future latitude distance of plane A (-1.680000, -1.763919, -0.083919)
+Future longitude distance of plane A (-7.640000, -7.061209, 0.578790)
+Our Predicted position: (34.059380, -117.821129)
+
+Future latitude distance of plane A (-2.050000, -2.153699, -0.103699)
+Future longitude distance of plane A (-9.925000, -9.197859, 0.727140)
+Our Predicted position: (34.059380, -117.821129)
+
+Future latitude distance of plane A (-2.400000, -2.523479, -0.123479)
+Future longitude distance of plane A (-12.359999, -11.484510, 0.875490)
+Our Predicted position: (34.059380, -117.821121)
+
+Future latitude distance of plane A (-2.730000, -2.873259, -0.143259)
+Future longitude distance of plane A (-14.945000, -13.921160, 1.023840)
+Our Predicted position: (34.059380, -117.821121)
+
+Future latitude distance of plane A (-3.040001, -3.203039, -0.163039)
+Future longitude distance of plane A (-17.679999, -16.507810, 1.172190)
+Our Predicted position: (34.059380, -117.821121)
+
+Future latitude distance of plane A (-3.330001, -3.512820, -0.182819)
+Future longitude distance of plane A (-20.564999, -19.244460, 1.320539)
+Our Predicted position: (34.059380, -117.821114)
+
+Future latitude distance of plane A (-3.600001, -3.802600, -0.202599)
+Future longitude distance of plane A (-23.599999, -22.131109, 1.468890)
+Our Predicted position: (34.059380, -117.821114)
+
+Future latitude distance of plane A (-3.850001, -4.072380, -0.222379)
+Future longitude distance of plane A (-26.785000, -25.167758, 1.617241)
+Our Predicted position: (34.059380, -117.821114)
+
+Future latitude distance of plane A (-4.080001, -4.322160, -0.242159)
+Future longitude distance of plane A (-30.119998, -28.354409, 1.765589)
+Our Predicted position: (34.059380, -117.821106)
+
+Future latitude distance of plane A (-4.290002, -4.551940, -0.261939)
+Future longitude distance of plane A (-33.604998, -31.691058, 1.913940)
+Our Predicted position: (34.059380, -117.821106)
+
+Future latitude distance of plane A (-4.480002, -4.761721, -0.281719)
+Future longitude distance of plane A (-37.239999, -35.177709, 2.062290)
+Our Predicted position: (34.059380, -117.821098)
+
+Future latitude distance of plane A (-4.650002, -4.951501, -0.301499)
+Future longitude distance of plane A (-41.024997, -38.814357, 2.210640)
+Our Predicted position: (34.059380, -117.821098)
+
+Future latitude distance of plane A (-4.800003, -5.121281, -0.321279)
+Future longitude distance of plane A (-44.959997, -42.601008, 2.358989)
+Our Predicted position: (34.059380, -117.821098)
+
+Future latitude distance of plane A (-4.930003, -5.271061, -0.341058)
+Future longitude distance of plane A (-49.044997, -46.537657, 2.507341)
+Our Predicted position: (34.059380, -117.821091)
+
+Future latitude distance of plane A (-5.040003, -5.400842, -0.360839)
+Future longitude distance of plane A (-53.279996, -50.624307, 2.655688)
+Our Predicted position: (34.059383, -117.821091)
+
+Future latitude distance of plane A (-5.130003, -5.510622, -0.380619)
+Future longitude distance of plane A (-57.664996, -54.860956, 2.804040)
+Our Predicted position: (34.059383, -117.821091)
+
+
+Collision predicted? 0
+Distance between aircraft: 9228.320553
+Our Velocity (vx ,vy): (-0.390000, -1.640000)
+Our Position (X,Y): (34.059375, -117.821157)
+other (X,Y): (34.000214, -117.752586)
+
+Future latitude distance of plane A (0.000000, -0.004596, -0.004596)
+Future longitude distance of plane A (-0.000000, -0.016102, -0.016102)
+Our Predicted position: (34.059376, -117.821159)
+
+Future latitude distance of plane A (-0.355000, -0.428826, -0.073826)
+Future longitude distance of plane A (-1.655000, -1.641432, 0.013568)
+Our Predicted position: (34.059376, -117.821159)
+
+Future latitude distance of plane A (-0.640000, -0.783056, -0.143056)
+Future longitude distance of plane A (-3.340000, -3.296762, 0.043238)
+Our Predicted position: (34.059376, -117.821159)
+
+Future latitude distance of plane A (-0.855000, -1.067286, -0.212286)
+Future longitude distance of plane A (-5.055000, -4.982092, 0.072908)
+Our Predicted position: (34.059376, -117.821159)
+
+Future latitude distance of plane A (-1.000000, -1.281516, -0.281516)
+Future longitude distance of plane A (-6.800000, -6.697422, 0.102578)
+Our Predicted position: (34.059380, -117.821152)
+
+Future latitude distance of plane A (-1.075000, -1.425746, -0.350746)
+Future longitude distance of plane A (-8.574999, -8.442752, 0.132248)
+Our Predicted position: (34.059380, -117.821152)
+
+Future latitude distance of plane A (-1.080000, -1.499975, -0.419976)
+Future longitude distance of plane A (-10.380000, -10.218082, 0.161918)
+Our Predicted position: (34.059380, -117.821152)
+
+Future latitude distance of plane A (-1.014999, -1.504205, -0.489206)
+Future longitude distance of plane A (-12.214999, -12.023412, 0.191587)
+Our Predicted position: (34.059380, -117.821152)
+
+Future latitude distance of plane A (-0.879999, -1.438435, -0.558436)
+Future longitude distance of plane A (-14.079999, -13.858741, 0.221258)
+Our Predicted position: (34.059380, -117.821152)
+
+Future latitude distance of plane A (-0.674999, -1.302665, -0.627666)
+Future longitude distance of plane A (-15.974999, -15.724071, 0.250928)
+Our Predicted position: (34.059380, -117.821152)
+
+Future latitude distance of plane A (-0.399999, -1.096894, -0.696896)
+Future longitude distance of plane A (-17.899998, -17.619401, 0.280597)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (-0.054999, -0.821124, -0.766126)
+Future longitude distance of plane A (-19.854997, -19.544731, 0.310266)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (0.360002, -0.475354, -0.835356)
+Future longitude distance of plane A (-21.839998, -21.500059, 0.339939)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (0.845002, -0.059584, -0.904586)
+Future longitude distance of plane A (-23.854997, -23.485390, 0.369608)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (1.400002, 0.426187, -0.973816)
+Future longitude distance of plane A (-25.899996, -25.500720, 0.399276)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (2.025003, 0.981957, -1.043046)
+Future longitude distance of plane A (-27.974997, -27.546050, 0.428947)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (2.720003, 1.607727, -1.112276)
+Future longitude distance of plane A (-30.079996, -29.621378, 0.458618)
+Our Predicted position: (34.059383, -117.821152)
+
+Future latitude distance of plane A (3.485004, 2.303498, -1.181506)
+Future longitude distance of plane A (-32.214995, -31.726709, 0.488286)
+Our Predicted position: (34.059387, -117.821152)
+
+Future latitude distance of plane A (4.320004, 3.069268, -1.250736)
+Future longitude distance of plane A (-34.379996, -33.862039, 0.517957)
+Our Predicted position: (34.059387, -117.821144)
+
+Future latitude distance of plane A (5.225004, 3.905038, -1.319966)
+Future longitude distance of plane A (-36.574995, -36.027367, 0.547628)
+Our Predicted position: (34.059387, -117.821144)
+
+
+Collision predicted? 0
+Distance between aircraft: 9131.843694
+
+
+vx -0.230000
+
+Our Velocity (vx ,vy): (-0.230000, -1.550000)
+Our Position (X,Y): (34.059373, -117.821171)
+other (X,Y): (34.000214, -117.752586)
+
+Future latitude distance of plane A (0.000000, -0.003890, -0.003890)
+Future longitude distance of plane A (0.000000, -0.016395, -0.016395)
+Our Predicted position: (34.059372, -117.821175)
+
+Future latitude distance of plane A (-0.150000, -0.312130, -0.162130)
+Future longitude distance of plane A (-1.505000, -1.610405, -0.105405)
+Our Predicted position: (34.059376, -117.821175)
+
+Future latitude distance of plane A (-0.140000, -0.460370, -0.320370)
+Future longitude distance of plane A (-2.920000, -3.114415, -0.194415)
+Our Predicted position: (34.059376, -117.821175)
+
+Future latitude distance of plane A (0.030000, -0.448610, -0.478610)
+Future longitude distance of plane A (-4.244999, -4.528424, -0.283425)
+Our Predicted position: (34.059376, -117.821175)
+
+Future latitude distance of plane A (0.360000, -0.276850, -0.636850)
+Future longitude distance of plane A (-5.480000, -5.852434, -0.372435)
+Our Predicted position: (34.059380, -117.821175)
+
+Future latitude distance of plane A (0.850000, 0.054910, -0.795090)
+Future longitude distance of plane A (-6.625000, -7.086444, -0.461445)
+Our Predicted position: (34.059380, -117.821182)
+
+Future latitude distance of plane A (1.500000, 0.546670, -0.953330)
+Future longitude distance of plane A (-7.679999, -8.230454, -0.550456)
+Our Predicted position: (34.059383, -117.821182)
+
+Future latitude distance of plane A (2.310000, 1.198429, -1.111570)
+Future longitude distance of plane A (-8.644999, -9.284463, -0.639465)
+Our Predicted position: (34.059383, -117.821182)
+
+Future latitude distance of plane A (3.279999, 2.010189, -1.269810)
+Future longitude distance of plane A (-9.519999, -10.248474, -0.728475)
+Our Predicted position: (34.059383, -117.821182)
+
+Future latitude distance of plane A (4.409999, 2.981949, -1.428050)
+Future longitude distance of plane A (-10.304998, -11.122484, -0.817485)
+Our Predicted position: (34.059387, -117.821190)
+
+Future latitude distance of plane A (5.699999, 4.113709, -1.586290)
+Future longitude distance of plane A (-10.999998, -11.906494, -0.906495)
+Our Predicted position: (34.059387, -117.821190)
+
+Future latitude distance of plane A (7.149999, 5.405469, -1.744530)
+Future longitude distance of plane A (-11.604997, -12.600503, -0.995505)
+Our Predicted position: (34.059387, -117.821190)
+
+Future latitude distance of plane A (8.759999, 6.857229, -1.902770)
+Future longitude distance of plane A (-12.119996, -13.204512, -1.084516)
+Our Predicted position: (34.059391, -117.821190)
+
+Future latitude distance of plane A (10.529998, 8.468989, -2.061010)
+Future longitude distance of plane A (-12.544997, -13.718522, -1.173526)
+Our Predicted position: (34.059391, -117.821190)
+
+Future latitude distance of plane A (12.459998, 10.240748, -2.219250)
+Future longitude distance of plane A (-12.879996, -14.142531, -1.262536)
+Our Predicted position: (34.059395, -117.821198)
+
+Future latitude distance of plane A (14.549998, 12.172508, -2.377490)
+Future longitude distance of plane A (-13.124996, -14.476540, -1.351544)
+Our Predicted position: (34.059395, -117.821198)
+
+Future latitude distance of plane A (16.799998, 14.264268, -2.535729)
+Future longitude distance of plane A (-13.279995, -14.720551, -1.440556)
+Our Predicted position: (34.059395, -117.821198)
+
+Future latitude distance of plane A (19.209997, 16.516028, -2.693969)
+Future longitude distance of plane A (-13.344994, -14.874560, -1.529566)
+Our Predicted position: (34.059399, -117.821198)
+
+Future latitude distance of plane A (21.779997, 18.927787, -2.852210)
+Future longitude distance of plane A (-13.319994, -14.938569, -1.618574)
+Our Predicted position: (34.059399, -117.821205)
+
+Future latitude distance of plane A (24.509997, 21.499547, -3.010450)
+Future longitude distance of plane A (-13.204993, -14.912577, -1.707585)
+Our Predicted position: (34.059399, -117.821205)
+
+
+Collision predicted? 0
+Distance between aircraft: 9132.546009
+Our Velocity (vx ,vy): (-0.360000, -1.340000)
+Our Position (X,Y): (34.059369, -117.821188)
+other (X,Y): (34.000031, -117.754211)
+
+Future latitude distance of plane A (-0.000000, -0.002308, -0.002308)
+Future longitude distance of plane A (0.000000, -0.015487, -0.015487)
+Our Predicted position: (34.059368, -117.821190)
+
+Future latitude distance of plane A (-0.425000, -0.298738, 0.126262)
+Future longitude distance of plane A (-1.235000, -1.458177, -0.223177)
+Our Predicted position: (34.059368, -117.821190)
+
+Future latitude distance of plane A (-0.980000, -0.725168, 0.254832)
+Future longitude distance of plane A (-2.260000, -2.690867, -0.430867)
+Our Predicted position: (34.059368, -117.821198)
+
+Future latitude distance of plane A (-1.665000, -1.281598, 0.383402)
+Future longitude distance of plane A (-3.075000, -3.713557, -0.638557)
+Our Predicted position: (34.059364, -117.821198)
+
+Future latitude distance of plane A (-2.480000, -1.968028, 0.511972)
+Future longitude distance of plane A (-3.680001, -4.526248, -0.846247)
+Our Predicted position: (34.059364, -117.821205)
+
+Future latitude distance of plane A (-3.425000, -2.784458, 0.640542)
+Future longitude distance of plane A (-4.075001, -5.128938, -1.053937)
+Our Predicted position: (34.059364, -117.821205)
+
+Future latitude distance of plane A (-4.500000, -3.730888, 0.769112)
+Future longitude distance of plane A (-4.260001, -5.521629, -1.261627)
+Our Predicted position: (34.059361, -117.821213)
+
+Future latitude distance of plane A (-5.705000, -4.807318, 0.897682)
+Future longitude distance of plane A (-4.235002, -5.704319, -1.469317)
+Our Predicted position: (34.059361, -117.821213)
+
+Future latitude distance of plane A (-7.040000, -6.013748, 1.026252)
+Future longitude distance of plane A (-4.000003, -5.677009, -1.677006)
+Our Predicted position: (34.059361, -117.821220)
+
+Future latitude distance of plane A (-8.505001, -7.350179, 1.154822)
+Future longitude distance of plane A (-3.555004, -5.439700, -1.884696)
+Our Predicted position: (34.059361, -117.821228)
+
+Future latitude distance of plane A (-10.100001, -8.816609, 1.283392)
+Future longitude distance of plane A (-2.900005, -4.992391, -2.092386)
+Our Predicted position: (34.059357, -117.821228)
+
+Future latitude distance of plane A (-11.825001, -10.413039, 1.411962)
+Future longitude distance of plane A (-2.035006, -4.335082, -2.300076)
+Our Predicted position: (34.059357, -117.821236)
+
+Future latitude distance of plane A (-13.680001, -12.139469, 1.540532)
+Future longitude distance of plane A (-0.960006, -3.467772, -2.507766)
+Our Predicted position: (34.059357, -117.821236)
+
+Future latitude distance of plane A (-15.665001, -13.995899, 1.669102)
+Future longitude distance of plane A (0.324993, -2.390464, -2.715457)
+Our Predicted position: (34.059353, -117.821243)
+
+Future latitude distance of plane A (-17.780001, -15.982329, 1.797672)
+Future longitude distance of plane A (1.819992, -1.103154, -2.923146)
+Our Predicted position: (34.059353, -117.821243)
+
+Future latitude distance of plane A (-20.025001, -18.098760, 1.926242)
+Future longitude distance of plane A (3.524990, 0.394155, -3.130835)
+Our Predicted position: (34.059353, -117.821251)
+
+Future latitude distance of plane A (-22.400002, -20.345190, 2.054812)
+Future longitude distance of plane A (5.439989, 2.101463, -3.338526)
+Our Predicted position: (34.059349, -117.821251)
+
+Future latitude distance of plane A (-24.905002, -22.721620, 2.183382)
+Future longitude distance of plane A (7.564988, 4.018772, -3.546215)
+Our Predicted position: (34.059349, -117.821259)
+
+Future latitude distance of plane A (-27.540002, -25.228050, 2.311952)
+Future longitude distance of plane A (9.899986, 6.146082, -3.753904)
+Our Predicted position: (34.059349, -117.821259)
+
+Future latitude distance of plane A (-30.305002, -27.864480, 2.440522)
+Future longitude distance of plane A (12.444984, 8.483389, -3.961595)
+Our Predicted position: (34.059349, -117.821266)
+
+
+Collision predicted? 0
+Distance between aircraft: 9044.923438
+
+
+vx -0.570000
+
+Our Velocity (vx ,vy): (-0.570000, -1.470000)
+Our Position (X,Y): (34.059364, -117.821208)
+other (X,Y): (33.999892, -117.755699)
+
+Future latitude distance of plane A (-0.000000, -0.003613, -0.003613)
+Future longitude distance of plane A (-0.000000, -0.013408, -0.013408)
+Our Predicted position: (34.059364, -117.821205)
+
+Future latitude distance of plane A (-0.675000, -0.470923, 0.204077)
+Future longitude distance of plane A (-1.535000, -1.419838, 0.115162)
+Our Predicted position: (34.059361, -117.821205)
+
+Future latitude distance of plane A (-1.560000, -1.148233, 0.411767)
+Future longitude distance of plane A (-3.200000, -2.956268, 0.243732)
+Our Predicted position: (34.059361, -117.821205)
+
+Future latitude distance of plane A (-2.655000, -2.035543, 0.619457)
+Future longitude distance of plane A (-4.995000, -4.622698, 0.372302)
+Our Predicted position: (34.059357, -117.821198)
+
+Future latitude distance of plane A (-3.960000, -3.132853, 0.827147)
+Future longitude distance of plane A (-6.920000, -6.419128, 0.500872)
+Our Predicted position: (34.059357, -117.821198)
+
+Future latitude distance of plane A (-5.475000, -4.440163, 1.034837)
+Future longitude distance of plane A (-8.975000, -8.345558, 0.629442)
+Our Predicted position: (34.059353, -117.821198)
+
+Future latitude distance of plane A (-7.200000, -5.957473, 1.242527)
+Future longitude distance of plane A (-11.160000, -10.401988, 0.758012)
+Our Predicted position: (34.059353, -117.821190)
+
+Future latitude distance of plane A (-9.134999, -7.684783, 1.450217)
+Future longitude distance of plane A (-13.475000, -12.588418, 0.886582)
+Our Predicted position: (34.059349, -117.821190)
+
+Future latitude distance of plane A (-11.279999, -9.622093, 1.657907)
+Future longitude distance of plane A (-15.920000, -14.904848, 1.015152)
+Our Predicted position: (34.059349, -117.821190)
+
+Future latitude distance of plane A (-13.634999, -11.769402, 1.865597)
+Future longitude distance of plane A (-18.495000, -17.351278, 1.143722)
+Our Predicted position: (34.059345, -117.821190)
+
+Future latitude distance of plane A (-16.199999, -14.126712, 2.073286)
+Future longitude distance of plane A (-21.200001, -19.927709, 1.272292)
+Our Predicted position: (34.059345, -117.821182)
+
+Future latitude distance of plane A (-18.974999, -16.694022, 2.280977)
+Future longitude distance of plane A (-24.035000, -22.634139, 1.400861)
+Our Predicted position: (34.059341, -117.821182)
+
+Future latitude distance of plane A (-21.959999, -19.471332, 2.488667)
+Future longitude distance of plane A (-26.999999, -25.470569, 1.529430)
+Our Predicted position: (34.059341, -117.821182)
+
+Future latitude distance of plane A (-25.154998, -22.458642, 2.696356)
+Future longitude distance of plane A (-30.095000, -28.436999, 1.658001)
+Our Predicted position: (34.059338, -117.821175)
+
+Future latitude distance of plane A (-28.559998, -25.655951, 2.904047)
+Future longitude distance of plane A (-33.319999, -31.533429, 1.786570)
+Our Predicted position: (34.059338, -117.821175)
+
+Future latitude distance of plane A (-32.174998, -29.063261, 3.111737)
+Future longitude distance of plane A (-36.675001, -34.759859, 1.915141)
+Our Predicted position: (34.059334, -117.821175)
+
+Future latitude distance of plane A (-35.999997, -32.680571, 3.319426)
+Future longitude distance of plane A (-40.160000, -38.116289, 2.043711)
+Our Predicted position: (34.059334, -117.821167)
+
+Future latitude distance of plane A (-40.034996, -36.507881, 3.527116)
+Future longitude distance of plane A (-43.774999, -41.602719, 2.172280)
+Our Predicted position: (34.059330, -117.821167)
+
+Future latitude distance of plane A (-44.279997, -40.545190, 3.734807)
+Future longitude distance of plane A (-47.520000, -45.219148, 2.300853)
+Our Predicted position: (34.059330, -117.821167)
+
+Future latitude distance of plane A (-48.734996, -44.792500, 3.942496)
+Future longitude distance of plane A (-51.394999, -48.965578, 2.429422)
+Our Predicted position: (34.059330, -117.821159)
+
+
+Collision predicted? 0
+Distance between aircraft: 8963.855078
+Our Velocity (vx ,vy): (-0.510000, -1.480000)
+Our Position (X,Y): (34.059360, -117.821221)
+other (X,Y): (33.999710, -117.757519)
+
+Future latitude distance of plane A (0.000000, -0.005696, -0.005696)
+Future longitude distance of plane A (-0.000000, -0.014701, -0.014701)
+Our Predicted position: (34.059361, -117.821220)
+
+Future latitude distance of plane A (-0.480000, -0.545036, -0.065036)
+Future longitude distance of plane A (-1.485000, -1.489811, -0.004811)
+Our Predicted position: (34.059361, -117.821220)
+
+Future latitude distance of plane A (-0.900000, -1.024376, -0.124376)
+Future longitude distance of plane A (-2.980000, -2.974921, 0.005079)
+Our Predicted position: (34.059361, -117.821220)
+
+Future latitude distance of plane A (-1.260000, -1.443716, -0.183716)
+Future longitude distance of plane A (-4.485000, -4.470031, 0.014969)
+Our Predicted position: (34.059361, -117.821220)
+
+Future latitude distance of plane A (-1.560000, -1.803056, -0.243056)
+Future longitude distance of plane A (-6.000000, -5.975141, 0.024859)
+Our Predicted position: (34.059364, -117.821220)
+
+Future latitude distance of plane A (-1.800000, -2.102396, -0.302396)
+Future longitude distance of plane A (-7.525000, -7.490251, 0.034749)
+Our Predicted position: (34.059364, -117.821220)
+
+Future latitude distance of plane A (-1.980000, -2.341736, -0.361737)
+Future longitude distance of plane A (-9.060000, -9.015361, 0.044639)
+Our Predicted position: (34.059364, -117.821220)
+
+Future latitude distance of plane A (-2.100000, -2.521076, -0.421076)
+Future longitude distance of plane A (-10.605000, -10.550471, 0.054529)
+Our Predicted position: (34.059364, -117.821220)
+
+Future latitude distance of plane A (-2.160000, -2.640416, -0.480416)
+Future longitude distance of plane A (-12.160000, -12.095580, 0.064419)
+Our Predicted position: (34.059364, -117.821220)
+
+Future latitude distance of plane A (-2.160000, -2.699756, -0.539756)
+Future longitude distance of plane A (-13.724999, -13.650691, 0.074309)
+Our Predicted position: (34.059364, -117.821220)
+
+Future latitude distance of plane A (-2.100000, -2.699096, -0.599096)
+Future longitude distance of plane A (-15.300000, -15.215801, 0.084199)
+Our Predicted position: (34.059364, -117.821220)
+
+Future latitude distance of plane A (-1.980000, -2.638436, -0.658437)
+Future longitude distance of plane A (-16.885000, -16.790910, 0.094090)
+Our Predicted position: (34.059368, -117.821220)
+
+Future latitude distance of plane A (-1.800000, -2.517776, -0.717777)
+Future longitude distance of plane A (-18.480000, -18.376021, 0.103978)
+Our Predicted position: (34.059368, -117.821220)
+
+Future latitude distance of plane A (-1.560000, -2.337116, -0.777116)
+Future longitude distance of plane A (-20.084999, -19.971130, 0.113869)
+Our Predicted position: (34.059368, -117.821220)
+
+Future latitude distance of plane A (-1.260000, -2.096456, -0.836456)
+Future longitude distance of plane A (-21.700000, -21.576240, 0.123761)
+Our Predicted position: (34.059368, -117.821220)
+
+Future latitude distance of plane A (-0.899999, -1.795796, -0.895797)
+Future longitude distance of plane A (-23.325000, -23.191351, 0.133649)
+Our Predicted position: (34.059368, -117.821220)
+
+Future latitude distance of plane A (-0.480000, -1.435136, -0.955136)
+Future longitude distance of plane A (-24.959999, -24.816460, 0.143539)
+Our Predicted position: (34.059368, -117.821220)
+
+Future latitude distance of plane A (0.000000, -1.014475, -1.014476)
+Future longitude distance of plane A (-26.604998, -26.451571, 0.153428)
+Our Predicted position: (34.059368, -117.821220)
+
+Future latitude distance of plane A (0.540000, -0.533816, -1.073816)
+Future longitude distance of plane A (-28.259998, -28.096680, 0.163318)
+Our Predicted position: (34.059372, -117.821220)
+
+Future latitude distance of plane A (1.140001, 0.006844, -1.133157)
+Future longitude distance of plane A (-29.924999, -29.751789, 0.173210)
+Our Predicted position: (34.059372, -117.821220)
+
+
+Collision predicted? 0
+Distance between aircraft: 8867.316436
+
+
+vx -0.460000
+
+Our Velocity (vx ,vy): (-0.460000, -1.290000)
+Our Position (X,Y): (34.059356, -117.821238)
+other (X,Y): (34.025774, -117.733226)
+
+Future latitude distance of plane A (0.000000, -0.005097, -0.005097)
+Future longitude distance of plane A (0.000000, -0.014789, -0.014789)
+Our Predicted position: (34.059357, -117.821236)
+
+Future latitude distance of plane A (-0.435000, -0.489547, -0.054547)
+Future longitude distance of plane A (-1.195000, -1.397698, -0.202699)
+Our Predicted position: (34.059357, -117.821243)
+
+Future latitude distance of plane A (-0.820000, -0.923997, -0.103997)
+Future longitude distance of plane A (-2.200000, -2.590609, -0.390609)
+Our Predicted position: (34.059357, -117.821243)
+
+Future latitude distance of plane A (-1.155000, -1.308447, -0.153447)
+Future longitude distance of plane A (-3.015000, -3.593518, -0.578519)
+Our Predicted position: (34.059357, -117.821251)
+
+Future latitude distance of plane A (-1.440000, -1.642897, -0.202897)
+Future longitude distance of plane A (-3.639999, -4.406428, -0.766429)
+Our Predicted position: (34.059357, -117.821251)
+
+Future latitude distance of plane A (-1.675000, -1.927347, -0.252347)
+Future longitude distance of plane A (-4.074999, -5.029338, -0.954339)
+Our Predicted position: (34.059357, -117.821259)
+
+Future latitude distance of plane A (-1.860000, -2.161797, -0.301797)
+Future longitude distance of plane A (-4.319999, -5.462247, -1.142249)
+Our Predicted position: (34.059361, -117.821259)
+
+Future latitude distance of plane A (-1.995000, -2.346247, -0.351247)
+Future longitude distance of plane A (-4.374998, -5.705157, -1.330159)
+Our Predicted position: (34.059361, -117.821266)
+
+Future latitude distance of plane A (-2.080001, -2.480698, -0.400697)
+Future longitude distance of plane A (-4.239998, -5.758067, -1.518069)
+Our Predicted position: (34.059361, -117.821266)
+
+Future latitude distance of plane A (-2.115001, -2.565148, -0.450147)
+Future longitude distance of plane A (-3.914997, -5.620977, -1.705979)
+Our Predicted position: (34.059361, -117.821274)
+
+Future latitude distance of plane A (-2.100001, -2.599598, -0.499597)
+Future longitude distance of plane A (-3.399997, -5.293885, -1.893889)
+Our Predicted position: (34.059361, -117.821274)
+
+Future latitude distance of plane A (-2.035001, -2.584048, -0.549047)
+Future longitude distance of plane A (-2.694996, -4.776794, -2.081798)
+Our Predicted position: (34.059361, -117.821281)
+
+Future latitude distance of plane A (-1.920001, -2.518498, -0.598497)
+Future longitude distance of plane A (-1.799995, -4.069705, -2.269710)
+Our Predicted position: (34.059361, -117.821281)
+
+Future latitude distance of plane A (-1.755002, -2.402948, -0.647947)
+Future longitude distance of plane A (-0.714996, -3.172614, -2.457618)
+Our Predicted position: (34.059361, -117.821289)
+
+Future latitude distance of plane A (-1.540002, -2.237399, -0.697397)
+Future longitude distance of plane A (0.560006, -2.085523, -2.645529)
+Our Predicted position: (34.059361, -117.821289)
+
+Future latitude distance of plane A (-1.275002, -2.021849, -0.746847)
+Future longitude distance of plane A (2.025008, -0.808431, -2.833439)
+Our Predicted position: (34.059364, -117.821297)
+
+Future latitude distance of plane A (-0.960002, -1.756299, -0.796297)
+Future longitude distance of plane A (3.680008, 0.658658, -3.021350)
+Our Predicted position: (34.059364, -117.821297)
+
+Future latitude distance of plane A (-0.595003, -1.440750, -0.845747)
+Future longitude distance of plane A (5.525008, 2.315750, -3.209258)
+Our Predicted position: (34.059364, -117.821297)
+
+Future latitude distance of plane A (-0.180003, -1.075199, -0.895197)
+Future longitude distance of plane A (7.560010, 4.162841, -3.397169)
+Our Predicted position: (34.059364, -117.821304)
+
+Future latitude distance of plane A (0.284997, -0.659650, -0.944647)
+Future longitude distance of plane A (9.785012, 6.199933, -3.585079)
+Our Predicted position: (34.059364, -117.821304)
+
+
+Collision predicted? 0
+Distance between aircraft: 8937.644678
+Our Velocity (vx ,vy): (-0.160000, -1.170000)
+Our Position (X,Y): (34.059352, -117.821255)
+other (X,Y): (34.025774, -117.733226)
+
+Future latitude distance of plane A (0.000000, -0.004582, -0.004582)
+Future longitude distance of plane A (0.000000, -0.012893, -0.012893)
+Our Predicted position: (34.059353, -117.821259)
+
+Future latitude distance of plane A (-0.010000, -0.311282, -0.301282)
+Future longitude distance of plane A (-1.110000, -1.241573, -0.131573)
+Our Predicted position: (34.059353, -117.821259)
+
+Future latitude distance of plane A (0.280000, -0.317982, -0.597982)
+Future longitude distance of plane A (-2.100000, -2.350253, -0.250253)
+Our Predicted position: (34.059357, -117.821259)
+
+Future latitude distance of plane A (0.870000, -0.024682, -0.894682)
+Future longitude distance of plane A (-2.970000, -3.338932, -0.368933)
+Our Predicted position: (34.059361, -117.821259)
+
+Future latitude distance of plane A (1.760000, 0.568618, -1.191382)
+Future longitude distance of plane A (-3.720000, -4.207613, -0.487613)
+Our Predicted position: (34.059364, -117.821266)
+
+Future latitude distance of plane A (2.950000, 1.461918, -1.488082)
+Future longitude distance of plane A (-4.350000, -4.956293, -0.606293)
+Our Predicted position: (34.059364, -117.821266)
+
+Future latitude distance of plane A (4.440000, 2.655219, -1.784781)
+Future longitude distance of plane A (-4.859999, -5.584973, -0.724973)
+Our Predicted position: (34.059368, -117.821266)
+
+Future latitude distance of plane A (6.230000, 4.148519, -2.081481)
+Future longitude distance of plane A (-5.249999, -6.093653, -0.843653)
+Our Predicted position: (34.059372, -117.821274)
+
+Future latitude distance of plane A (8.320000, 5.941819, -2.378181)
+Future longitude distance of plane A (-5.520000, -6.482332, -0.962333)
+Our Predicted position: (34.059372, -117.821274)
+
+Future latitude distance of plane A (10.710001, 8.035119, -2.674882)
+Future longitude distance of plane A (-5.670000, -6.751012, -1.081013)
+Our Predicted position: (34.059376, -117.821274)
+
+Future latitude distance of plane A (13.400001, 10.428419, -2.971581)
+Future longitude distance of plane A (-5.700000, -6.899692, -1.199693)
+Our Predicted position: (34.059380, -117.821281)
+
+Future latitude distance of plane A (16.390001, 13.121720, -3.268281)
+Future longitude distance of plane A (-5.610000, -6.928372, -1.318372)
+Our Predicted position: (34.059380, -117.821281)
+
+Future latitude distance of plane A (19.680001, 16.115020, -3.564981)
+Future longitude distance of plane A (-5.399999, -6.837052, -1.437053)
+Our Predicted position: (34.059383, -117.821281)
+
+Future latitude distance of plane A (23.270001, 19.408320, -3.861681)
+Future longitude distance of plane A (-5.069999, -6.625732, -1.555733)
+Our Predicted position: (34.059387, -117.821281)
+
+Future latitude distance of plane A (27.160001, 23.001620, -4.158381)
+Future longitude distance of plane A (-4.619999, -6.294411, -1.674412)
+Our Predicted position: (34.059391, -117.821289)
+
+Future latitude distance of plane A (31.350001, 26.894920, -4.455081)
+Future longitude distance of plane A (-4.049999, -5.843092, -1.793093)
+Our Predicted position: (34.059391, -117.821289)
+
+Future latitude distance of plane A (35.840002, 31.088221, -4.751781)
+Future longitude distance of plane A (-3.359999, -5.271770, -1.911772)
+Our Predicted position: (34.059395, -117.821289)
+
+Future latitude distance of plane A (40.630002, 35.581521, -5.048481)
+Future longitude distance of plane A (-2.549999, -4.580451, -2.030453)
+Our Predicted position: (34.059399, -117.821297)
+
+Future latitude distance of plane A (45.720002, 40.374821, -5.345181)
+Future longitude distance of plane A (-1.619999, -3.769130, -2.149131)
+Our Predicted position: (34.059399, -117.821297)
+
+Future latitude distance of plane A (51.110002, 45.468121, -5.641881)
+Future longitude distance of plane A (-0.569999, -2.837811, -2.267812)
+Our Predicted position: (34.059402, -117.821297)
+
+
+Collision predicted? 0
+Distance between aircraft: 8938.841115
+
+
+vx -0.430000
+
+Our Velocity (vx ,vy): (-0.430000, -1.620000)
+Our Position (X,Y): (34.059350, -117.821276)
+other (X,Y): (34.025774, -117.733226)
+
+Future latitude distance of plane A (-0.000000, -0.001616, -0.001616)
+Future longitude distance of plane A (-0.000000, -0.011727, -0.011727)
+Our Predicted position: (34.059349, -117.821274)
+
+Future latitude distance of plane A (-0.565000, -0.299586, 0.265414)
+Future longitude distance of plane A (-1.845000, -1.411677, 0.433323)
+Our Predicted position: (34.059349, -117.821266)
+
+Future latitude distance of plane A (-1.400000, -0.867556, 0.532444)
+Future longitude distance of plane A (-4.140000, -3.261627, 0.878373)
+Our Predicted position: (34.059345, -117.821259)
+
+Future latitude distance of plane A (-2.505000, -1.705526, 0.799474)
+Future longitude distance of plane A (-6.885000, -5.561577, 1.323423)
+Our Predicted position: (34.059341, -117.821251)
+
+Future latitude distance of plane A (-3.880000, -2.813497, 1.066503)
+Future longitude distance of plane A (-10.080000, -8.311528, 1.768472)
+Our Predicted position: (34.059341, -117.821243)
+
+Future latitude distance of plane A (-5.525000, -4.191467, 1.333533)
+Future longitude distance of plane A (-13.725001, -11.511478, 2.213523)
+Our Predicted position: (34.059338, -117.821236)
+
+Future latitude distance of plane A (-7.440000, -5.839437, 1.600563)
+Future longitude distance of plane A (-17.820001, -15.161429, 2.658572)
+Our Predicted position: (34.059334, -117.821228)
+
+Future latitude distance of plane A (-9.625000, -7.757407, 1.867593)
+Future longitude distance of plane A (-22.365001, -19.261379, 3.103622)
+Our Predicted position: (34.059334, -117.821213)
+
+Future latitude distance of plane A (-12.080000, -9.945377, 2.134623)
+Future longitude distance of plane A (-27.360002, -23.811330, 3.548672)
+Our Predicted position: (34.059330, -117.821205)
+
+Future latitude distance of plane A (-14.805001, -12.403347, 2.401653)
+Future longitude distance of plane A (-32.805002, -28.811279, 3.993722)
+Our Predicted position: (34.059330, -117.821198)
+
+Future latitude distance of plane A (-17.800001, -15.131318, 2.668683)
+Future longitude distance of plane A (-38.700003, -34.261230, 4.438773)
+Our Predicted position: (34.059326, -117.821190)
+
+Future latitude distance of plane A (-21.065001, -18.129288, 2.935713)
+Future longitude distance of plane A (-45.045003, -40.161181, 4.883822)
+Our Predicted position: (34.059322, -117.821182)
+
+Future latitude distance of plane A (-24.600001, -21.397258, 3.202743)
+Future longitude distance of plane A (-51.840004, -46.511132, 5.328872)
+Our Predicted position: (34.059322, -117.821175)
+
+Future latitude distance of plane A (-28.405001, -24.935228, 3.469773)
+Future longitude distance of plane A (-59.085003, -53.311082, 5.773921)
+Our Predicted position: (34.059319, -117.821167)
+
+Future latitude distance of plane A (-32.480001, -28.743198, 3.736803)
+Future longitude distance of plane A (-66.780005, -60.561032, 6.218973)
+Our Predicted position: (34.059315, -117.821159)
+
+Future latitude distance of plane A (-36.825001, -32.821168, 4.003833)
+Future longitude distance of plane A (-74.925005, -68.260983, 6.664022)
+Our Predicted position: (34.059315, -117.821152)
+
+Future latitude distance of plane A (-41.440001, -37.169139, 4.270863)
+Future longitude distance of plane A (-83.520006, -76.410934, 7.109072)
+Our Predicted position: (34.059311, -117.821136)
+
+Future latitude distance of plane A (-46.325001, -41.787109, 4.537892)
+Future longitude distance of plane A (-92.565008, -85.010885, 7.554123)
+Our Predicted position: (34.059307, -117.821129)
+
+Future latitude distance of plane A (-51.480002, -46.675079, 4.804923)
+Future longitude distance of plane A (-102.060008, -94.060836, 7.999172)
+Our Predicted position: (34.059307, -117.821121)
+
+Future latitude distance of plane A (-56.905002, -51.833049, 5.071953)
+Future longitude distance of plane A (-112.005009, -103.560787, 8.444222)
+Our Predicted position: (34.059303, -117.821114)
+
+
+Collision predicted? 0
+Distance between aircraft: 8940.527298
+Our Velocity (vx ,vy): (-0.320000, -1.380000)
+Our Position (X,Y): (34.059348, -117.821290)
+other (X,Y): (33.998886, -117.765758)
+
+Future latitude distance of plane A (0.000000, -0.004293, -0.004293)
+Future longitude distance of plane A (0.000000, -0.016185, -0.016185)
+Our Predicted position: (34.059349, -117.821289)
+
+Future latitude distance of plane A (-0.265000, -0.378083, -0.113083)
+Future longitude distance of plane A (-1.260000, -1.513545, -0.253545)
+Our Predicted position: (34.059349, -117.821297)
+
+Future latitude distance of plane A (-0.420000, -0.641873, -0.221873)
+Future longitude distance of plane A (-2.280000, -2.770906, -0.490906)
+Our Predicted position: (34.059349, -117.821297)
+
+Future latitude distance of plane A (-0.465000, -0.795663, -0.330663)
+Future longitude distance of plane A (-3.060000, -3.788266, -0.728266)
+Our Predicted position: (34.059353, -117.821304)
+
+Future latitude distance of plane A (-0.400000, -0.839453, -0.439453)
+Future longitude distance of plane A (-3.600000, -4.565626, -0.965626)
+Our Predicted position: (34.059353, -117.821312)
+
+Future latitude distance of plane A (-0.225000, -0.773243, -0.548244)
+Future longitude distance of plane A (-3.900000, -5.102986, -1.202986)
+Our Predicted position: (34.059353, -117.821312)
+
+Future latitude distance of plane A (0.060000, -0.597033, -0.657033)
+Future longitude distance of plane A (-3.960000, -5.400345, -1.440346)
+Our Predicted position: (34.059353, -117.821320)
+
+Future latitude distance of plane A (0.455000, -0.310823, -0.765823)
+Future longitude distance of plane A (-3.780000, -5.457705, -1.677705)
+Our Predicted position: (34.059357, -117.821320)
+
+Future latitude distance of plane A (0.960001, 0.085387, -0.874613)
+Future longitude distance of plane A (-3.360000, -5.275065, -1.915065)
+Our Predicted position: (34.059357, -117.821327)
+
+Future latitude distance of plane A (1.575001, 0.591597, -0.983403)
+Future longitude distance of plane A (-2.700000, -4.852425, -2.152425)
+Our Predicted position: (34.059357, -117.821335)
+
+Future latitude distance of plane A (2.300001, 1.207807, -1.092194)
+Future longitude distance of plane A (-1.800000, -4.189784, -2.389785)
+Our Predicted position: (34.059357, -117.821335)
+
+Future latitude distance of plane A (3.135001, 1.934018, -1.200983)
+Future longitude distance of plane A (-0.660000, -3.287145, -2.627145)
+Our Predicted position: (34.059361, -117.821342)
+
+Future latitude distance of plane A (4.080001, 2.770228, -1.309773)
+Future longitude distance of plane A (0.720001, -2.144504, -2.864505)
+Our Predicted position: (34.059361, -117.821342)
+
+Future latitude distance of plane A (5.135001, 3.716438, -1.418563)
+Future longitude distance of plane A (2.340000, -0.761864, -3.101865)
+Our Predicted position: (34.059361, -117.821350)
+
+Future latitude distance of plane A (6.300001, 4.772648, -1.527353)
+Future longitude distance of plane A (4.200001, 0.860775, -3.339226)
+Our Predicted position: (34.059361, -117.821358)
+
+Future latitude distance of plane A (7.575002, 5.938858, -1.636144)
+Future longitude distance of plane A (6.300000, 2.723416, -3.576584)
+Our Predicted position: (34.059364, -117.821358)
+
+Future latitude distance of plane A (8.960002, 7.215069, -1.744933)
+Future longitude distance of plane A (8.640001, 4.826056, -3.813946)
+Our Predicted position: (34.059364, -117.821365)
+
+Future latitude distance of plane A (10.455002, 8.601279, -1.853723)
+Future longitude distance of plane A (11.220002, 7.168697, -4.051305)
+Our Predicted position: (34.059364, -117.821365)
+
+Future latitude distance of plane A (12.060003, 10.097489, -1.962514)
+Future longitude distance of plane A (14.040001, 9.751336, -4.288665)
+Our Predicted position: (34.059364, -117.821373)
+
+Future latitude distance of plane A (13.775003, 11.703700, -2.071303)
+Future longitude distance of plane A (17.100002, 12.573977, -4.526025)
+Our Predicted position: (34.059368, -117.821381)
+
+
+Collision predicted? 0
+Distance between aircraft: 8458.476157
+
+
+vx -0.470000
+
+Our Velocity (vx ,vy): (-0.470000, -1.450000)
+Our Position (X,Y): (34.059344, -117.821311)
+other (X,Y): (33.998775, -117.766571)
+
+Future latitude distance of plane A (-0.000000, -0.003209, -0.003209)
+Future longitude distance of plane A (-0.000000, -0.013804, -0.013804)
+Our Predicted position: (34.059345, -117.821312)
+
+Future latitude distance of plane A (-0.545000, -0.399859, 0.145141)
+Future longitude distance of plane A (-1.485000, -1.429574, 0.055426)
+Our Predicted position: (34.059341, -117.821312)
+
+Future latitude distance of plane A (-1.240000, -0.946509, 0.293491)
+Future longitude distance of plane A (-3.040000, -2.915344, 0.124656)
+Our Predicted position: (34.059341, -117.821312)
+
+Future latitude distance of plane A (-2.085000, -1.643159, 0.441841)
+Future longitude distance of plane A (-4.665001, -4.471114, 0.193886)
+Our Predicted position: (34.059341, -117.821304)
+
+Future latitude distance of plane A (-3.080000, -2.489809, 0.590191)
+Future longitude distance of plane A (-6.360001, -6.096885, 0.263116)
+Our Predicted position: (34.059338, -117.821304)
+
+Future latitude distance of plane A (-4.225000, -3.486459, 0.738541)
+Future longitude distance of plane A (-8.125001, -7.792655, 0.332345)
+Our Predicted position: (34.059338, -117.821304)
+
+Future latitude distance of plane A (-5.520000, -4.633109, 0.886891)
+Future longitude distance of plane A (-9.960002, -9.558426, 0.401576)
+Our Predicted position: (34.059338, -117.821304)
+
+Future latitude distance of plane A (-6.965000, -5.929760, 1.035241)
+Future longitude distance of plane A (-11.865002, -11.394196, 0.470806)
+Our Predicted position: (34.059334, -117.821304)
+
+Future latitude distance of plane A (-8.560000, -7.376410, 1.183591)
+Future longitude distance of plane A (-13.840002, -13.299967, 0.540035)
+Our Predicted position: (34.059334, -117.821297)
+
+Future latitude distance of plane A (-10.305000, -8.973060, 1.331941)
+Future longitude distance of plane A (-15.885002, -15.275737, 0.609265)
+Our Predicted position: (34.059334, -117.821297)
+
+Future latitude distance of plane A (-12.200000, -10.719710, 1.480290)
+Future longitude distance of plane A (-18.000003, -17.321507, 0.678496)
+Our Predicted position: (34.059330, -117.821297)
+
+Future latitude distance of plane A (-14.245000, -12.616360, 1.628641)
+Future longitude distance of plane A (-20.185004, -19.437278, 0.747726)
+Our Predicted position: (34.059330, -117.821297)
+
+Future latitude distance of plane A (-16.440000, -14.663010, 1.776990)
+Future longitude distance of plane A (-22.440005, -21.623049, 0.816956)
+Our Predicted position: (34.059330, -117.821297)
+
+Future latitude distance of plane A (-18.785001, -16.859660, 1.925341)
+Future longitude distance of plane A (-24.765005, -23.878819, 0.886186)
+Our Predicted position: (34.059326, -117.821297)
+
+Future latitude distance of plane A (-21.280001, -19.206310, 2.073690)
+Future longitude distance of plane A (-27.160006, -26.204589, 0.955417)
+Our Predicted position: (34.059326, -117.821289)
+
+Future latitude distance of plane A (-23.925001, -21.702960, 2.222041)
+Future longitude distance of plane A (-29.625006, -28.600361, 1.024645)
+Our Predicted position: (34.059322, -117.821289)
+
+Future latitude distance of plane A (-26.720001, -24.349610, 2.370390)
+Future longitude distance of plane A (-32.160007, -31.066131, 1.093877)
+Our Predicted position: (34.059322, -117.821289)
+
+Future latitude distance of plane A (-29.665001, -27.146261, 2.518740)
+Future longitude distance of plane A (-34.765009, -33.601903, 1.163106)
+Our Predicted position: (34.059322, -117.821289)
+
+Future latitude distance of plane A (-32.760001, -30.092910, 2.667091)
+Future longitude distance of plane A (-37.440009, -36.207673, 1.232336)
+Our Predicted position: (34.059319, -117.821289)
+
+Future latitude distance of plane A (-36.005001, -33.189561, 2.815441)
+Future longitude distance of plane A (-40.185011, -38.883445, 1.301566)
+Our Predicted position: (34.059319, -117.821289)
+
+
+Collision predicted? 0
+Distance between aircraft: 8423.931954
+Our Velocity (vx ,vy): (-0.560000, -1.670000)
+Our Position (X,Y): (34.059342, -117.821324)
+other (X,Y): (34.029100, -117.732647)
+
+Future latitude distance of plane A (-0.000000, -0.004705, -0.004705)
+Future longitude distance of plane A (-0.000000, -0.014513, -0.014513)
+Our Predicted position: (34.059341, -117.821327)
+
+Future latitude distance of plane A (-0.605000, -0.520695, 0.084305)
+Future longitude distance of plane A (-1.780000, -1.576933, 0.203067)
+Our Predicted position: (34.059341, -117.821320)
+
+Future latitude distance of plane A (-1.300000, -1.126685, 0.173315)
+Future longitude distance of plane A (-3.780000, -3.359353, 0.420647)
+Our Predicted position: (34.059341, -117.821312)
+
+Future latitude distance of plane A (-2.085000, -1.822675, 0.262325)
+Future longitude distance of plane A (-5.999999, -5.361773, 0.638226)
+Our Predicted position: (34.059341, -117.821312)
+
+Future latitude distance of plane A (-2.960000, -2.608666, 0.351334)
+Future longitude distance of plane A (-8.439999, -7.584193, 0.855806)
+Our Predicted position: (34.059338, -117.821304)
+
+Future latitude distance of plane A (-3.925000, -3.484656, 0.440344)
+Future longitude distance of plane A (-11.099998, -10.026613, 1.073385)
+Our Predicted position: (34.059338, -117.821304)
+
+Future latitude distance of plane A (-4.980000, -4.450646, 0.529354)
+Future longitude distance of plane A (-13.979998, -12.689032, 1.290965)
+Our Predicted position: (34.059338, -117.821297)
+
+Future latitude distance of plane A (-6.125000, -5.506636, 0.618364)
+Future longitude distance of plane A (-17.079997, -15.571452, 1.508546)
+Our Predicted position: (34.059338, -117.821297)
+
+Future latitude distance of plane A (-7.360000, -6.652626, 0.707374)
+Future longitude distance of plane A (-20.399997, -18.673872, 1.726125)
+Our Predicted position: (34.059338, -117.821289)
+
+Future latitude distance of plane A (-8.685000, -7.888616, 0.796384)
+Future longitude distance of plane A (-23.939996, -21.996291, 1.943705)
+Our Predicted position: (34.059334, -117.821289)
+
+Future latitude distance of plane A (-10.100000, -9.214606, 0.885394)
+Future longitude distance of plane A (-27.699994, -25.538710, 2.161284)
+Our Predicted position: (34.059334, -117.821281)
+
+Future latitude distance of plane A (-11.605000, -10.630596, 0.974404)
+Future longitude distance of plane A (-31.679993, -29.301129, 2.378865)
+Our Predicted position: (34.059334, -117.821281)
+
+Future latitude distance of plane A (-13.200001, -12.136586, 1.063415)
+Future longitude distance of plane A (-35.879992, -33.283549, 2.596444)
+Our Predicted position: (34.059334, -117.821274)
+
+Future latitude distance of plane A (-14.885001, -13.732576, 1.152424)
+Future longitude distance of plane A (-40.299991, -37.485966, 2.814025)
+Our Predicted position: (34.059334, -117.821266)
+
+Future latitude distance of plane A (-16.660001, -15.418566, 1.241434)
+Future longitude distance of plane A (-44.939990, -41.908386, 3.031604)
+Our Predicted position: (34.059330, -117.821266)
+
+Future latitude distance of plane A (-18.525000, -17.194556, 1.330444)
+Future longitude distance of plane A (-49.799989, -46.550805, 3.249184)
+Our Predicted position: (34.059330, -117.821259)
+
+Future latitude distance of plane A (-20.480000, -19.060546, 1.419454)
+Future longitude distance of plane A (-54.879988, -51.413223, 3.466765)
+Our Predicted position: (34.059330, -117.821259)
+
+Future latitude distance of plane A (-22.525001, -21.016536, 1.508465)
+Future longitude distance of plane A (-60.179986, -56.495642, 3.684344)
+Our Predicted position: (34.059330, -117.821251)
+
+Future latitude distance of plane A (-24.660001, -23.062526, 1.597474)
+Future longitude distance of plane A (-65.699985, -61.798061, 3.901923)
+Our Predicted position: (34.059326, -117.821251)
+
+Future latitude distance of plane A (-26.885001, -25.198516, 1.686484)
+Future longitude distance of plane A (-71.439983, -67.320479, 4.119504)
+Our Predicted position: (34.059326, -117.821243)
+
+
+Collision predicted? 0
+Distance between aircraft: 8845.174556
+
+
+vx -0.280000
+
+Our Velocity (vx ,vy): (-0.280000, -1.760000)
+Our Position (X,Y): (34.059339, -117.821339)
+other (X,Y): (34.029100, -117.732647)
+
+Future latitude distance of plane A (0.000000, -0.005583, -0.005583)
+Future longitude distance of plane A (-0.000000, -0.016705, -0.016705)
+Our Predicted position: (34.059338, -117.821342)
+
+Future latitude distance of plane A (-0.140000, -0.422503, -0.282503)
+Future longitude distance of plane A (-1.805000, -1.732695, 0.072305)
+Our Predicted position: (34.059341, -117.821335)
+
+Future latitude distance of plane A (0.000000, -0.559423, -0.559423)
+Future longitude distance of plane A (-3.700000, -3.538685, 0.161315)
+Our Predicted position: (34.059345, -117.821335)
+
+Future latitude distance of plane A (0.420000, -0.416343, -0.836343)
+Future longitude distance of plane A (-5.685000, -5.434676, 0.250324)
+Our Predicted position: (34.059345, -117.821335)
+
+Future latitude distance of plane A (1.120000, 0.006737, -1.113263)
+Future longitude distance of plane A (-7.760000, -7.420666, 0.339334)
+Our Predicted position: (34.059349, -117.821335)
+
+Future latitude distance of plane A (2.100000, 0.709817, -1.390183)
+Future longitude distance of plane A (-9.925001, -9.496656, 0.428344)
+Our Predicted position: (34.059353, -117.821335)
+
+Future latitude distance of plane A (3.360000, 1.692897, -1.667103)
+Future longitude distance of plane A (-12.180000, -11.662646, 0.517354)
+Our Predicted position: (34.059353, -117.821327)
+
+Future latitude distance of plane A (4.900000, 2.955977, -1.944023)
+Future longitude distance of plane A (-14.525001, -13.918637, 0.606364)
+Our Predicted position: (34.059357, -117.821327)
+
+Future latitude distance of plane A (6.720000, 4.499057, -2.220943)
+Future longitude distance of plane A (-16.960001, -16.264627, 0.695374)
+Our Predicted position: (34.059361, -117.821327)
+
+Future latitude distance of plane A (8.820000, 6.322138, -2.497862)
+Future longitude distance of plane A (-19.485002, -18.700617, 0.784385)
+Our Predicted position: (34.059361, -117.821327)
+
+Future latitude distance of plane A (11.200000, 8.425217, -2.774783)
+Future longitude distance of plane A (-22.100002, -21.226607, 0.873395)
+Our Predicted position: (34.059364, -117.821320)
+
+Future latitude distance of plane A (13.860000, 10.808297, -3.051703)
+Future longitude distance of plane A (-24.805003, -23.842597, 0.962405)
+Our Predicted position: (34.059368, -117.821320)
+
+Future latitude distance of plane A (16.800000, 13.471378, -3.328622)
+Future longitude distance of plane A (-27.600001, -26.548588, 1.051413)
+Our Predicted position: (34.059368, -117.821320)
+
+Future latitude distance of plane A (20.020000, 16.414458, -3.605542)
+Future longitude distance of plane A (-30.485002, -29.344578, 1.140424)
+Our Predicted position: (34.059372, -117.821320)
+
+Future latitude distance of plane A (23.520000, 19.637538, -3.882462)
+Future longitude distance of plane A (-33.460003, -32.230569, 1.229434)
+Our Predicted position: (34.059376, -117.821320)
+
+Future latitude distance of plane A (27.300000, 23.140617, -4.159383)
+Future longitude distance of plane A (-36.525003, -35.206559, 1.318444)
+Our Predicted position: (34.059376, -117.821312)
+
+Future latitude distance of plane A (31.360000, 26.923698, -4.436302)
+Future longitude distance of plane A (-39.680004, -38.272550, 1.407454)
+Our Predicted position: (34.059380, -117.821312)
+
+Future latitude distance of plane A (35.700000, 30.986778, -4.713222)
+Future longitude distance of plane A (-42.925005, -41.428541, 1.496464)
+Our Predicted position: (34.059383, -117.821312)
+
+Future latitude distance of plane A (40.320000, 35.329858, -4.990142)
+Future longitude distance of plane A (-46.260006, -44.674531, 1.585474)
+Our Predicted position: (34.059383, -117.821312)
+
+Future latitude distance of plane A (45.220000, 39.952938, -5.267062)
+Future longitude distance of plane A (-49.685005, -48.010522, 1.674482)
+Our Predicted position: (34.059387, -117.821304)
+
+
+Collision predicted? 0
+Distance between aircraft: 8846.386780
+Our Velocity (vx ,vy): (-0.090000, -1.170000)
+Our Position (X,Y): (34.059338, -117.821353)
+other (X,Y): (34.029100, -117.732647)
+
+Future latitude distance of plane A (0.000000, -0.002789, -0.002789)
+Future longitude distance of plane A (0.000000, -0.017564, -0.017564)
+Our Predicted position: (34.059338, -117.821350)
+
+Future latitude distance of plane A (0.005000, -0.185698, -0.190698)
+Future longitude distance of plane A (-0.875000, -1.476074, -0.601074)
+Our Predicted position: (34.059338, -117.821365)
+
+Future latitude distance of plane A (0.200000, -0.178609, -0.378608)
+Future longitude distance of plane A (-1.160000, -2.344584, -1.184584)
+Our Predicted position: (34.059341, -117.821373)
+
+Future latitude distance of plane A (0.585000, 0.018481, -0.566519)
+Future longitude distance of plane A (-0.855000, -2.623094, -1.768094)
+Our Predicted position: (34.059341, -117.821388)
+
+Future latitude distance of plane A (1.160000, 0.405572, -0.754428)
+Future longitude distance of plane A (0.040000, -2.311604, -2.351604)
+Our Predicted position: (34.059345, -117.821396)
+
+Future latitude distance of plane A (1.925000, 0.982662, -0.942338)
+Future longitude distance of plane A (1.525001, -1.410113, -2.935114)
+Our Predicted position: (34.059345, -117.821411)
+
+Future latitude distance of plane A (2.880000, 1.749752, -1.130248)
+Future longitude distance of plane A (3.600001, 0.081377, -3.518624)
+Our Predicted position: (34.059349, -117.821419)
+
+Future latitude distance of plane A (4.025000, 2.706842, -1.318158)
+Future longitude distance of plane A (6.265001, 2.162867, -4.102134)
+Our Predicted position: (34.059349, -117.821434)
+
+Future latitude distance of plane A (5.360000, 3.853932, -1.506068)
+Future longitude distance of plane A (9.520001, 4.834358, -4.685644)
+Our Predicted position: (34.059353, -117.821442)
+
+Future latitude distance of plane A (6.885000, 5.191022, -1.693978)
+Future longitude distance of plane A (13.365002, 8.095848, -5.269154)
+Our Predicted position: (34.059353, -117.821457)
+
+Future latitude distance of plane A (8.600000, 6.718112, -1.881888)
+Future longitude distance of plane A (17.800002, 11.947339, -5.852663)
+Our Predicted position: (34.059353, -117.821465)
+
+Future latitude distance of plane A (10.505000, 8.435202, -2.069798)
+Future longitude distance of plane A (22.825002, 16.388829, -6.436173)
+Our Predicted position: (34.059357, -117.821480)
+
+Future latitude distance of plane A (12.600000, 10.342292, -2.257708)
+Future longitude distance of plane A (28.440003, 21.420320, -7.019684)
+Our Predicted position: (34.059357, -117.821487)
+
+Future latitude distance of plane A (14.885000, 12.439382, -2.445618)
+Future longitude distance of plane A (34.645004, 27.041810, -7.603194)
+Our Predicted position: (34.059361, -117.821503)
+
+Future latitude distance of plane A (17.360000, 14.726472, -2.633528)
+Future longitude distance of plane A (41.440004, 33.253300, -8.186704)
+Our Predicted position: (34.059361, -117.821510)
+
+Future latitude distance of plane A (20.025000, 17.203562, -2.821438)
+Future longitude distance of plane A (48.825005, 40.054791, -8.770214)
+Our Predicted position: (34.059364, -117.821526)
+
+Future latitude distance of plane A (22.880000, 19.870652, -3.009348)
+Future longitude distance of plane A (56.800005, 47.446281, -9.353724)
+Our Predicted position: (34.059364, -117.821533)
+
+Future latitude distance of plane A (25.925000, 22.727742, -3.197258)
+Future longitude distance of plane A (65.365005, 55.427772, -9.937234)
+Our Predicted position: (34.059368, -117.821541)
+
+Future latitude distance of plane A (29.159999, 25.774832, -3.385168)
+Future longitude distance of plane A (74.520006, 63.999264, -10.520742)
+Our Predicted position: (34.059368, -117.821556)
+
+Future latitude distance of plane A (32.585000, 29.011922, -3.573078)
+Future longitude distance of plane A (84.265006, 73.160755, -11.104252)
+Our Predicted position: (34.059368, -117.821564)
+
+
+Collision predicted? 0
+Distance between aircraft: 8847.483479
+
+
+vx -0.100000
+
+Our Velocity (vx ,vy): (-0.100000, -1.310000)
+Our Position (X,Y): (34.059336, -117.821372)
+other (X,Y): (33.998199, -117.772316)
+
+Future latitude distance of plane A (-0.000000, -0.000901, -0.000901)
+Future longitude distance of plane A (-0.000000, -0.011708, -0.011708)
+Our Predicted position: (34.059334, -117.821373)
+
+Future latitude distance of plane A (-0.105000, -0.096011, 0.008989)
+Future longitude distance of plane A (-1.380000, -1.253248, 0.126751)
+Our Predicted position: (34.059334, -117.821373)
+
+Future latitude distance of plane A (-0.220000, -0.201121, 0.018879)
+Future longitude distance of plane A (-2.900000, -2.634788, 0.265212)
+Our Predicted position: (34.059334, -117.821365)
+
+Future latitude distance of plane A (-0.345000, -0.316231, 0.028769)
+Future longitude distance of plane A (-4.560000, -4.156328, 0.403671)
+Our Predicted position: (34.059334, -117.821365)
+
+Future latitude distance of plane A (-0.480000, -0.441341, 0.038659)
+Future longitude distance of plane A (-6.360000, -5.817868, 0.542131)
+Our Predicted position: (34.059334, -117.821365)
+
+Future latitude distance of plane A (-0.625000, -0.576451, 0.048549)
+Future longitude distance of plane A (-8.300000, -7.619409, 0.680591)
+Our Predicted position: (34.059334, -117.821358)
+
+Future latitude distance of plane A (-0.780000, -0.721561, 0.058439)
+Future longitude distance of plane A (-10.379999, -9.560949, 0.819051)
+Our Predicted position: (34.059334, -117.821358)
+
+Future latitude distance of plane A (-0.945000, -0.876671, 0.068329)
+Future longitude distance of plane A (-12.600000, -11.642489, 0.957511)
+Our Predicted position: (34.059334, -117.821350)
+
+Future latitude distance of plane A (-1.120000, -1.041781, 0.078219)
+Future longitude distance of plane A (-14.959999, -13.864029, 1.095971)
+Our Predicted position: (34.059334, -117.821350)
+
+Future latitude distance of plane A (-1.305000, -1.216891, 0.088109)
+Future longitude distance of plane A (-17.459998, -16.225568, 1.234431)
+Our Predicted position: (34.059334, -117.821350)
+
+Future latitude distance of plane A (-1.500000, -1.402001, 0.097999)
+Future longitude distance of plane A (-20.099999, -18.727108, 1.372891)
+Our Predicted position: (34.059334, -117.821342)
+
+Future latitude distance of plane A (-1.705000, -1.597111, 0.107889)
+Future longitude distance of plane A (-22.879999, -21.368648, 1.511351)
+Our Predicted position: (34.059334, -117.821342)
+
+Future latitude distance of plane A (-1.920000, -1.802221, 0.117779)
+Future longitude distance of plane A (-25.799998, -24.150187, 1.649811)
+Our Predicted position: (34.059334, -117.821342)
+
+Future latitude distance of plane A (-2.145000, -2.017331, 0.127669)
+Future longitude distance of plane A (-28.859998, -27.071727, 1.788270)
+Our Predicted position: (34.059334, -117.821335)
+
+Future latitude distance of plane A (-2.380000, -2.242440, 0.137559)
+Future longitude distance of plane A (-32.059999, -30.133266, 1.926732)
+Our Predicted position: (34.059334, -117.821335)
+
+Future latitude distance of plane A (-2.625000, -2.477550, 0.147449)
+Future longitude distance of plane A (-35.399998, -33.334806, 2.065192)
+Our Predicted position: (34.059334, -117.821335)
+
+Future latitude distance of plane A (-2.880000, -2.722660, 0.157339)
+Future longitude distance of plane A (-38.879997, -36.676346, 2.203651)
+Our Predicted position: (34.059334, -117.821327)
+
+Future latitude distance of plane A (-3.145000, -2.977770, 0.167229)
+Future longitude distance of plane A (-42.499996, -40.157886, 2.342110)
+Our Predicted position: (34.059334, -117.821327)
+
+Future latitude distance of plane A (-3.420000, -3.242880, 0.177119)
+Future longitude distance of plane A (-46.259996, -43.779426, 2.480570)
+Our Predicted position: (34.059334, -117.821327)
+
+Future latitude distance of plane A (-3.705000, -3.517990, 0.187009)
+Future longitude distance of plane A (-50.159997, -47.540966, 2.619031)
+Our Predicted position: (34.059334, -117.821320)
+
+
+Collision predicted? 0
+Distance between aircraft: 8172.953172
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
