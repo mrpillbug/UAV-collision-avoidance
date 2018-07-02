@@ -1,0 +1,983 @@
+CHECK FOR MESSAGES
+Found
+
+
+July 2
+
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD 
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+
+vx 310.649994
+
+
+POSITION LOGGED
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (0.000005, 0.020864)
+Our Predicted position: (0.002765, 0.020875)
+Our Predicted position: (0.005525, 0.020887)
+Our Predicted position: (0.008285, 0.020898)
+Our Predicted position: (0.011044, 0.020909)
+Our Predicted position: (0.013804, 0.020920)
+Our Predicted position: (0.016564, 0.020932)
+Our Predicted position: (0.019324, 0.020943)
+Our Predicted position: (0.022084, 0.020954)
+Our Predicted position: (0.024844, 0.020966)
+Our Predicted position: (0.027604, 0.020977)
+Our Predicted position: (0.030364, 0.020988)
+Our Predicted position: (0.033124, 0.020999)
+Our Predicted position: (0.035884, 0.021011)
+Our Predicted position: (0.038644, 0.021022)
+Our Predicted position: (0.041404, 0.021033)
+Our Predicted position: (0.044164, 0.021045)
+Our Predicted position: (0.046924, 0.021056)
+Our Predicted position: (0.049684, 0.021067)
+Our Predicted position: (0.052444, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+
+
+vx 310.649994
+
+Our Velocity (vx ,vy): (310.649994, 1.270000)
+Our Position (X,Y): (0.000005, 0.020864)
+other (X,Y): (203.593774, 1.677734)
+Our Predicted position: (-0.000023, 0.020864)
+Our Predicted position: (-0.000023, 0.020875)
+Our Predicted position: (-0.000023, 0.020887)
+Our Predicted position: (-0.000023, 0.020898)
+Our Predicted position: (-0.000023, 0.020909)
+Our Predicted position: (-0.000023, 0.020920)
+Our Predicted position: (-0.000023, 0.020932)
+Our Predicted position: (-0.000023, 0.020943)
+Our Predicted position: (-0.000023, 0.020954)
+Our Predicted position: (-0.000023, 0.020966)
+Our Predicted position: (-0.000023, 0.020977)
+Our Predicted position: (-0.000023, 0.020988)
+Our Predicted position: (-0.000023, 0.020999)
+Our Predicted position: (-0.000023, 0.021011)
+Our Predicted position: (-0.000023, 0.021022)
+Our Predicted position: (-0.000023, 0.021033)
+Our Predicted position: (-0.000023, 0.021045)
+Our Predicted position: (-0.000023, 0.021056)
+Our Predicted position: (-0.000023, 0.021067)
+Our Predicted position: (-0.000023, 0.021078)
+
+
+Collision predicted? 0
+Distance between aircraft: 17404690.250422
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+
+
