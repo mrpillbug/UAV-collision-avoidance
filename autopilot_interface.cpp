@@ -1564,17 +1564,17 @@ CA_predict_thread()
 
 		//Update other aircraft position (X, Y) B
 		otherAircraft.lat[2] = otherAircraft.lat[1];
-		ourAircraft.lon[2] = otherAircraft.lon[1];
+		otherAircraft.lon[2] = otherAircraft.lon[1];
 
 		otherAircraft.lat[1] = otherAircraft.lat[0];		
-		ourAircraft.lon[1] = otherAircraft.lon[0];
+		otherAircraft.lon[1] = otherAircraft.lon[0];
 
-		//otherAircraft.lat[0] = adsb.lat;
-		//otherAircraft.lon[0] = adsb.lon;
+		otherAircraft.lat[0] = adsb.lat / 1E7;
+		otherAircraft.lon[0] = adsb.lon / 1E7;
 
 
-		otherAircraft.lat[0] = 33.9324539;
-		otherAircraft.lon[0] = -117.6311865;
+		//otherAircraft.lat[0] = 33.9324539;
+		//otherAircraft.lon[0] = -117.6311865;
 			
 		//Update our aircraft velocity (v) A
 		ourAircraft.velocityX[1] = ourAircraft.velocityX[0];
@@ -1615,7 +1615,7 @@ CA_predict_thread()
 
 		printf("our (vx ,vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
 
-		printf("our (x,Y): (%f, %f)\nother (x,Y): (%f, %f)\n", 
+		printf("our (X,Y): (%f, %f)\nother (X,Y): (%f, %f)\n",
 		ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]);
 
 
