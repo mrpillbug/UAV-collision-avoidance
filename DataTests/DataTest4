@@ -6,8 +6,12 @@ START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
 
 vx 0.000000
 
+<<<<<<< HEAD
+*****Test Point #1:*****
+=======
 **********Test Point #1:*************
 Testing Testing 1, 2, 3
+>>>>>>> 821733f932b07316825555902dca723915db1083
 
 POSITION LOGGED
 Our Velocity (vx ,vy): (0.000000, 0.000000)
@@ -19,19 +23,8 @@ Plane 2 Heading 0.000000: 0.000000
 Our Predicted position: (-114601.976562, -150975.421875)
 
 
-**********Test Point: First Collision Detected******
-Our Velocity (vx ,vy): (0.000000, 0.000000)
-Our Position (X,Y): (0.000000, 0.000000)
-other (X,Y): (0.000000, 0.000000)
 
-Plane 1 Heading 0.000000: 0.000000
-Plane 2 Heading 0.000000: 0.000000
-Our Predicted position: (0.000000, 0.000000)
-Predicted distance between planes at collision: 0.000000 m
-Collision predicted? 1
-Time to collision from in here: 0.000000
-Time to collision from in here: 0.000000
-
+*****Test Point: First Collision Detected*****
 COLLISION DETECTED
 REQUESTING WAYPOINTS
 Number of waypoints: 8
@@ -73,11 +66,112 @@ Our Velocity (vx ,vy): (0.000000, 0.000000)
 Our Position (X,Y): (0.000000, 0.000000)
 other (X,Y): (0.000000, 0.000000)
 
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+Predicted distance between planes at collision: 0.000000 m
+Collision predicted? 1
+Distance between aircraft: 0.000000
+Waiting for aircraft to avoid...
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (0.000000, 0.000000)
+other (X,Y): (0.000000, 0.000000)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+Predicted distance between planes at collision: 0.000000 m
+Collision predicted? 1
+Time to collision from in here: 0.000000
+Time to collision from in here: 0.000000
+
+
+*****Test Point: Changed from 8 to 10 Waypoints*****
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (0.000000, 0.000000)
+other (X,Y): (0.000000, 0.000000)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+Predicted distance between planes at collision: 0.000000 m
+Collision predicted? 1
+Time to collision from in here: 0.000000
+Time to collision from in here: 0.000000
+
+COLLISION DETECTED
+REQUESTING WAYPOINTS
+Number of waypoints: 10
+
+avoid buffer size: 100
+X displacement: 77.781746 Y displacement: -77.781746
+Sending Waypoints
+Waypoint 0 Lat: 0.000000, Long: 0.000000, Alt: 0.000000, Seq: 0
+Waypoint 1 Lat: -0.000699, Long: 0.000699, Alt: 50.000000, Seq: 1
+Waypoint 2 Lat: -0.000699, Long: 0.000699, Alt: 50.000000, Seq: 2
+Waypoint 3 Lat: -0.000699, Long: 0.000699, Alt: 50.000000, Seq: 3
+Waypoint 4 Lat: 34.059525, Long: -117.820930, Alt: 50.000000, Seq: 4
+Waypoint 5 Lat: 34.059448, Long: -117.821136, Alt: 50.000000, Seq: 5
+Waypoint 6 Lat: 34.059341, Long: -117.821457, Alt: 50.000000, Seq: 6
+Waypoint 7 Lat: 34.059124, Long: -117.821533, Alt: 50.000000, Seq: 7
+Waypoint 8 Lat: 34.059010, Long: -117.821342, Alt: 50.000000, Seq: 8
+Waypoint 9 Lat: 34.059029, Long: -117.821136, Alt: 50.000000, Seq: 9
+Waypoint 10 Lat: 34.059467, Long: -117.820862, Alt: 50.000000, Seq: 10
+Waypoint 11 Lat: 34.059467, Long: -117.820862, Alt: 50.000000, Seq: 11
+sh: 1: PAUSE: not found
+
+
+Collision point created
+Distance between aircraft: 0.001574
+Waiting for aircraft to avoid...
+
+*****Test Point: Changed from 10 to 11 Waypoints*****
+vx 0.000000
+
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (0.000000, 0.000000)
+other (X,Y): (0.000000, 0.000000)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+Predicted distance between planes at collision: 0.000000 m
+Collision predicted? 1
+Time to collision from in here: 0.000000
+Time to collision from in here: 0.000000
+
+COLLISION DETECTED
+REQUESTING WAYPOINTS
+Number of waypoints: 11
+
+avoid buffer size: 100
+X displacement: 77.781746 Y displacement: -77.781746
+Sending Waypoints
+Waypoint 0 Lat: 0.000000, Long: 0.000000, Alt: 0.000000, Seq: 0
+Waypoint 1 Lat: -0.000699, Long: 0.000699, Alt: 50.000000, Seq: 1
+Waypoint 2 Lat: -0.000699, Long: 0.000699, Alt: 50.000000, Seq: 2
+Waypoint 3 Lat: -0.000699, Long: 0.000699, Alt: 50.000000, Seq: 3
+Waypoint 4 Lat: -0.000699, Long: 0.000699, Alt: 50.000000, Seq: 4
+Waypoint 5 Lat: 34.059525, Long: -117.820930, Alt: 50.000000, Seq: 5
+Waypoint 6 Lat: 34.059448, Long: -117.821136, Alt: 50.000000, Seq: 6
+Waypoint 7 Lat: 34.059341, Long: -117.821457, Alt: 50.000000, Seq: 7
+Waypoint 8 Lat: 34.059124, Long: -117.821533, Alt: 50.000000, Seq: 8
+Waypoint 9 Lat: 34.059010, Long: -117.821342, Alt: 50.000000, Seq: 9
+Waypoint 10 Lat: 34.059029, Long: -117.821136, Alt: 50.000000, Seq: 10
+Waypoint 11 Lat: 34.059467, Long: -117.820862, Alt: 50.000000, Seq: 11
+Waypoint 12 Lat: 34.059467, Long: -117.820862, Alt: 50.000000, Seq: 12
+sh: 1: PAUSE: not found
+
+
+Collision point created
+Distance between aircraft: 0.001574
+Waiting for aircraft to avoid...
 
 
 
+*****Test Point: Changed from 11 to 12 Waypoints AND distance between waypoints 0.001574 (Crash???)*****
+vx 0.000000
 
-Test Point #
 Our Velocity (vx ,vy): (0.000000, 0.000000)
 Our Position (X,Y): (0.000000, 0.000000)
 other (X,Y): (0.000000, 0.000000)
@@ -120,3 +214,20 @@ Waiting for aircraft to avoid...
 Our Velocity (vx ,vy): (0.000000, 0.000000)
 Our Position (X,Y): (0.000000, 0.000000)
 other (X,Y): (0.000000, 0.000000)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (0.000000, 0.000000)
+
