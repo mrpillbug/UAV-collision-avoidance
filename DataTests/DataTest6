@@ -1,0 +1,1541 @@
+*July 3,
+*Heading towards eachother straight on
+
+hellohelloOPEN PORT
+Connected to /dev/ttyACM0 with 115200 baud, 8 data bits, no parity, 1 stop bit (8N1)
+
+START READ THREAD
+
+CHECK FOR MESSAGES
+Found
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+
+vx -0.040000
+
+
+POSITION LOGGED
+Our Velocity (vx ,vy): (-0.040000, 0.020000)
+Our Position (X,Y): (34.059413, -117.820989)
+other (X,Y): (34.033173, -117.863346)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059410, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059406, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059406, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059406, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059406, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059406, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059406, -117.820999)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059406, -117.820999)
+
+
+Collision predicted? 0
+Distance between aircraft: 4878.102162
+Our Velocity (vx ,vy): (-0.040000, -0.150000)
+Our Position (X,Y): (34.059412, -117.820991)
+other (X,Y): (33.989837, -117.855721)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820969)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820969)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820969)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820961)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820961)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820953)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820953)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820946)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820946)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820946)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820938)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820938)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820930)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 0.000000: 0.000000
+Our Predicted position: (34.059414, -117.820930)
+
+
+Collision predicted? 0
+Distance between aircraft: 8381.572391
+Our Velocity (vx ,vy): (0.180000, -0.220000)
+Our Position (X,Y): (34.059413, -117.820994)
+other (X,Y): (33.989837, -117.855721)
+
+Plane 1 Heading 0.000000: 0.000000
+
+
+vx 0.180000
+
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059414, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059414, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059418, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059418, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059422, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059422, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059425, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059425, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059429, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059429, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059433, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059433, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059437, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059437, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059441, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059441, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059444, -117.820976)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059444, -117.820969)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059448, -117.820969)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059448, -117.820969)
+
+
+Collision predicted? 0
+Distance between aircraft: 8381.500971
+Our Velocity (vx ,vy): (-0.570000, -0.870000)
+Our Position (X,Y): (34.059412, -117.821006)
+other (X,Y): (34.002640, -117.765310)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059406, -117.820992)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.820984)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059391, -117.820969)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059387, -117.820953)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059380, -117.820946)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059372, -117.820930)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059364, -117.820923)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059361, -117.820908)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059353, -117.820892)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059345, -117.820885)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059338, -117.820869)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059334, -117.820854)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059326, -117.820847)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059319, -117.820831)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059311, -117.820824)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059307, -117.820808)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059299, -117.820793)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059292, -117.820786)
+
+Plane 1 Heading 0.000000: 0.000000
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059284, -117.820770)
+
+
+Collision predicted? 0
+Distance between aircraft: 8144.918571
+
+
+vx -0.570000
+
+Our Velocity (vx ,vy): (-0.570000, -0.870000)
+Our Position (X,Y): (34.059412, -117.821006)
+other (X,Y): (34.002640, -117.765310)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059414, -117.821007)
+
+
+Collision predicted? 0
+Distance between aircraft: 8144.918571
+Our Velocity (vx ,vy): (-0.680000, -0.730000)
+Our Position (X,Y): (34.059408, -117.821014)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059410, -117.821014)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059406, -117.821014)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059402, -117.821030)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059402, -117.821030)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059402, -117.821030)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821037)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821037)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821037)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821045)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821045)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821045)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821053)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821053)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059391, -117.821053)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059391, -117.821060)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059391, -117.821060)
+
+Plane 1 Heading 326.768280: 326.768291
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059391, -117.821068)
+
+
+Collision predicted? 0
+Distance between aircraft: 8398.640479
+
+
+vx -0.670000
+
+Our Velocity (vx ,vy): (-0.670000, -0.580000)
+Our Position (X,Y): (34.059405, -117.821021)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821030)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821030)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821030)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821037)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821037)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821045)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821045)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821045)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821053)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821053)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821053)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821060)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821060)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821060)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821068)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821068)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821075)
+
+Plane 1 Heading 317.030914: 317.030917
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821075)
+
+
+Collision predicted? 0
+Distance between aircraft: 8398.013526
+Our Velocity (vx ,vy): (-0.670000, -0.580000)
+Our Position (X,Y): (34.059405, -117.821021)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+
+Collision predicted? 0
+Distance between aircraft: 8398.013526
+
+
+vx -0.670000
+
+Our Velocity (vx ,vy): (-0.670000, -0.580000)
+Our Position (X,Y): (34.059405, -117.821021)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+
+Collision predicted? 0
+Distance between aircraft: 8398.013526
+Our Velocity (vx ,vy): (-0.670000, -0.580000)
+Our Position (X,Y): (34.059405, -117.821021)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+
+Collision predicted? 0
+Distance between aircraft: 8398.013526
+
+
+vx -0.670000
+
+Our Velocity (vx ,vy): (-0.670000, -0.580000)
+Our Position (X,Y): (34.059405, -117.821021)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+
+Collision predicted? 0
+Distance between aircraft: 8398.013526
+Our Velocity (vx ,vy): (-0.670000, -0.580000)
+Our Position (X,Y): (34.059405, -117.821021)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821022)
+
+
+Collision predicted? 0
+Distance between aircraft: 8398.013526
+
+
+vx -0.500000
+
+Our Velocity (vx ,vy): (-0.500000, -0.030000)
+Our Position (X,Y): (34.059401, -117.821028)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059402, -117.821030)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059402, -117.821037)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059402, -117.821053)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821060)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821068)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059406, -117.821083)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059410, -117.821091)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059410, -117.821098)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059414, -117.821114)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059414, -117.821121)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059414, -117.821136)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059418, -117.821144)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059418, -117.821152)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059422, -117.821167)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059422, -117.821175)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059422, -117.821182)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059425, -117.821198)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059425, -117.821205)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059429, -117.821213)
+
+Plane 1 Heading 310.881805: 310.881807
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059429, -117.821228)
+
+
+Collision predicted? 0
+Distance between aircraft: 8397.325897
+Our Velocity (vx ,vy): (-0.500000, -0.030000)
+Our Position (X,Y): (34.059401, -117.821028)
+other (X,Y): (33.989837, -117.856235)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 176.581786
+Our Predicted position: (34.059399, -117.821030)
+
+
+Collision predicted? 0
+Distance between aircraft: 8397.325897
+
+
+vx -0.500000
+
+Our Velocity (vx ,vy): (-0.500000, -0.030000)
+Our Position (X,Y): (34.059401, -117.821028)
+other (X,Y): (34.002127, -117.763767)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059399, -117.821030)
+
+
+Collision predicted? 0
+Distance between aircraft: 8279.641316
+Our Velocity (vx ,vy): (-0.820000, -0.010000)
+Our Position (X,Y): (34.059396, -117.821033)
+other (X,Y): (34.002127, -117.763767)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059391, -117.821030)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059387, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059383, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059383, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059380, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059376, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059372, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059372, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059368, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059364, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059361, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059361, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059357, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059353, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059349, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059349, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059345, -117.821037)
+
+Plane 1 Heading 273.433624: 273.433630
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059341, -117.821037)
+
+
+Collision predicted? 0
+Distance between aircraft: 8279.566611
+
+
+vx -0.820000
+
+Our Velocity (vx ,vy): (-0.820000, -0.010000)
+Our Position (X,Y): (34.059396, -117.821033)
+other (X,Y): (33.989651, -117.858238)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+Plane 1 Heading 270.698700: 270.698694
+Plane 2 Heading 176.581787: 0.000000
+Our Predicted position: (34.059395, -117.821030)
+
+
+Collision predicted? 0
+Distance between aircraft: 8488.873489
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
