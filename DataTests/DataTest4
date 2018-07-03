@@ -6,7 +6,12 @@ START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
 
 vx 0.000000
 
+<<<<<<< HEAD
 *****Test Point #1:*****
+=======
+**********Test Point #1:*************
+Testing Testing 1, 2, 3
+>>>>>>> 821733f932b07316825555902dca723915db1083
 
 POSITION LOGGED
 Our Velocity (vx ,vy): (0.000000, 0.000000)
