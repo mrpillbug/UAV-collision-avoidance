@@ -1393,15 +1393,15 @@ aircraftInfo() {
 
 	//Initializes all values to zero
 	//Descriptions are in the aircraftInfo struct
-	lat [3] = {0};
-	lon [3] = {0};
-	alt [3] = {0};
-	velocityX [2] = {0};
-	velocityY [2] = {0};
+	lat [2] = {0};
+	lon [2] = {0};
+	alt [2] = {0};
+	velocityX [1] = {0};
+	velocityY [1] = {0};
 	xAcc = 0;
 	yAcc = 0;
-	futureDistx [3] = {0};
-	futureDisty [3] = {0};
+	futureDistx [2] = {0};
+	futureDisty [2] = {0};
 	Hdg = 0;
 	safetyBubble = 10;  //Roughly 60 ft
 	priority = 0;
@@ -1578,7 +1578,7 @@ CA_predict_thread()
 			
 		//Update our aircraft velocity (v) A
 		ourAircraft.velocityX[1] = ourAircraft.velocityX[0];
-		ourAircraft.velocityY[1] = ourAircraft.velocityY[1];		
+		ourAircraft.velocityY[1] = ourAircraft.velocityY[0];
 		
 		vx = gpos.vx;
 		vy = gpos.vy;		
@@ -1590,15 +1590,15 @@ CA_predict_thread()
 
 		//Update other aircraft velocity (v) B
 		otherAircraft.velocityX[1] = otherAircraft.velocityX[0];
-		otherAircraft.velocityY[1] = otherAircraft.velocityY[1];		
+		otherAircraft.velocityY[1] = otherAircraft.velocityY[0];
 
-		//otherAircraft.velocityX[0] = adsb.hor_velocity;
-		//otherAircraft.velocityY[0] = adsb.ver_velocity;
+		otherAircraft.velocityX[0] = adsb.hor_velocity;
+		otherAircraft.velocityY[0] = adsb.ver_velocity;
 
 
 		//Hard coded velocity
-		otherAircraft.velocityX[0] = 0;
-		otherAircraft.velocityY[0] = 0;
+		//otherAircraft.velocityX[0] = 0;
+		//otherAircraft.velocityY[0] = 0;
 
 
 		//Update our aircraft acceleration (acc) A
@@ -1613,9 +1613,9 @@ CA_predict_thread()
 
 
 
-		printf("our (vx ,vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
+		printf("Our Velocity (vx ,vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
 
-		printf("our (X,Y): (%f, %f)\nother (X,Y): (%f, %f)\n",
+		printf("Our Position (X,Y): (%f, %f)\nother (X,Y): (%f, %f)\n",
 		ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]);
 
 
@@ -1628,11 +1628,11 @@ CA_predict_thread()
 
 			AVOID_DELAY = 3;
 
-			//printf("Time to collision from in here: %f\n", collision.timeToCollision);
+			printf("Time to collision from in here: %f\n", collision.timeToCollision);
 			CA_Avoid(ourAircraft, otherAircraft, collision);
 	
 		}
-		
+
 		printf("Distance between aircraft: %f\n", gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]));
 		if (AVOID_DELAY > 0) {
 			AVOID_DELAY--;
@@ -1651,6 +1651,13 @@ CA_predict_thread()
 predictedCollision
 Autopilot_Interface::
 CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
+
+
+    ///-----------------------------------------------------------------
+    ///
+    ///     Pass ourAircraft to aircraftA and otherAircraft to aircraftB
+    ///
+    ///------------------------------------------------------------------
 
 	int fps = 20; //fps meaning future points
 	double  rH; // for relative Heading of the planes
@@ -1695,7 +1702,11 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		aircraftB.futureDistx[2] = aircraftB.futureDistx[1] - aircraftB.futureDistx[0];//dx
 		aircraftB.futureDisty[2] = aircraftB.futureDisty[1] - aircraftB.futureDisty[1];//dy
 
-		//printf("Future distance A (%f, %f, %f)\n", aircraftA.futureDistx[0], aircraftA.futureDistx[1], aircraftA.futureDistx[2]);
+        printf("\n");
+
+		//printf("Future latitude distance of plane A (%f, %f, %f)\n", aircraftA.futureDistx[0], aircraftA.futureDistx[1], aircraftA.futureDistx[2]);
+        //printf("Future longitude distance of plane A (%f, %f, %f)\n", aircraftA.futureDisty[0], aircraftA.futureDisty[1], aircraftA.futureDisty[2]);
+
 
 		//------------------------------------------------------------------------------------------------------
 		//
@@ -1703,89 +1714,92 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		//
 		//-----------------------------------------------------------------------------------------------------
 
-		/*/Accounts for the rare case that the aircraft is exactly North, South, East, or West
-		if (aircraftA.velocityX[0] == 0 && aircraftA.velocityX[1] == 0 && aircraftA.velocityY[0] > 0 && aircraftA.velocityY[1] > 0) {
-			aircraftA.Hdg = 0;
+		///Accounts for the rare case that the aircraft is exactly North, South, East, or West
+        ///If dump error occur again *out until rH calculation
+        ///Rechange our/other aircraft back to A/B
+
+
+
+		if( ourAircraft.velocityX[0] == 0 && ourAircraft.velocityX[1] == 0 && ourAircraft.velocityY[0] > 0 && ourAircraft.velocityY[1] > 0 ) {
+			ourAircraft.Hdg == 0;
+		}
+		else if( ourAircraft.velocityX[0] > 0 && ourAircraft.velocityX[1] > 0 && ourAircraft.velocityY[0] == 0 && ourAircraft.velocityY[1] == 0 ){
+			ourAircraft.Hdg == 90;
+		}
+		else if( ourAircraft.velocityX[0] == 0 && ourAircraft.velocityX[1] == 0 && ourAircraft.velocityY[0] < 0 && ourAircraft.velocityY[1] < 0 ){
+			ourAircraft.Hdg == 180;
+		}
+		else if ( ourAircraft.velocityX[0] < 0 && ourAircraft.velocityX[1] < 0 && ourAircraft.velocityY[0] == 0 && ourAircraft.velocityY[1] == 0 ){
+			ourAircraft.Hdg == 270;
 		}
 
-		else if (aircraftA.velocityY[0] == 0 && aircraftA.velocityY[1] == 0 && aircraftA.velocityX[0] > 0 && aircraftA.velocityX[1] > 0) {
-			aircraftA.Hdg = 90;
+			///Assign possible cases to specific quadrants
+
+		else if( ourAircraft.velocityX[0] > 0 && ourAircraft.velocityX[1] > 0 && ourAircraft.velocityY[0] && ourAircraft.velocityY[1] > 0) {
+			ourAircraft.Hdg = 90 - (atan(((abs ( ourAircraft.velocityY[1] )) / ( ourAircraft.velocityX[1] ))) * (180 / PI)); /// create angle calculator here Q1
 		}
 
+		else if ( ourAircraft.velocityX[0] > 0 && ourAircraft.velocityX[1] > 0 && ourAircraft.velocityY[0] < 0 && ourAircraft.velocityY[1] < 0) {
+			ourAircraft.Hdg = 180 - (atan(((abs ( ourAircraft.velocityY[1] )) / ( ourAircraft.velocityX[1] ))) * (180 / PI)); ///input AC should be in Q4
 
-		else if (aircraftA.velocityX[0] == 0 && aircraftA.velocityX[1] && aircraftA.velocityY[0] < 0 && aircraftA.velocityY[1] < 0) {
-			aircraftA.Hdg = 180;
 		}
 
-		else if (aircraftA.velocityY[0] == 0 && aircraftA.velocityY[1] == 0 && aircraftA.velocityX[0] < 0 && aircraftA.velocityX[1] < 0) {
-			aircraftA.Hdg = 270;
+		else if( ourAircraft.velocityX[0] < 0 && ourAircraft.velocityX[1] < 0 && ourAircraft.velocityY[0] > 0 && ourAircraft.velocityY[1] > 0){
+			ourAircraft.Hdg = 360 - (atan(((abs ( ourAircraft.velocityY[1] )) / ( ourAircraft.velocityX[1] ))) * (180 / PI));///input AC should be in Q2
 		}
 
-		//Calculates heading at any angle
-		else if (aircraftA.futureDistx[0] > 0 && aircraftA.futureDisty[0] > 0) {
-			aircraftA.Hdg = 90 - (atan(((abs(aircraftA.futureDisty[2])) / (abs(aircraftA.futureDistx[2]))))*(180 / PI));
-		}
-
-
-		else if (aircraftA.futureDistx[0] > 0 && aircraftA.futureDisty[0] < 0) {
-			aircraftA.Hdg = 180 - (atan(((abs(aircraftA.futureDisty[2])) / (abs(aircraftA.futureDistx[2]))))*(180 / PI));
-		}
-
-		else if (aircraftA.futureDistx[0] < 0 && aircraftA.futureDisty[0] < 0) {
-			aircraftA.Hdg = 360 - (atan(((abs(aircraftA.futureDisty[2])) / (abs(aircraftA.futureDistx[2]))))*(180 / PI));
-		}
-
-		else if (aircraftA.futureDistx[0] < 0 && aircraftA.futureDisty[0] > 0) {
-			aircraftA.Hdg = 270 - (atan(((abs(aircraftA.futureDisty[2])) / (abs(aircraftA.futureDistx[2]))))*(180 / PI));
-		}
-
-		printf("Plane 1 Heading %f: %f\n", t, aircraftA.Hdg);
-
-
-
-		//----------------------------------------------------------------------------------------
-		//
-		// Calculates the other planes possible headings
-		//
-		//----------------------------------------------------------------------------------------
-		
-		//This may be redundant. This can be converted into a function
-		if (aircraftB.velocityX[0] == 0 && aircraftB.velocityX[1] == 0 && aircraftB.velocityY[0] > 0 && aircraftB.velocityY[1] > 0) {
-			aircraftB.Hdg = 0;
-		}
-
-		else if (aircraftB.velocityX[0] == 0 && aircraftB.velocityX[1] == 0 && aircraftB.velocityY[0] < 0 && aircraftB.velocityY[1] < 0) {
-			aircraftB.Hdg = 180;
-		}
-
-		else if (aircraftB.velocityY[0] == 0 && aircraftB.velocityY[1] == 0 && aircraftB.velocityX < 0 && aircraftB.velocityX < 0) {
-			aircraftB.Hdg = 270;
-		}
-
-		else if (aircraftB.velocityY[0] == 0 && aircraftB.velocityY[1] == 0 && aircraftB.velocityX[0] > 0 && aircraftB.velocityX[1] > 0) {
-			aircraftB.Hdg = 90;
+		else if( ourAircraft.velocityX[0] < 0 && ourAircraft.velocityX[1] < 0 && ourAircraft.velocityY[0] < 0 && ourAircraft.velocityY[1] < 0 ){
+			ourAircraft.Hdg = 270 - (atan(((abs ( ourAircraft.velocityY[1] )) / ( ourAircraft.velocityX[1] ))) * (180 / PI));///input AC should be in Q3
 		}
 
 
-		//Calculates heading at any angle
-		if (aircraftB.futureDistx[0] > 0 && aircraftB.futureDisty[0] > 0) {
-			aircraftB.Hdg = 90 - (atan(((abs(aircraftB.futureDisty[2])) / (abs(aircraftB.futureDistx[2]))))*(180 / PI));
+		printf("Plane 1 Heading %f: %f\n", t, ourAircraft.Hdg);
+
+
+		///-------------------------------------------------|
+		///-------------------------------------------------|
+		///                 Repeat for Other Aircraft      -|
+		///-------------------------------------------------|
+		///-------------------------------------------------|
+
+		///Accounts for other Aircrafts' headings, should take care of N.E.S.W. respectively; very rare cases
+
+		if( otherAircraft.velocityX[0] == 0 && otherAircraft.velocityX[1] == 0 && otherAircraft.velocityY[0] > 0 && otherAircraft.velocityY[1] > 0 ) {
+			otherAircraft.Hdg == 0;
+		}
+		else if( otherAircraft.velocityX[0] > 0 && otherAircraft.velocityX[1] > 0 && otherAircraft.velocityY[0] == 0 && otherAircraft.velocityY[1] == 0 ){
+			otherAircraft.Hdg == 90;
+		}
+		else if( otherAircraft.velocityX[0] == 0 && otherAircraft.velocityX[1] == 0 && otherAircraft.velocityY[0] < 0 && otherAircraft.velocityY[1] < 0 ){
+			otherAircraft.Hdg == 180;
+		}
+		else if ( otherAircraft.velocityX[0] < 0 && otherAircraft.velocityX[1] < 0 && otherAircraft.velocityY[0] == 0 && otherAircraft.velocityY[1] == 0 ){
+			otherAircraft.Hdg == 270;
 		}
 
-		else if (aircraftB.futureDistx[0] > 0 && aircraftB.futureDisty[0] < 0) {
-			aircraftB.Hdg = 180 - (atan(((abs(aircraftB.futureDisty[2])) / (abs(aircraftB.futureDistx[2]))))*(180 / PI));
+			///Assign possible cases to specific quadrants
+
+		else if( otherAircraft.velocityX[0] > 0 && otherAircraft.velocityX[1] > 0 && otherAircraft.velocityY[0] > 0 && otherAircraft.velocityY[1] > 0) {
+			otherAircraft.Hdg = 90 - (atan(((abs ( otherAircraft.velocityY[1] )) / ( otherAircraft.velocityX[1] ))) * (180 / PI)); ///Input AC should be in Q1
+			/// AC: angle calculator
 		}
 
-		else if (aircraftB.futureDistx[0] < 0 && aircraftB.futureDisty[0] < 0) {
-			aircraftB.Hdg = 360 - (atan(((abs(aircraftB.futureDisty[2])) / (abs(aircraftB.futureDistx[2]))))*(180 / PI));
+		else if ( otherAircraft.velocityX[0] > 0 && otherAircraft.velocityX[1] > 0 && otherAircraft.velocityY[0] < 0 && otherAircraft.velocityY[1] < 0) {
+			otherAircraft.Hdg = 180 - (atan(((abs ( otherAircraft.velocityY[1] )) / ( otherAircraft.velocityX[1] ))) * (180 / PI));///input AC should be in Q4
+
 		}
 
-		else if (aircraftB.futureDistx[0] < 0 && aircraftB.futureDisty[0] > 0) {
-			aircraftB.Hdg = 270 - (atan(((abs(aircraftB.futureDisty[2])) / (abs(aircraftB.futureDistx[2]))))*(180 / PI));
+		else if( otherAircraft.velocityX[0] < 0 && otherAircraft.velocityX[1] < 0 && otherAircraft.velocityY[0] > 0 && otherAircraft.velocityY[1] > 0){
+			otherAircraft.Hdg = 360 - (atan(((abs ( otherAircraft.velocityY[1] )) / ( otherAircraft.velocityX[1] ))) * (180 / PI));///input AC should be in Q2
 		}
 
-		printf("Plane 2 Heading %f: %f\n", t, aircraftB.Hdg);
+		else if( otherAircraft.velocityX[0] < 0 && otherAircraft.velocityX[1] < 0 && otherAircraft.velocityY[0] < 0 && otherAircraft.velocityY[1] < 0 ){
+			otherAircraft.Hdg = 270 - (atan(((abs ( otherAircraft.velocityY[1] )) / ( otherAircraft.velocityX[1] ))) * (180 / PI));///input AC should be in Q3
+		}
 
+
+
+		printf("Plane 2 Heading %f: %f\n", t, otherAircraft.Hdg);
 
 
 		//--------------------------------------------------------------------------------------------------
@@ -1793,7 +1807,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		//--------------------------------------------------------------------------------------------------
 
 		rH = abs(aircraftB.Hdg - aircraftA.Hdg);
-		*/
+
 		//-----------------------------------------------------------------------------------------------
 		//
 		//	This is converting our current values into gps (not finished yet) [here we use the Lat/Lon array to store the planes position in gps]
@@ -1803,7 +1817,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 
 		//Creates a future position item based on the current position and future distance
 		mavlink_mission_item_t ourFuturePos = NewAvoidWaypoint(aircraftA.futureDistx[2], aircraftA.futureDisty[2], aircraftA);
-		printf("Predicted position: (%f, %f)\n", ourFuturePos.x, ourFuturePos.y);
+		printf("Our Predicted position: (%f, %f)\n", ourFuturePos.x, ourFuturePos.y);
 
 		mavlink_mission_item_t otherFuturePos = NewAvoidWaypoint(aircraftB.futureDistx[2], aircraftB.futureDisty[2], aircraftB);
 		
