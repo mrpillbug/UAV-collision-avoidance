@@ -884,6 +884,7 @@ write_thread(void)
 	// signal end
 	writing_status = false;
 
+
 	return;
 
 }
@@ -933,8 +934,6 @@ write_set_servo(const int &servo, const int &pwm)
     writing_status = false;
 }
 
-
-// End Autopilot_Interface
 
 /*
  * Send waypoints to pixhawk
