@@ -369,8 +369,8 @@ struct aircraftInfo {
 
 	//Aircraft velocity and accelerations
 	//0: current velocity/acceleration, 1: last velocity (one second in the past)
-	float velocityX [2];
-	float velocityY [2];
+	double velocityX [2];
+	double velocityY [2];
 	double xAcc;
 	double yAcc;
 
@@ -382,7 +382,7 @@ struct aircraftInfo {
 	double futureDisty [3];
 
 	//Predicted heading
-	float Hdg;
+	double Hdg;
 	
 /*	Creats a safety bubble around the aircraft that increases in radius with each
 	predicted future way point up to 10 way points	*/

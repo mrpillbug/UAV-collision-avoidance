@@ -1580,14 +1580,18 @@ CA_predict_thread()
 		//Update our aircraft velocity (v) A
 		ourAircraft.velocityX[1] = ourAircraft.velocityX[0];
 		ourAircraft.velocityY[1] = ourAircraft.velocityY[0];
-		
+
 		vx = gpos.vx;
 		vy = gpos.vy;		
 
-		ourAircraft.velocityX[0] = vx / 100;
-		ourAircraft.velocityY[0] = vy / 100;
+		ourAircraft.velocityX[0] = vx / 100.0;
+		ourAircraft.velocityY[0] = vy / 100.0;
 
-		
+
+
+        //Experimental Heading
+        ourAircraft.Hdg = gpos.hdg / 100.0;
+        otherAircraft.Hdg = adsb.heading / 100.0;
 
 		//Update other aircraft velocity (v) B
 		otherAircraft.velocityX[1] = otherAircraft.velocityX[0];
@@ -1717,9 +1721,11 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 
 		///Accounts for the rare case that the aircraft is exactly North, South, East, or West
         ///If dump error occur again *out until rH calculation
-        ///Rechange our/other aircraft back to A/B
 
+        ///code determines heading based off of current velocity and one second into the future velocity
+        ///try taking out the first second into the future to determine if that changes the extremely large number returns
 
+/*
 
 		if( ourAircraft.velocityX[0] == 0 && ourAircraft.velocityX[1] == 0 && ourAircraft.velocityY[0] > 0 && ourAircraft.velocityY[1] > 0 ) {
 			ourAircraft.Hdg == 0;
@@ -1750,12 +1756,13 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		}
 
 		else if( ourAircraft.velocityX[0] < 0 && ourAircraft.velocityX[1] < 0 && ourAircraft.velocityY[0] < 0 && ourAircraft.velocityY[1] < 0 ){
-			ourAircraft.Hdg = 270 - (atan(((abs ( ourAircraft.velocityY[1] )) / ( ourAircraft.velocityX[1] ))) * (180 / PI));///input AC should be in Q3
+			ourAircraft.Hdg = 270 - (atan(((abs ( ourAircraft.velocityY[1] )) / ( ourAircraft.velocityX[1] ))) * (180 / PI));///input AC sphould be in Q3
 		}
+*/
 
 
-		printf("Plane 1 Heading %f: %f\n", t, ourAircraft.Hdg);
 
+		printf("Plane 1 Heading %i: %f\n", t, ourAircraft.Hdg);
 
 		///-------------------------------------------------|
 		///-------------------------------------------------|
@@ -1764,7 +1771,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		///-------------------------------------------------|
 
 		///Accounts for other Aircrafts' headings, should take care of N.E.S.W. respectively; very rare cases
-
+/*
 		if( otherAircraft.velocityX[0] == 0 && otherAircraft.velocityX[1] == 0 && otherAircraft.velocityY[0] > 0 && otherAircraft.velocityY[1] > 0 ) {
 			otherAircraft.Hdg == 0;
 		}
@@ -1799,8 +1806,8 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		}
 
 
-
-		printf("Plane 2 Heading %f: %f\n", t, otherAircraft.Hdg);
+*/
+		printf("Plane 2 Heading %i: %f\n", t, otherAircraft.Hdg);
 
 
 		//--------------------------------------------------------------------------------------------------
