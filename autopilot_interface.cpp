@@ -1404,6 +1404,7 @@ aircraftInfo() {
 	Hdg = 0;
 	safetyBubble = 10;  //Roughly 60 ft
 	priority = 0;
+    ICAO;
 
 }
 
@@ -1545,6 +1546,7 @@ CA_predict_thread()
 	//------------------------------------------------
 	double vx;
 	double vy;
+    double rH;
 	while ( ! time_to_exit ) {
 
 
@@ -1615,13 +1617,18 @@ CA_predict_thread()
 		otherAircraft.yAcc = (otherAircraft.velocityY[0] - otherAircraft.velocityY[1]);//yAcc
 
 
+        //Determining potential Aircrafts in the area...
+        otherAircraft.ICAO = adsb.ICAO_address;
 
-
+        rH = abs(otherAircraft.Hdg - ourAircraft.Hdg);
 
 		printf("Our Velocity (vx ,vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
-
 		printf("Our Position (X,Y): (%f, %f)\nother (X,Y): (%f, %f)\n",
 		ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]);
+        printf("The aircraft we are pulling from is :%f\n", otherAircraft.ICAO);
+        printf("Plane 1 Heading: %f\n", ourAircraft.Hdg);
+        printf("Plane 2 Heading: %f\n", otherAircraft.Hdg);
+        printf("Relative Heading: %f\n", rH);
 
 
 		//Predict
@@ -1635,7 +1642,7 @@ CA_predict_thread()
 
 			printf("Time to collision from in here: %f\n", collision.timeToCollision);
 			CA_Avoid(ourAircraft, otherAircraft, collision);
-	
+
 		}
 
 		printf("Distance between aircraft: %f\n", gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]));
@@ -1664,7 +1671,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
     ///
     ///------------------------------------------------------------------
 
-	int fps = 20; //fps meaning future points
+	int fps = 10; //fps meaning future points
 	double  rH; // for relative Heading of the planes
 	int t;
 	float t2;
@@ -1705,13 +1712,19 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		aircraftB.futureDisty[1] = aircraftB.velocityY[1] * (t2) + 0.5*(aircraftB.yAcc)* pow((t + 0.1), 2);//futuredisty2
 
 		aircraftB.futureDistx[2] = aircraftB.futureDistx[1] - aircraftB.futureDistx[0];//dx
-		aircraftB.futureDisty[2] = aircraftB.futureDisty[1] - aircraftB.futureDisty[1];//dy
+		aircraftB.futureDisty[2] = aircraftB.futureDisty[1] - aircraftB.futureDisty[0];//dy
 
-        printf("\n");
+        //printf("\n");
 
 		//printf("Future latitude distance of plane A (%f, %f, %f)\n", aircraftA.futureDistx[0], aircraftA.futureDistx[1], aircraftA.futureDistx[2]);
         //printf("Future longitude distance of plane A (%f, %f, %f)\n", aircraftA.futureDisty[0], aircraftA.futureDisty[1], aircraftA.futureDisty[2]);
 
+
+
+        ///---------------
+        ///  Unnecessary code, calculates our and another planes heading.... ACCURATE  however we can pull from devices so not necessary
+
+            /*
 
 		//------------------------------------------------------------------------------------------------------
 		//
@@ -1725,7 +1738,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
         ///code determines heading based off of current velocity and one second into the future velocity
         ///try taking out the first second into the future to determine if that changes the extremely large number returns
 
-/*
+
 
 		if( ourAircraft.velocityX[0] == 0 && ourAircraft.velocityX[1] == 0 && ourAircraft.velocityY[0] > 0 && ourAircraft.velocityY[1] > 0 ) {
 			ourAircraft.Hdg == 0;
@@ -1758,7 +1771,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		else if( ourAircraft.velocityX[0] < 0 && ourAircraft.velocityX[1] < 0 && ourAircraft.velocityY[0] < 0 && ourAircraft.velocityY[1] < 0 ){
 			ourAircraft.Hdg = 270 - (atan(((abs ( ourAircraft.velocityY[1] )) / ( ourAircraft.velocityX[1] ))) * (180 / PI));///input AC sphould be in Q3
 		}
-*/
+
 
 
 
@@ -1771,7 +1784,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		///-------------------------------------------------|
 
 		///Accounts for other Aircrafts' headings, should take care of N.E.S.W. respectively; very rare cases
-/*
+
 		if( otherAircraft.velocityX[0] == 0 && otherAircraft.velocityX[1] == 0 && otherAircraft.velocityY[0] > 0 && otherAircraft.velocityY[1] > 0 ) {
 			otherAircraft.Hdg == 0;
 		}
@@ -1806,15 +1819,25 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		}
 
 
-*/
-		printf("Plane 2 Heading %i: %f\n", t, otherAircraft.Hdg);
+
+		//printf("Plane 2 Heading %i: %f\n", t, otherAircraft.Hdg);
 
 
 		//--------------------------------------------------------------------------------------------------
 		//Relative heading
 		//--------------------------------------------------------------------------------------------------
 
-		rH = abs(aircraftB.Hdg - aircraftA.Hdg);
+		rH = abs(otherAircraft.Hdg - ourAircraft.Hdg);
+
+
+
+
+        */
+
+        /// Reason why this is commented out is because we were moving too slowly for OUR PLANE to get an accurate heading
+        /// If ADS-B or GPS is acting up this SHOULD be sufficient to give an accurate heading HOWEVER you need to be moving pretty fast
+        ///---------------
+
 
 		//-----------------------------------------------------------------------------------------------
 		//
@@ -1822,13 +1845,14 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		//
 		//-----------------------------------------------------------------------------------------------
 
+        printf("Interval: %i\n", t);
 
 		//Creates a future position item based on the current position and future distance
 		mavlink_mission_item_t ourFuturePos = NewAvoidWaypoint(aircraftA.futureDistx[2], aircraftA.futureDisty[2], aircraftA);
-		printf("Our Predicted position: (%f, %f)\n", ourFuturePos.x, ourFuturePos.y);
+		printf("Plane 1's Predicted Position: (%f, %f)\n", ourFuturePos.x, ourFuturePos.y);
 
 		mavlink_mission_item_t otherFuturePos = NewAvoidWaypoint(aircraftB.futureDistx[2], aircraftB.futureDisty[2], aircraftB);
-		
+		printf("Plane 2's Predicted Position: (%f, %f)\n", otherFuturePos.x, otherFuturePos.y);
 
 		//----------------------------------------------------------------------------------------------
 		//

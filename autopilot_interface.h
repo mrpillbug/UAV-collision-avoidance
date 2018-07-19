@@ -383,6 +383,12 @@ struct aircraftInfo {
 
 	//Predicted heading
 	double Hdg;
+
+
+    //Grab ICAO
+    double ICAO;
+
+
 	
 /*	Creats a safety bubble around the aircraft that increases in radius with each
 	predicted future way point up to 10 way points	*/
