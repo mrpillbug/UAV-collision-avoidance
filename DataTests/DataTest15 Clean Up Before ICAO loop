@@ -1,0 +1,4584 @@
+July 19, 2018
+
+INDOOR Data Test Run
+For some reason GPS and ADS-B were able to recieve inside the building so I just let it run, it was pretty sweet~
+
+
+START READ THREAD 
+
+CHECK FOR MESSAGES
+Found
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD 
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+POSITION LOGGED
+Our Velocity (vx ,vy): (2.360000, 0.990000)
+Our Position (X,Y): (34.059106, -117.820449)
+other (X,Y): (-112.236859, -161.061261)
+The aircraft we are pulling from is :3221225472.000000 Plane 1 Heading: 177.180000
+Plane 2 Heading: 1.270000
+Relative Heading: 175.000000
+
+
+vx 2.360000
+
+Interval: 0
+Plane 1's Predicted Position: (34.059105, -117.820450)
+Plane 2's Predicted Position: (-112.238052, -161.061249)
+Interval: 1
+Plane 1's Predicted Position: (34.059128, -117.820465)
+Plane 2's Predicted Position: (-112.022804, -161.063660)
+Interval: 2
+Plane 1's Predicted Position: (34.059147, -117.820488)
+Plane 2's Predicted Position: (-111.807549, -161.066086)
+Interval: 3
+Plane 1's Predicted Position: (34.059170, -117.820503)
+Plane 2's Predicted Position: (-111.592293, -161.068512)
+Interval: 4
+Plane 1's Predicted Position: (34.059189, -117.820526)
+Plane 2's Predicted Position: (-111.377037, -161.070923)
+Interval: 5
+Plane 1's Predicted Position: (34.059212, -117.820541)
+Plane 2's Predicted Position: (-111.161781, -161.073349)
+Interval: 6
+Plane 1's Predicted Position: (34.059231, -117.820564)
+Plane 2's Predicted Position: (-110.946533, -161.075760)
+Interval: 7
+Plane 1's Predicted Position: (34.059254, -117.820580)
+Plane 2's Predicted Position: (-110.731277, -161.078186)
+Interval: 8
+Plane 1's Predicted Position: (34.059273, -117.820602)
+Plane 2's Predicted Position: (-110.516022, -161.080597)
+Interval: 9
+Plane 1's Predicted Position: (34.059296, -117.820618)
+Plane 2's Predicted Position: (-110.300766, -161.083023)
+
+
+Collision predicted? 0
+Distance between aircraft: 15396685.587885
+Our Velocity (vx ,vy): (-1.970000, 0.020000)
+Our Position (X,Y): (34.059137, -117.820500)
+other (X,Y): (33.988174, -117.873548)
+The aircraft we are pulling from is :11303815.000000 Plane 1 Heading: 169.090000
+Plane 2 Heading: 263.190000
+Relative Heading: 94.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059135, -117.820503)
+Plane 2's Predicted Position: (33.986259, -117.873619)
+Interval: 1
+Plane 1's Predicted Position: (34.059097, -117.820480)
+Plane 2's Predicted Position: (33.900768, -117.851311)
+Interval: 2
+Plane 1's Predicted Position: (34.059059, -117.820465)
+Plane 2's Predicted Position: (33.815277, -117.829002)
+Interval: 3
+Plane 1's Predicted Position: (34.059021, -117.820442)
+Plane 2's Predicted Position: (33.729786, -117.806694)
+Interval: 4
+Plane 1's Predicted Position: (34.058983, -117.820427)
+Plane 2's Predicted Position: (33.644295, -117.784386)
+Interval: 5
+Plane 1's Predicted Position: (34.058945, -117.820404)
+Plane 2's Predicted Position: (33.558807, -117.762077)
+Interval: 6
+Plane 1's Predicted Position: (34.058907, -117.820389)
+Plane 2's Predicted Position: (33.473316, -117.739769)
+Interval: 7
+Plane 1's Predicted Position: (34.058868, -117.820374)
+Plane 2's Predicted Position: (33.387825, -117.717461)
+Interval: 8
+Plane 1's Predicted Position: (34.058830, -117.820351)
+Plane 2's Predicted Position: (33.302334, -117.695152)
+Interval: 9
+Plane 1's Predicted Position: (34.058792, -117.820335)
+Plane 2's Predicted Position: (33.216843, -117.672844)
+
+
+Collision predicted? 0
+Distance between aircraft: 9292.652360
+
+
+vx 2.330000
+
+Our Velocity (vx ,vy): (2.330000, 1.720000)
+Our Position (X,Y): (34.059186, -117.820412)
+other (X,Y): (33.987556, -117.879753)
+The aircraft we are pulling from is :11303815.000000 Plane 1 Heading: 159.160000
+Plane 2 Heading: 263.170000
+Relative Heading: 104.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059185, -117.820412)
+Plane 2's Predicted Position: (33.986118, -117.879944)
+Interval: 1
+Plane 1's Predicted Position: (34.059223, -117.820442)
+Plane 2's Predicted Position: (33.985703, -117.879944)
+Interval: 2
+Plane 1's Predicted Position: (34.059261, -117.820473)
+Plane 2's Predicted Position: (33.985291, -117.879944)
+Interval: 3
+Plane 1's Predicted Position: (34.059299, -117.820511)
+Plane 2's Predicted Position: (33.984879, -117.879944)
+Interval: 4
+Plane 1's Predicted Position: (34.059338, -117.820541)
+Plane 2's Predicted Position: (33.984467, -117.879944)
+Interval: 5
+Plane 1's Predicted Position: (34.059376, -117.820572)
+Plane 2's Predicted Position: (33.984055, -117.879944)
+Interval: 6
+Plane 1's Predicted Position: (34.059414, -117.820602)
+Plane 2's Predicted Position: (33.983643, -117.879944)
+Interval: 7
+Plane 1's Predicted Position: (34.059452, -117.820641)
+Plane 2's Predicted Position: (33.983231, -117.879944)
+Interval: 8
+Plane 1's Predicted Position: (34.059490, -117.820671)
+Plane 2's Predicted Position: (33.982819, -117.879944)
+Interval: 9
+Plane 1's Predicted Position: (34.059528, -117.820702)
+Plane 2's Predicted Position: (33.982407, -117.879944)
+
+
+Collision predicted? 0
+Distance between aircraft: 9672.373159
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+mitch@mitch-Lenovo-ideapad-FLEX-5-1570:~/githubfolder/UAV-collision-avoidance/build$ make
+Scanning dependencies of target CA
+[ 25%] Building CXX object CMakeFiles/CA.dir/autopilot_interface.cpp.o
+[ 50%] Linking CXX executable CA
+[100%] Built target CA
+mitch@mitch-Lenovo-ideapad-FLEX-5-1570:~/githubfolder/UAV-collision-avoidance/build$ ./CA
+hellohelloOPEN PORT
+Connected to /dev/ttyACM0 with 115200 baud, 8 data bits, no parity, 1 stop bit (8N1)
+
+START READ THREAD 
+
+CHECK FOR MESSAGES
+Found
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD 
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+
+vx -1.790000
+
+
+POSITION LOGGED
+Our Velocity (vx ,vy): (-1.790000, -9.340000)
+Our Position (X,Y): (34.059720, -117.829419)
+other (X,Y): (33.993347, -117.822540)
+The aircraft we are pulling from is :10641555.000000
+ Plane 1 Heading: 209.700000
+Plane 2 Heading: 263.170000
+Relative Heading: 53.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059719, -117.829422)
+Plane 2's Predicted Position: (33.992645, -117.822617)
+Interval: 1
+Plane 1's Predicted Position: (34.059704, -117.829239)
+Plane 2's Predicted Position: (34.118668, -117.808556)
+Interval: 2
+Plane 1's Predicted Position: (34.059689, -117.829063)
+Plane 2's Predicted Position: (34.244686, -117.794487)
+Interval: 3
+Plane 1's Predicted Position: (34.059673, -117.828888)
+Plane 2's Predicted Position: (34.370708, -117.780418)
+Interval: 4
+Plane 1's Predicted Position: (34.059654, -117.828705)
+Plane 2's Predicted Position: (34.496727, -117.766357)
+Interval: 5
+Plane 1's Predicted Position: (34.059639, -117.828529)
+Plane 2's Predicted Position: (34.622749, -117.752289)
+Interval: 6
+Plane 1's Predicted Position: (34.059624, -117.828354)
+Plane 2's Predicted Position: (34.748768, -117.738220)
+Interval: 7
+Plane 1's Predicted Position: (34.059608, -117.828171)
+Plane 2's Predicted Position: (34.874790, -117.724159)
+Interval: 8
+Plane 1's Predicted Position: (34.059593, -117.827995)
+Plane 2's Predicted Position: (35.000809, -117.710091)
+Interval: 9
+Plane 1's Predicted Position: (34.059578, -117.827820)
+Plane 2's Predicted Position: (35.126831, -117.696022)
+
+
+Collision predicted? 0
+Distance between aircraft: 7415.654787
+Our Velocity (vx ,vy): (-1.120000, -7.990000)
+Our Position (X,Y): (34.059692, -117.829387)
+other (X,Y): (33.993347, -117.822540)
+The aircraft we are pulling from is :10641555.000000
+ Plane 1 Heading: 210.280000
+Plane 2 Heading: 263.170000
+Relative Heading: 52.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059692, -117.829391)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 1
+Plane 1's Predicted Position: (34.059700, -117.829414)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 2
+Plane 1's Predicted Position: (34.059704, -117.829437)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 3
+Plane 1's Predicted Position: (34.059711, -117.829468)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 4
+Plane 1's Predicted Position: (34.059715, -117.829491)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 5
+Plane 1's Predicted Position: (34.059723, -117.829514)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 6
+Plane 1's Predicted Position: (34.059727, -117.829544)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 7
+Plane 1's Predicted Position: (34.059734, -117.829567)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 8
+Plane 1's Predicted Position: (34.059738, -117.829597)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 9
+Plane 1's Predicted Position: (34.059746, -117.829620)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+
+
+Collision predicted? 0
+Distance between aircraft: 7412.343098
+^X
+
+vx -0.740000
+
+Our Velocity (vx ,vy): (-0.740000, -6.650000)
+Our Position (X,Y): (34.059673, -117.829343)
+other (X,Y): (33.993347, -117.822540)
+The aircraft we are pulling from is :10641555.000000
+ Plane 1 Heading: 207.740000
+Plane 2 Heading: 263.170000
+Relative Heading: 55.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059673, -117.829346)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 1
+Plane 1's Predicted Position: (34.059677, -117.829369)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 2
+Plane 1's Predicted Position: (34.059681, -117.829399)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 3
+Plane 1's Predicted Position: (34.059681, -117.829422)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 4
+Plane 1's Predicted Position: (34.059685, -117.829445)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 5
+Plane 1's Predicted Position: (34.059689, -117.829475)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 6
+Plane 1's Predicted Position: (34.059692, -117.829498)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 7
+Plane 1's Predicted Position: (34.059696, -117.829521)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 8
+Plane 1's Predicted Position: (34.059700, -117.829552)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 9
+Plane 1's Predicted Position: (34.059704, -117.829575)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+
+
+Collision predicted? 0
+Distance between aircraft: 7409.839266
+Our Velocity (vx ,vy): (-2.050000, -8.040000)
+Our Position (X,Y): (34.059646, -117.829290)
+other (X,Y): (33.993347, -117.822540)
+The aircraft we are pulling from is :10641555.000000
+ Plane 1 Heading: 211.290000
+Plane 2 Heading: 263.170000
+Relative Heading: 51.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059647, -117.829292)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 1
+Plane 1's Predicted Position: (34.059635, -117.829262)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 2
+Plane 1's Predicted Position: (34.059624, -117.829239)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 3
+Plane 1's Predicted Position: (34.059612, -117.829208)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 4
+Plane 1's Predicted Position: (34.059601, -117.829185)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 5
+Plane 1's Predicted Position: (34.059589, -117.829163)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 6
+Plane 1's Predicted Position: (34.059578, -117.829132)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 7
+Plane 1's Predicted Position: (34.059563, -117.829109)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 8
+Plane 1's Predicted Position: (34.059551, -117.829079)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+Interval: 9
+Plane 1's Predicted Position: (34.059540, -117.829056)
+Plane 2's Predicted Position: (33.991947, -117.822693)
+
+
+Collision predicted? 0
+Distance between aircraft: 7406.464231
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+
+mitch@mitch-Lenovo-ideapad-FLEX-5-1570:~/githubfolder/UAV-collision-avoidance/build$ make
+Scanning dependencies of target CA
+[ 25%] Building CXX object CMakeFiles/CA.dir/autopilot_interface.cpp.o
+[ 50%] Linking CXX executable CA
+[100%] Built target CA
+mitch@mitch-Lenovo-ideapad-FLEX-5-1570:~/githubfolder/UAV-collision-avoidance/build$ ./CA
+hellohelloOPEN PORT
+Connected to /dev/ttyACM0 with 115200 baud, 8 data bits, no parity, 1 stop bit (8N1)
+
+START READ THREAD 
+
+CHECK FOR MESSAGES
+Found
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD 
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+
+vx 0.000000
+
+
+POSITION LOGGED
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (34.059806, -117.828820)
+other (X,Y): (33.992340, -117.832685)
+The aircraft we are pulling from is :10641555.000000
+Plane 1 Heading: 193.040000
+Plane 2 Heading: 263.200000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.991638, -117.832764)
+Interval: 1
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.118080, -117.819252)
+Interval: 2
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.244518, -117.805748)
+Interval: 3
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.370960, -117.792236)
+Interval: 4
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.497402, -117.778732)
+Interval: 5
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.623840, -117.765228)
+Interval: 6
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.750282, -117.751717)
+Interval: 7
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.876724, -117.738213)
+Interval: 8
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (35.003162, -117.724701)
+Interval: 9
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (35.129604, -117.711197)
+
+
+Collision predicted? 0
+Distance between aircraft: 7518.578833
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (34.059806, -117.828820)
+other (X,Y): (33.987882, -117.878551)
+The aircraft we are pulling from is :10641555.000000
+Plane 1 Heading: 192.910000
+Plane 2 Heading: 263.310000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986465, -117.878700)
+Interval: 1
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.988544, -117.878700)
+Interval: 2
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.990620, -117.878700)
+Interval: 3
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.992699, -117.878700)
+Interval: 4
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.994778, -117.878700)
+Interval: 5
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.996853, -117.878700)
+Interval: 6
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.998932, -117.878700)
+Interval: 7
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.001011, -117.878700)
+Interval: 8
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.003090, -117.878700)
+Interval: 9
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (34.005165, -117.878700)
+
+
+Collision predicted? 0
+Distance between aircraft: 9227.901125
+
+
+vx 0.000000
+
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (34.059806, -117.828820)
+other (X,Y): (33.987882, -117.878551)
+The aircraft we are pulling from is :10641555.000000
+Plane 1 Heading: 192.850000
+Plane 2 Heading: 263.310000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 1
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 2
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 3
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 4
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 5
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 6
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 7
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 8
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 9
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+
+
+Collision predicted? 0
+Distance between aircraft: 9227.901125
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (34.059806, -117.828820)
+other (X,Y): (33.987882, -117.878551)
+The aircraft we are pulling from is :10641555.000000
+Plane 1 Heading: 192.710000
+Plane 2 Heading: 263.310000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 1
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 2
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 3
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 4
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 5
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 6
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 7
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 8
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 9
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+
+
+Collision predicted? 0
+Distance between aircraft: 9227.901125
+
+
+vx 0.000000
+
+Our Velocity (vx ,vy): (0.000000, 0.000000)
+Our Position (X,Y): (34.059806, -117.828820)
+other (X,Y): (33.987882, -117.878551)
+The aircraft we are pulling from is :10641555.000000
+Plane 1 Heading: 192.630000
+Plane 2 Heading: 263.310000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 1
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 2
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 3
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 4
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 5
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 6
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 7
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 8
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+Interval: 9
+Plane 1's Predicted Position: (34.059807, -117.828819)
+Plane 2's Predicted Position: (33.986454, -117.878700)
+
+
+Collision predicted? 0
+Distance between aircraft: 9227.901125
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+
+mitch@mitch-Lenovo-ideapad-FLEX-5-1570:~/githubfolder/UAV-collision-avoidance/build$ ./CA
+hellohelloOPEN PORT
+Connected to /dev/ttyACM0 with 115200 baud, 8 data bits, no parity, 1 stop bit (8N1)
+
+START READ THREAD 
+
+CHECK FOR MESSAGES
+Found
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD 
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+
+vx -0.150000
+
+
+POSITION LOGGED
+Our Velocity (vx ,vy): (-0.150000, 1.090000)
+Our Position (X,Y): (34.059001, -117.820456)
+other (X,Y): (33.996913, -117.783623)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.170000
+Plane 2 Heading: 263.270000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059002, -117.820457)
+Plane 2's Predicted Position: (33.996223, -117.783684)
+Interval: 1
+Plane 1's Predicted Position: (34.058998, -117.820480)
+Plane 2's Predicted Position: (34.120579, -117.772980)
+Interval: 2
+Plane 1's Predicted Position: (34.058998, -117.820496)
+Plane 2's Predicted Position: (34.244930, -117.762276)
+Interval: 3
+Plane 1's Predicted Position: (34.058998, -117.820518)
+Plane 2's Predicted Position: (34.369286, -117.751579)
+Interval: 4
+Plane 1's Predicted Position: (34.058994, -117.820541)
+Plane 2's Predicted Position: (34.493641, -117.740875)
+Interval: 5
+Plane 1's Predicted Position: (34.058994, -117.820557)
+Plane 2's Predicted Position: (34.617996, -117.730171)
+Interval: 6
+Plane 1's Predicted Position: (34.058994, -117.820580)
+Plane 2's Predicted Position: (34.742352, -117.719475)
+Interval: 7
+Plane 1's Predicted Position: (34.058990, -117.820602)
+Plane 2's Predicted Position: (34.866707, -117.708771)
+Interval: 8
+Plane 1's Predicted Position: (34.058990, -117.820625)
+Plane 2's Predicted Position: (34.991062, -117.698067)
+Interval: 9
+Plane 1's Predicted Position: (34.058990, -117.820641)
+Plane 2's Predicted Position: (35.115417, -117.687370)
+
+
+Collision predicted? 0
+Distance between aircraft: 7701.649364
+Our Velocity (vx ,vy): (0.200000, -0.790000)
+Our Position (X,Y): (34.058992, -117.820442)
+other (X,Y): (33.996773, -117.785282)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.230000
+Plane 2 Heading: 263.270000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058990, -117.820442)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 1
+Plane 1's Predicted Position: (34.058994, -117.820404)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 2
+Plane 1's Predicted Position: (34.058998, -117.820374)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 3
+Plane 1's Predicted Position: (34.059002, -117.820335)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 4
+Plane 1's Predicted Position: (34.059006, -117.820297)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 5
+Plane 1's Predicted Position: (34.059010, -117.820259)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 6
+Plane 1's Predicted Position: (34.059010, -117.820229)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 7
+Plane 1's Predicted Position: (34.059013, -117.820190)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 8
+Plane 1's Predicted Position: (34.059017, -117.820152)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 9
+Plane 1's Predicted Position: (34.059021, -117.820122)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+
+
+Collision predicted? 0
+Distance between aircraft: 7647.999958
+
+
+vx -0.630000
+
+Our Velocity (vx ,vy): (-0.630000, 1.240000)
+Our Position (X,Y): (34.058986, -117.820433)
+other (X,Y): (33.996773, -117.785282)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.060000
+Plane 2 Heading: 263.270000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058987, -117.820435)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 1
+Plane 1's Predicted Position: (34.058979, -117.820473)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 2
+Plane 1's Predicted Position: (34.058971, -117.820511)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 3
+Plane 1's Predicted Position: (34.058964, -117.820549)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 4
+Plane 1's Predicted Position: (34.058956, -117.820587)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 5
+Plane 1's Predicted Position: (34.058949, -117.820625)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 6
+Plane 1's Predicted Position: (34.058941, -117.820663)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 7
+Plane 1's Predicted Position: (34.058933, -117.820702)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 8
+Plane 1's Predicted Position: (34.058926, -117.820740)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 9
+Plane 1's Predicted Position: (34.058918, -117.820778)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+
+
+Collision predicted? 0
+Distance between aircraft: 7647.024505
+Our Velocity (vx ,vy): (0.300000, 4.000000)
+Our Position (X,Y): (34.058986, -117.820394)
+other (X,Y): (33.996773, -117.785282)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.350000
+Plane 2 Heading: 263.270000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058987, -117.820396)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 1
+Plane 1's Predicted Position: (34.058994, -117.820450)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 2
+Plane 1's Predicted Position: (34.059002, -117.820496)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 3
+Plane 1's Predicted Position: (34.059010, -117.820549)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 4
+Plane 1's Predicted Position: (34.059017, -117.820602)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 5
+Plane 1's Predicted Position: (34.059029, -117.820656)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 6
+Plane 1's Predicted Position: (34.059036, -117.820709)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 7
+Plane 1's Predicted Position: (34.059044, -117.820763)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 8
+Plane 1's Predicted Position: (34.059052, -117.820816)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+Interval: 9
+Plane 1's Predicted Position: (34.059059, -117.820869)
+Plane 2's Predicted Position: (33.995392, -117.785400)
+
+
+Collision predicted? 0
+Distance between aircraft: 7645.466882
+
+
+vx 0.680000
+
+Our Velocity (vx ,vy): (0.680000, 0.800000)
+Our Position (X,Y): (34.058983, -117.820364)
+other (X,Y): (33.996414, -117.788572)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.660000
+Plane 2 Heading: 263.270000
+Relative Heading: 73.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058983, -117.820366)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 1
+Plane 1's Predicted Position: (34.058987, -117.820305)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 2
+Plane 1's Predicted Position: (34.058990, -117.820244)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 3
+Plane 1's Predicted Position: (34.058994, -117.820183)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 4
+Plane 1's Predicted Position: (34.058998, -117.820122)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 5
+Plane 1's Predicted Position: (34.058998, -117.820061)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 6
+Plane 1's Predicted Position: (34.059002, -117.820000)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 7
+Plane 1's Predicted Position: (34.059006, -117.819939)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 8
+Plane 1's Predicted Position: (34.059010, -117.819878)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+Interval: 9
+Plane 1's Predicted Position: (34.059013, -117.819817)
+Plane 2's Predicted Position: (33.995033, -117.788689)
+
+
+Collision predicted? 0
+Distance between aircraft: 7557.395656
+Our Velocity (vx ,vy): (-1.100000, 1.650000)
+Our Position (X,Y): (34.058979, -117.820348)
+other (X,Y): (33.996094, -117.792047)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.940000
+Plane 2 Heading: 263.300000
+Relative Heading: 73.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058979, -117.820351)
+Plane 2's Predicted Position: (33.994709, -117.792168)
+Interval: 1
+Plane 1's Predicted Position: (34.058964, -117.820366)
+Plane 2's Predicted Position: (33.995129, -117.791595)
+Interval: 2
+Plane 1's Predicted Position: (34.058949, -117.820381)
+Plane 2's Predicted Position: (33.995552, -117.791023)
+Interval: 3
+Plane 1's Predicted Position: (34.058929, -117.820396)
+Plane 2's Predicted Position: (33.995972, -117.790451)
+Interval: 4
+Plane 1's Predicted Position: (34.058914, -117.820412)
+Plane 2's Predicted Position: (33.996391, -117.789879)
+Interval: 5
+Plane 1's Predicted Position: (34.058899, -117.820427)
+Plane 2's Predicted Position: (33.996811, -117.789307)
+Interval: 6
+Plane 1's Predicted Position: (34.058884, -117.820442)
+Plane 2's Predicted Position: (33.997231, -117.788734)
+Interval: 7
+Plane 1's Predicted Position: (34.058868, -117.820465)
+Plane 2's Predicted Position: (33.997654, -117.788162)
+Interval: 8
+Plane 1's Predicted Position: (34.058853, -117.820480)
+Plane 2's Predicted Position: (33.998074, -117.787590)
+Interval: 9
+Plane 1's Predicted Position: (34.058838, -117.820496)
+Plane 2's Predicted Position: (33.998493, -117.787018)
+
+
+Collision predicted? 0
+Distance between aircraft: 7471.306412
+
+
+vx -2.210000
+
+Our Velocity (vx ,vy): (-2.210000, 2.780000)
+Our Position (X,Y): (34.058969, -117.820324)
+other (X,Y): (33.995956, -117.793392)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.720000
+Plane 2 Heading: 263.300000
+Relative Heading: 73.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058968, -117.820328)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 1
+Plane 1's Predicted Position: (34.058960, -117.820343)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 2
+Plane 1's Predicted Position: (34.058949, -117.820366)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 3
+Plane 1's Predicted Position: (34.058941, -117.820389)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 4
+Plane 1's Predicted Position: (34.058929, -117.820412)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 5
+Plane 1's Predicted Position: (34.058922, -117.820435)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 6
+Plane 1's Predicted Position: (34.058910, -117.820450)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 7
+Plane 1's Predicted Position: (34.058899, -117.820473)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 8
+Plane 1's Predicted Position: (34.058891, -117.820496)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+Interval: 9
+Plane 1's Predicted Position: (34.058880, -117.820518)
+Plane 2's Predicted Position: (33.994572, -117.793518)
+
+
+Collision predicted? 0
+Distance between aircraft: 7441.517547
+Our Velocity (vx ,vy): (0.190000, 0.220000)
+Our Position (X,Y): (34.058961, -117.820290)
+other (X,Y): (33.995773, -117.795074)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 186.040000
+Plane 2 Heading: 263.300000
+Relative Heading: 77.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058960, -117.820290)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 1
+Plane 1's Predicted Position: (34.058983, -117.820244)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 2
+Plane 1's Predicted Position: (34.059006, -117.820190)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 3
+Plane 1's Predicted Position: (34.059025, -117.820145)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 4
+Plane 1's Predicted Position: (34.059048, -117.820091)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 5
+Plane 1's Predicted Position: (34.059067, -117.820045)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 6
+Plane 1's Predicted Position: (34.059090, -117.820000)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 7
+Plane 1's Predicted Position: (34.059109, -117.819946)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 8
+Plane 1's Predicted Position: (34.059132, -117.819901)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+Interval: 9
+Plane 1's Predicted Position: (34.059155, -117.819855)
+Plane 2's Predicted Position: (33.994389, -117.795197)
+
+
+Collision predicted? 0
+Distance between aircraft: 7408.653571
+
+
+vx 1.170000
+
+Our Velocity (vx ,vy): (1.170000, 0.000000)
+Our Position (X,Y): (34.058958, -117.820264)
+other (X,Y): (33.995590, -117.796868)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 186.840000
+Plane 2 Heading: 263.300000
+Relative Heading: 76.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058956, -117.820267)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 1
+Plane 1's Predicted Position: (34.058968, -117.820259)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 2
+Plane 1's Predicted Position: (34.058975, -117.820259)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 3
+Plane 1's Predicted Position: (34.058983, -117.820251)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 4
+Plane 1's Predicted Position: (34.058994, -117.820244)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 5
+Plane 1's Predicted Position: (34.059002, -117.820244)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 6
+Plane 1's Predicted Position: (34.059010, -117.820236)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 7
+Plane 1's Predicted Position: (34.059017, -117.820236)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 8
+Plane 1's Predicted Position: (34.059029, -117.820229)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+Interval: 9
+Plane 1's Predicted Position: (34.059036, -117.820229)
+Plane 2's Predicted Position: (33.994205, -117.796989)
+
+
+Collision predicted? 0
+Distance between aircraft: 7376.790886
+Our Velocity (vx ,vy): (-0.780000, 2.080000)
+Our Position (X,Y): (34.058964, -117.820258)
+other (X,Y): (33.995499, -117.797876)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 187.340000
+Plane 2 Heading: 263.300000
+Relative Heading: 75.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058964, -117.820259)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 1
+Plane 1's Predicted Position: (34.058945, -117.820297)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 2
+Plane 1's Predicted Position: (34.058929, -117.820335)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 3
+Plane 1's Predicted Position: (34.058910, -117.820374)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 4
+Plane 1's Predicted Position: (34.058895, -117.820419)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 5
+Plane 1's Predicted Position: (34.058876, -117.820457)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 6
+Plane 1's Predicted Position: (34.058861, -117.820496)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 7
+Plane 1's Predicted Position: (34.058842, -117.820534)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 8
+Plane 1's Predicted Position: (34.058826, -117.820572)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+Interval: 9
+Plane 1's Predicted Position: (34.058807, -117.820618)
+Plane 2's Predicted Position: (33.994114, -117.798004)
+
+
+Collision predicted? 0
+Distance between aircraft: 7360.393895
+
+
+vx -2.060000
+
+Our Velocity (vx ,vy): (-2.060000, 5.220000)
+Our Position (X,Y): (34.058947, -117.820198)
+other (X,Y): (33.995423, -117.798729)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 181.190000
+Plane 2 Heading: 263.110000
+Relative Heading: 81.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058949, -117.820198)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 1
+Plane 1's Predicted Position: (34.058937, -117.820259)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 2
+Plane 1's Predicted Position: (34.058926, -117.820320)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 3
+Plane 1's Predicted Position: (34.058914, -117.820374)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 4
+Plane 1's Predicted Position: (34.058903, -117.820435)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 5
+Plane 1's Predicted Position: (34.058891, -117.820496)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 6
+Plane 1's Predicted Position: (34.058880, -117.820557)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 7
+Plane 1's Predicted Position: (34.058868, -117.820618)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 8
+Plane 1's Predicted Position: (34.058857, -117.820679)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+Interval: 9
+Plane 1's Predicted Position: (34.058846, -117.820732)
+Plane 2's Predicted Position: (33.994038, -117.798851)
+
+
+Collision predicted? 0
+Distance between aircraft: 7343.463184
+Our Velocity (vx ,vy): (0.370000, 2.520000)
+Our Position (X,Y): (34.058946, -117.820171)
+other (X,Y): (33.995224, -117.800679)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 177.730000
+Plane 2 Heading: 263.110000
+Relative Heading: 85.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058945, -117.820168)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 1
+Plane 1's Predicted Position: (34.058968, -117.820122)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 2
+Plane 1's Predicted Position: (34.058990, -117.820068)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 3
+Plane 1's Predicted Position: (34.059010, -117.820015)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 4
+Plane 1's Predicted Position: (34.059032, -117.819962)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 5
+Plane 1's Predicted Position: (34.059055, -117.819916)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 6
+Plane 1's Predicted Position: (34.059074, -117.819862)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 7
+Plane 1's Predicted Position: (34.059097, -117.819809)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 8
+Plane 1's Predicted Position: (34.059120, -117.819756)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+Interval: 9
+Plane 1's Predicted Position: (34.059139, -117.819710)
+Plane 2's Predicted Position: (33.993839, -117.800804)
+
+
+Collision predicted? 0
+Distance between aircraft: 7317.805566
+
+
+vx 0.040000
+
+Our Velocity (vx ,vy): (0.040000, 1.740000)
+Our Position (X,Y): (34.058947, -117.820140)
+other (X,Y): (33.995087, -117.802024)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 179.800000
+Plane 2 Heading: 263.130000
+Relative Heading: 83.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058949, -117.820137)
+Plane 2's Predicted Position: (33.993698, -117.802147)
+Interval: 1
+Plane 1's Predicted Position: (34.058945, -117.820122)
+Plane 2's Predicted Position: (33.994110, -117.802147)
+Interval: 2
+Plane 1's Predicted Position: (34.058941, -117.820107)
+Plane 2's Predicted Position: (33.994522, -117.802147)
+Interval: 3
+Plane 1's Predicted Position: (34.058937, -117.820099)
+Plane 2's Predicted Position: (33.994934, -117.802147)
+Interval: 4
+Plane 1's Predicted Position: (34.058933, -117.820084)
+Plane 2's Predicted Position: (33.995346, -117.802147)
+Interval: 5
+Plane 1's Predicted Position: (34.058933, -117.820068)
+Plane 2's Predicted Position: (33.995758, -117.802147)
+Interval: 6
+Plane 1's Predicted Position: (34.058929, -117.820053)
+Plane 2's Predicted Position: (33.996170, -117.802147)
+Interval: 7
+Plane 1's Predicted Position: (34.058926, -117.820038)
+Plane 2's Predicted Position: (33.996586, -117.802147)
+Interval: 8
+Plane 1's Predicted Position: (34.058922, -117.820023)
+Plane 2's Predicted Position: (33.996998, -117.802147)
+Interval: 9
+Plane 1's Predicted Position: (34.058922, -117.820007)
+Plane 2's Predicted Position: (33.997410, -117.802147)
+
+
+Collision predicted? 0
+Distance between aircraft: 7302.598771
+Our Velocity (vx ,vy): (0.000000, -0.910000)
+Our Position (X,Y): (34.058949, -117.820128)
+other (X,Y): (33.995087, -117.802024)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 181.720000
+Plane 2 Heading: 263.130000
+Relative Heading: 81.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058949, -117.820129)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 1
+Plane 1's Predicted Position: (34.058949, -117.820076)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 2
+Plane 1's Predicted Position: (34.058949, -117.820023)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 3
+Plane 1's Predicted Position: (34.058949, -117.819977)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 4
+Plane 1's Predicted Position: (34.058949, -117.819923)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 5
+Plane 1's Predicted Position: (34.058949, -117.819878)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 6
+Plane 1's Predicted Position: (34.058949, -117.819824)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 7
+Plane 1's Predicted Position: (34.058945, -117.819771)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 8
+Plane 1's Predicted Position: (34.058945, -117.819725)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 9
+Plane 1's Predicted Position: (34.058945, -117.819672)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+
+
+Collision predicted? 0
+Distance between aircraft: 7302.562493
+
+
+vx -0.210000
+
+Our Velocity (vx ,vy): (-0.210000, -0.390000)
+Our Position (X,Y): (34.058953, -117.820137)
+other (X,Y): (33.995087, -117.802024)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 182.850000
+Plane 2 Heading: 263.130000
+Relative Heading: 80.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058952, -117.820137)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 1
+Plane 1's Predicted Position: (34.058952, -117.820145)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 2
+Plane 1's Predicted Position: (34.058949, -117.820160)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 3
+Plane 1's Predicted Position: (34.058949, -117.820168)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 4
+Plane 1's Predicted Position: (34.058945, -117.820175)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 5
+Plane 1's Predicted Position: (34.058945, -117.820190)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 6
+Plane 1's Predicted Position: (34.058941, -117.820198)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 7
+Plane 1's Predicted Position: (34.058941, -117.820206)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 8
+Plane 1's Predicted Position: (34.058937, -117.820213)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+Interval: 9
+Plane 1's Predicted Position: (34.058937, -117.820229)
+Plane 2's Predicted Position: (33.993694, -117.802147)
+
+
+Collision predicted? 0
+Distance between aircraft: 7303.161822
+Our Velocity (vx ,vy): (0.170000, -0.100000)
+Our Position (X,Y): (34.058952, -117.820127)
+other (X,Y): (33.994585, -117.807369)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 182.240000
+Plane 2 Heading: 263.130000
+Relative Heading: 80.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058952, -117.820129)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 1
+Plane 1's Predicted Position: (34.058956, -117.820129)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 2
+Plane 1's Predicted Position: (34.058960, -117.820137)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 3
+Plane 1's Predicted Position: (34.058964, -117.820145)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 4
+Plane 1's Predicted Position: (34.058968, -117.820152)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 5
+Plane 1's Predicted Position: (34.058968, -117.820152)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 6
+Plane 1's Predicted Position: (34.058971, -117.820160)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 7
+Plane 1's Predicted Position: (34.058975, -117.820168)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 8
+Plane 1's Predicted Position: (34.058979, -117.820168)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 9
+Plane 1's Predicted Position: (34.058983, -117.820175)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+
+
+Collision predicted? 0
+Distance between aircraft: 7261.206072
+
+
+vx 0.230000
+
+Our Velocity (vx ,vy): (0.230000, -0.360000)
+Our Position (X,Y): (34.058961, -117.820139)
+other (X,Y): (33.994585, -117.807369)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 183.420000
+Plane 2 Heading: 263.130000
+Relative Heading: 79.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058960, -117.820137)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 1
+Plane 1's Predicted Position: (34.058960, -117.820137)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 2
+Plane 1's Predicted Position: (34.058964, -117.820129)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 3
+Plane 1's Predicted Position: (34.058964, -117.820122)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 4
+Plane 1's Predicted Position: (34.058964, -117.820122)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 5
+Plane 1's Predicted Position: (34.058964, -117.820114)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 6
+Plane 1's Predicted Position: (34.058964, -117.820107)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 7
+Plane 1's Predicted Position: (34.058964, -117.820107)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 8
+Plane 1's Predicted Position: (34.058964, -117.820099)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+Interval: 9
+Plane 1's Predicted Position: (34.058968, -117.820091)
+Plane 2's Predicted Position: (33.993195, -117.807495)
+
+
+Collision predicted? 0
+Distance between aircraft: 7262.369695
+Our Velocity (vx ,vy): (0.510000, 0.800000)
+Our Position (X,Y): (34.058968, -117.820145)
+other (X,Y): (33.994213, -117.810860)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 184.460000
+Plane 2 Heading: 263.130000
+Relative Heading: 78.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058968, -117.820145)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 1
+Plane 1's Predicted Position: (34.058971, -117.820168)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 2
+Plane 1's Predicted Position: (34.058971, -117.820190)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 3
+Plane 1's Predicted Position: (34.058975, -117.820213)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 4
+Plane 1's Predicted Position: (34.058979, -117.820236)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 5
+Plane 1's Predicted Position: (34.058979, -117.820259)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 6
+Plane 1's Predicted Position: (34.058983, -117.820274)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 7
+Plane 1's Predicted Position: (34.058987, -117.820297)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 8
+Plane 1's Predicted Position: (34.058987, -117.820320)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+Interval: 9
+Plane 1's Predicted Position: (34.058990, -117.820343)
+Plane 2's Predicted Position: (33.992821, -117.810982)
+
+
+Collision predicted? 0
+Distance between aircraft: 7259.050401
+
+
+vx -0.670000
+
+Our Velocity (vx ,vy): (-0.670000, 0.000000)
+Our Position (X,Y): (34.058976, -117.820143)
+other (X,Y): (33.993934, -117.813492)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 185.310000
+Plane 2 Heading: 263.150000
+Relative Heading: 77.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058975, -117.820145)
+Plane 2's Predicted Position: (33.992542, -117.813614)
+Interval: 1
+Plane 1's Predicted Position: (34.058964, -117.820129)
+Plane 2's Predicted Position: (33.992962, -117.813614)
+Interval: 2
+Plane 1's Predicted Position: (34.058956, -117.820114)
+Plane 2's Predicted Position: (33.993382, -117.813614)
+Interval: 3
+Plane 1's Predicted Position: (34.058945, -117.820099)
+Plane 2's Predicted Position: (33.993801, -117.813614)
+Interval: 4
+Plane 1's Predicted Position: (34.058933, -117.820084)
+Plane 2's Predicted Position: (33.994221, -117.813614)
+Interval: 5
+Plane 1's Predicted Position: (34.058926, -117.820068)
+Plane 2's Predicted Position: (33.994644, -117.813614)
+Interval: 6
+Plane 1's Predicted Position: (34.058914, -117.820053)
+Plane 2's Predicted Position: (33.995064, -117.813614)
+Interval: 7
+Plane 1's Predicted Position: (34.058903, -117.820038)
+Plane 2's Predicted Position: (33.995483, -117.813614)
+Interval: 8
+Plane 1's Predicted Position: (34.058891, -117.820023)
+Plane 2's Predicted Position: (33.995903, -117.813614)
+Interval: 9
+Plane 1's Predicted Position: (34.058884, -117.820007)
+Plane 2's Predicted Position: (33.996323, -117.813614)
+
+
+Collision predicted? 0
+Distance between aircraft: 7266.338083
+Our Velocity (vx ,vy): (1.510000, -4.260000)
+Our Position (X,Y): (34.058983, -117.820174)
+other (X,Y): (33.993887, -117.814178)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 187.090000
+Plane 2 Heading: 263.150000
+Relative Heading: 76.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058983, -117.820175)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 1
+Plane 1's Predicted Position: (34.059002, -117.820091)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 2
+Plane 1's Predicted Position: (34.059021, -117.820015)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 3
+Plane 1's Predicted Position: (34.059040, -117.819931)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 4
+Plane 1's Predicted Position: (34.059059, -117.819847)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 5
+Plane 1's Predicted Position: (34.059082, -117.819771)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 6
+Plane 1's Predicted Position: (34.059101, -117.819687)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 7
+Plane 1's Predicted Position: (34.059120, -117.819603)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 8
+Plane 1's Predicted Position: (34.059139, -117.819527)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+Interval: 9
+Plane 1's Predicted Position: (34.059158, -117.819443)
+Plane 2's Predicted Position: (33.992493, -117.814301)
+
+
+Collision predicted? 0
+Distance between aircraft: 7267.440388
+
+
+vx -0.370000
+
+Our Velocity (vx ,vy): (-0.370000, -0.010000)
+Our Position (X,Y): (34.058991, -117.820173)
+other (X,Y): (33.993668, -117.816206)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 187.750000
+Plane 2 Heading: 263.150000
+Relative Heading: 75.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058990, -117.820175)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 1
+Plane 1's Predicted Position: (34.058975, -117.820251)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 2
+Plane 1's Predicted Position: (34.058956, -117.820335)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 3
+Plane 1's Predicted Position: (34.058941, -117.820419)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 4
+Plane 1's Predicted Position: (34.058926, -117.820496)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 5
+Plane 1's Predicted Position: (34.058907, -117.820580)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 6
+Plane 1's Predicted Position: (34.058891, -117.820656)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 7
+Plane 1's Predicted Position: (34.058876, -117.820740)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 8
+Plane 1's Predicted Position: (34.058857, -117.820824)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+Interval: 9
+Plane 1's Predicted Position: (34.058842, -117.820900)
+Plane 2's Predicted Position: (33.992271, -117.816330)
+
+
+Collision predicted? 0
+Distance between aircraft: 7280.913112
+Our Velocity (vx ,vy): (-1.190000, 2.460000)
+Our Position (X,Y): (34.058992, -117.820167)
+other (X,Y): (33.993515, -117.818012)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 188.070000
+Plane 2 Heading: 263.150000
+Relative Heading: 75.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058990, -117.820168)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 1
+Plane 1's Predicted Position: (34.058987, -117.820213)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 2
+Plane 1's Predicted Position: (34.058979, -117.820259)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 3
+Plane 1's Predicted Position: (34.058971, -117.820305)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 4
+Plane 1's Predicted Position: (34.058964, -117.820358)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 5
+Plane 1's Predicted Position: (34.058956, -117.820404)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 6
+Plane 1's Predicted Position: (34.058949, -117.820450)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 7
+Plane 1's Predicted Position: (34.058941, -117.820496)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 8
+Plane 1's Predicted Position: (34.058933, -117.820541)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+Interval: 9
+Plane 1's Predicted Position: (34.058926, -117.820587)
+Plane 2's Predicted Position: (33.992119, -117.818138)
+
+
+Collision predicted? 0
+Distance between aircraft: 7291.529343
+
+
+vx -1.880000
+
+Our Velocity (vx ,vy): (-1.880000, 3.330000)
+Our Position (X,Y): (34.058987, -117.820150)
+other (X,Y): (33.993328, -117.819729)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 188.570000
+Plane 2 Heading: 263.150000
+Relative Heading: 74.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058987, -117.820152)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 1
+Plane 1's Predicted Position: (34.058979, -117.820168)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 2
+Plane 1's Predicted Position: (34.058975, -117.820183)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 3
+Plane 1's Predicted Position: (34.058968, -117.820198)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 4
+Plane 1's Predicted Position: (34.058964, -117.820213)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 5
+Plane 1's Predicted Position: (34.058956, -117.820229)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 6
+Plane 1's Predicted Position: (34.058949, -117.820251)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 7
+Plane 1's Predicted Position: (34.058945, -117.820267)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 8
+Plane 1's Predicted Position: (34.058937, -117.820282)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+Interval: 9
+Plane 1's Predicted Position: (34.058933, -117.820297)
+Plane 2's Predicted Position: (33.991932, -117.819855)
+
+
+Collision predicted? 0
+Distance between aircraft: 7309.048309
+Our Velocity (vx ,vy): (-0.070000, 0.860000)
+Our Position (X,Y): (34.058983, -117.820136)
+other (X,Y): (33.993189, -117.821217)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.140000
+Plane 2 Heading: 263.150000
+Relative Heading: 74.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058983, -117.820137)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 1
+Plane 1's Predicted Position: (34.058998, -117.820091)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 2
+Plane 1's Predicted Position: (34.059013, -117.820045)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 3
+Plane 1's Predicted Position: (34.059032, -117.819992)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 4
+Plane 1's Predicted Position: (34.059048, -117.819946)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 5
+Plane 1's Predicted Position: (34.059063, -117.819901)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 6
+Plane 1's Predicted Position: (34.059078, -117.819855)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 7
+Plane 1's Predicted Position: (34.059097, -117.819809)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 8
+Plane 1's Predicted Position: (34.059113, -117.819763)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+Interval: 9
+Plane 1's Predicted Position: (34.059128, -117.819710)
+Plane 2's Predicted Position: (33.991795, -117.821342)
+
+
+Collision predicted? 0
+Distance between aircraft: 7324.706470
+
+
+vx -0.710000
+
+Our Velocity (vx ,vy): (-0.710000, 0.690000)
+Our Position (X,Y): (34.058994, -117.820160)
+other (X,Y): (33.993003, -117.822876)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.130000
+Plane 2 Heading: 263.170000
+Relative Heading: 74.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058994, -117.820160)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 1
+Plane 1's Predicted Position: (34.058987, -117.820160)
+Plane 2's Predicted Position: (33.992016, -117.822998)
+Interval: 2
+Plane 1's Predicted Position: (34.058983, -117.820152)
+Plane 2's Predicted Position: (33.992428, -117.822998)
+Interval: 3
+Plane 1's Predicted Position: (34.058975, -117.820152)
+Plane 2's Predicted Position: (33.992840, -117.822998)
+Interval: 4
+Plane 1's Predicted Position: (34.058971, -117.820145)
+Plane 2's Predicted Position: (33.993256, -117.822998)
+Interval: 5
+Plane 1's Predicted Position: (34.058964, -117.820145)
+Plane 2's Predicted Position: (33.993668, -117.822998)
+Interval: 6
+Plane 1's Predicted Position: (34.058960, -117.820137)
+Plane 2's Predicted Position: (33.994080, -117.822998)
+Interval: 7
+Plane 1's Predicted Position: (34.058952, -117.820137)
+Plane 2's Predicted Position: (33.994492, -117.822998)
+Interval: 8
+Plane 1's Predicted Position: (34.058949, -117.820137)
+Plane 2's Predicted Position: (33.994904, -117.822998)
+Interval: 9
+Plane 1's Predicted Position: (34.058941, -117.820129)
+Plane 2's Predicted Position: (33.995316, -117.822998)
+
+
+Collision predicted? 0
+Distance between aircraft: 7350.240732
+Our Velocity (vx ,vy): (0.790000, -0.930000)
+Our Position (X,Y): (34.058998, -117.820175)
+other (X,Y): (33.993003, -117.822876)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.310000
+Plane 2 Heading: 263.170000
+Relative Heading: 73.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058998, -117.820175)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 1
+Plane 1's Predicted Position: (34.059010, -117.820145)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 2
+Plane 1's Predicted Position: (34.059025, -117.820114)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 3
+Plane 1's Predicted Position: (34.059036, -117.820084)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 4
+Plane 1's Predicted Position: (34.059052, -117.820053)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 5
+Plane 1's Predicted Position: (34.059063, -117.820023)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 6
+Plane 1's Predicted Position: (34.059078, -117.819992)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 7
+Plane 1's Predicted Position: (34.059090, -117.819962)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 8
+Plane 1's Predicted Position: (34.059105, -117.819931)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 9
+Plane 1's Predicted Position: (34.059116, -117.819901)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+
+
+Collision predicted? 0
+Distance between aircraft: 7350.672082
+
+
+vx 0.430000
+
+Our Velocity (vx ,vy): (0.430000, 0.410000)
+Our Position (X,Y): (34.059011, -117.820206)
+other (X,Y): (33.993003, -117.822876)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.340000
+Plane 2 Heading: 263.170000
+Relative Heading: 73.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059010, -117.820206)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 1
+Plane 1's Predicted Position: (34.059010, -117.820229)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 2
+Plane 1's Predicted Position: (34.059006, -117.820259)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 3
+Plane 1's Predicted Position: (34.059002, -117.820282)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 4
+Plane 1's Predicted Position: (34.058998, -117.820305)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 5
+Plane 1's Predicted Position: (34.058994, -117.820335)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 6
+Plane 1's Predicted Position: (34.058990, -117.820358)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 7
+Plane 1's Predicted Position: (34.058990, -117.820389)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 8
+Plane 1's Predicted Position: (34.058987, -117.820412)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+Interval: 9
+Plane 1's Predicted Position: (34.058983, -117.820435)
+Plane 2's Predicted Position: (33.991604, -117.822998)
+
+
+Collision predicted? 0
+Distance between aircraft: 7352.088455
+Our Velocity (vx ,vy): (-0.030000, -0.290000)
+Our Position (X,Y): (34.059024, -117.820218)
+other (X,Y): (33.992444, -117.828770)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 189.810000
+Plane 2 Heading: 263.200000
+Relative Heading: 73.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059025, -117.820221)
+Plane 2's Predicted Position: (33.991043, -117.828896)
+Interval: 1
+Plane 1's Predicted Position: (34.059021, -117.820206)
+Plane 2's Predicted Position: (33.991463, -117.828896)
+Interval: 2
+Plane 1's Predicted Position: (34.059017, -117.820190)
+Plane 2's Predicted Position: (33.991882, -117.828896)
+Interval: 3
+Plane 1's Predicted Position: (34.059010, -117.820175)
+Plane 2's Predicted Position: (33.992302, -117.828896)
+Interval: 4
+Plane 1's Predicted Position: (34.059006, -117.820168)
+Plane 2's Predicted Position: (33.992722, -117.828896)
+Interval: 5
+Plane 1's Predicted Position: (34.059002, -117.820152)
+Plane 2's Predicted Position: (33.993145, -117.828896)
+Interval: 6
+Plane 1's Predicted Position: (34.058998, -117.820137)
+Plane 2's Predicted Position: (33.993565, -117.828896)
+Interval: 7
+Plane 1's Predicted Position: (34.058994, -117.820122)
+Plane 2's Predicted Position: (33.993984, -117.828896)
+Interval: 8
+Plane 1's Predicted Position: (34.058990, -117.820114)
+Plane 2's Predicted Position: (33.994404, -117.828896)
+Interval: 9
+Plane 1's Predicted Position: (34.058987, -117.820099)
+Plane 2's Predicted Position: (33.994823, -117.828896)
+
+
+Collision predicted? 0
+Distance between aircraft: 7453.375391
+
+
+vx 0.920000
+
+Our Velocity (vx ,vy): (0.920000, -1.060000)
+Our Position (X,Y): (34.059032, -117.820229)
+other (X,Y): (33.992444, -117.828770)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 190.260000
+Plane 2 Heading: 263.200000
+Relative Heading: 72.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059032, -117.820229)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 1
+Plane 1's Predicted Position: (34.059040, -117.820213)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 2
+Plane 1's Predicted Position: (34.059048, -117.820198)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 3
+Plane 1's Predicted Position: (34.059059, -117.820183)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 4
+Plane 1's Predicted Position: (34.059067, -117.820168)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 5
+Plane 1's Predicted Position: (34.059074, -117.820152)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 6
+Plane 1's Predicted Position: (34.059082, -117.820137)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 7
+Plane 1's Predicted Position: (34.059090, -117.820129)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 8
+Plane 1's Predicted Position: (34.059101, -117.820114)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+Interval: 9
+Plane 1's Predicted Position: (34.059109, -117.820099)
+Plane 2's Predicted Position: (33.991039, -117.828896)
+
+
+Collision predicted? 0
+Distance between aircraft: 7454.235946
+Our Velocity (vx ,vy): (-0.660000, 1.300000)
+Our Position (X,Y): (34.059039, -117.820231)
+other (X,Y): (33.992203, -117.831284)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 190.550000
+Plane 2 Heading: 263.200000
+Relative Heading: 72.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059040, -117.820229)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 1
+Plane 1's Predicted Position: (34.059025, -117.820274)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 2
+Plane 1's Predicted Position: (34.059010, -117.820320)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 3
+Plane 1's Predicted Position: (34.058998, -117.820366)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 4
+Plane 1's Predicted Position: (34.058983, -117.820412)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 5
+Plane 1's Predicted Position: (34.058968, -117.820457)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 6
+Plane 1's Predicted Position: (34.058956, -117.820503)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 7
+Plane 1's Predicted Position: (34.058941, -117.820549)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 8
+Plane 1's Predicted Position: (34.058926, -117.820587)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+Interval: 9
+Plane 1's Predicted Position: (34.058914, -117.820633)
+Plane 2's Predicted Position: (33.990799, -117.831406)
+
+
+Collision predicted? 0
+Distance between aircraft: 7509.651677
+
+
+vx 0.000000
+
+Our Velocity (vx ,vy): (0.000000, 1.170000)
+Our Position (X,Y): (34.059042, -117.820230)
+other (X,Y): (33.992020, -117.833134)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 190.880000
+Plane 2 Heading: 263.200000
+Relative Heading: 72.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059044, -117.820229)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 1
+Plane 1's Predicted Position: (34.059048, -117.820229)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 2
+Plane 1's Predicted Position: (34.059055, -117.820229)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 3
+Plane 1's Predicted Position: (34.059059, -117.820221)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 4
+Plane 1's Predicted Position: (34.059067, -117.820221)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 5
+Plane 1's Predicted Position: (34.059071, -117.820221)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 6
+Plane 1's Predicted Position: (34.059078, -117.820213)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 7
+Plane 1's Predicted Position: (34.059082, -117.820213)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 8
+Plane 1's Predicted Position: (34.059090, -117.820213)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+Interval: 9
+Plane 1's Predicted Position: (34.059093, -117.820206)
+Plane 2's Predicted Position: (33.990616, -117.833260)
+
+
+Collision predicted? 0
+Distance between aircraft: 7555.215614
+Our Velocity (vx ,vy): (0.200000, 0.030000)
+Our Position (X,Y): (34.059050, -117.820231)
+other (X,Y): (33.991882, -117.834479)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 191.220000
+Plane 2 Heading: 263.410000
+Relative Heading: 72.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059052, -117.820229)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 1
+Plane 1's Predicted Position: (34.059052, -117.820206)
+Plane 2's Predicted Position: (33.990887, -117.834602)
+Interval: 2
+Plane 1's Predicted Position: (34.059055, -117.820190)
+Plane 2's Predicted Position: (33.991299, -117.834602)
+Interval: 3
+Plane 1's Predicted Position: (34.059055, -117.820168)
+Plane 2's Predicted Position: (33.991711, -117.834602)
+Interval: 4
+Plane 1's Predicted Position: (34.059055, -117.820145)
+Plane 2's Predicted Position: (33.992123, -117.834602)
+Interval: 5
+Plane 1's Predicted Position: (34.059059, -117.820122)
+Plane 2's Predicted Position: (33.992538, -117.834602)
+Interval: 6
+Plane 1's Predicted Position: (34.059059, -117.820099)
+Plane 2's Predicted Position: (33.992950, -117.834602)
+Interval: 7
+Plane 1's Predicted Position: (34.059063, -117.820076)
+Plane 2's Predicted Position: (33.993362, -117.834602)
+Interval: 8
+Plane 1's Predicted Position: (34.059063, -117.820061)
+Plane 2's Predicted Position: (33.993774, -117.834602)
+Interval: 9
+Plane 1's Predicted Position: (34.059067, -117.820038)
+Plane 2's Predicted Position: (33.994186, -117.834602)
+
+
+Collision predicted? 0
+Distance between aircraft: 7591.633666
+
+
+vx 1.120000
+
+Our Velocity (vx ,vy): (1.120000, -1.780000)
+Our Position (X,Y): (34.059055, -117.820248)
+other (X,Y): (33.991882, -117.834479)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 191.440000
+Plane 2 Heading: 263.410000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059055, -117.820251)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 1
+Plane 1's Predicted Position: (34.059063, -117.820213)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 2
+Plane 1's Predicted Position: (34.059071, -117.820183)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 3
+Plane 1's Predicted Position: (34.059078, -117.820145)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 4
+Plane 1's Predicted Position: (34.059086, -117.820114)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 5
+Plane 1's Predicted Position: (34.059097, -117.820076)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 6
+Plane 1's Predicted Position: (34.059105, -117.820038)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 7
+Plane 1's Predicted Position: (34.059113, -117.820007)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 8
+Plane 1's Predicted Position: (34.059120, -117.819969)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 9
+Plane 1's Predicted Position: (34.059128, -117.819939)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+
+
+Collision predicted? 0
+Distance between aircraft: 7591.850847
+Our Velocity (vx ,vy): (0.160000, -0.600000)
+Our Position (X,Y): (34.059061, -117.820270)
+other (X,Y): (33.991882, -117.834479)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 191.340000
+Plane 2 Heading: 263.410000
+Relative Heading: 72.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059063, -117.820267)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 1
+Plane 1's Predicted Position: (34.059052, -117.820290)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 2
+Plane 1's Predicted Position: (34.059044, -117.820312)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 3
+Plane 1's Predicted Position: (34.059036, -117.820335)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 4
+Plane 1's Predicted Position: (34.059029, -117.820358)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 5
+Plane 1's Predicted Position: (34.059017, -117.820381)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 6
+Plane 1's Predicted Position: (34.059010, -117.820404)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 7
+Plane 1's Predicted Position: (34.059002, -117.820427)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 8
+Plane 1's Predicted Position: (34.058994, -117.820450)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 9
+Plane 1's Predicted Position: (34.058983, -117.820473)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+
+
+Collision predicted? 0
+Distance between aircraft: 7592.263027
+
+
+vx 0.400000
+
+Our Velocity (vx ,vy): (0.400000, -0.440000)
+Our Position (X,Y): (34.059065, -117.820280)
+other (X,Y): (33.991882, -117.834479)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 191.580000
+Plane 2 Heading: 263.410000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059063, -117.820282)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 1
+Plane 1's Predicted Position: (34.059067, -117.820282)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 2
+Plane 1's Predicted Position: (34.059071, -117.820290)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 3
+Plane 1's Predicted Position: (34.059071, -117.820290)
+Plane 2's Predicted Position: (33.990475, -117.834602)
+Interval: 4
+Plane 1's Predicted Position: (34.059074, -117.820290)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 5
+Plane 1's Predicted Position: (34.059074, -117.820297)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 6
+Plane 1's Predicted Position: (34.059078, -117.820297)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 7
+Plane 1's Predicted Position: (34.059078, -117.820305)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 8
+Plane 1's Predicted Position: (34.059082, -117.820305)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+Interval: 9
+Plane 1's Predicted Position: (34.059082, -117.820305)
+Plane 2's Predicted Position: (33.990471, -117.834602)
+
+
+Collision predicted? 0
+Distance between aircraft: 7592.435733
+Our Velocity (vx ,vy): (-0.270000, 1.750000)
+Our Position (X,Y): (34.059066, -117.820286)
+other (X,Y): (33.991379, -117.839748)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 191.730000
+Plane 2 Heading: 263.610000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059067, -117.820290)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 1
+Plane 1's Predicted Position: (34.059059, -117.820328)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 2
+Plane 1's Predicted Position: (34.059055, -117.820374)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 3
+Plane 1's Predicted Position: (34.059048, -117.820412)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 4
+Plane 1's Predicted Position: (34.059040, -117.820450)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 5
+Plane 1's Predicted Position: (34.059036, -117.820496)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 6
+Plane 1's Predicted Position: (34.059029, -117.820534)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 7
+Plane 1's Predicted Position: (34.059025, -117.820580)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 8
+Plane 1's Predicted Position: (34.059017, -117.820618)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 9
+Plane 1's Predicted Position: (34.059013, -117.820663)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+
+
+Collision predicted? 0
+Distance between aircraft: 7745.749385
+
+
+vx -0.590000
+
+Our Velocity (vx ,vy): (-0.590000, 1.110000)
+Our Position (X,Y): (34.059067, -117.820299)
+other (X,Y): (33.991379, -117.839748)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.000000
+Plane 2 Heading: 263.610000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059067, -117.820297)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 1
+Plane 1's Predicted Position: (34.059063, -117.820290)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 2
+Plane 1's Predicted Position: (34.059063, -117.820274)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 3
+Plane 1's Predicted Position: (34.059059, -117.820259)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 4
+Plane 1's Predicted Position: (34.059055, -117.820251)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 5
+Plane 1's Predicted Position: (34.059052, -117.820236)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 6
+Plane 1's Predicted Position: (34.059052, -117.820229)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 7
+Plane 1's Predicted Position: (34.059048, -117.820213)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 8
+Plane 1's Predicted Position: (34.059044, -117.820198)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+Interval: 9
+Plane 1's Predicted Position: (34.059040, -117.820190)
+Plane 2's Predicted Position: (33.989967, -117.839874)
+
+
+Collision predicted? 0
+Distance between aircraft: 7745.618640
+Our Velocity (vx ,vy): (-0.060000, -0.700000)
+Our Position (X,Y): (34.059069, -117.820316)
+other (X,Y): (33.990908, -117.844849)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.120000
+Plane 2 Heading: 263.610000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059071, -117.820312)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 1
+Plane 1's Predicted Position: (34.059074, -117.820282)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 2
+Plane 1's Predicted Position: (34.059078, -117.820244)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 3
+Plane 1's Predicted Position: (34.059082, -117.820213)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 4
+Plane 1's Predicted Position: (34.059090, -117.820175)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 5
+Plane 1's Predicted Position: (34.059093, -117.820145)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 6
+Plane 1's Predicted Position: (34.059097, -117.820107)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 7
+Plane 1's Predicted Position: (34.059101, -117.820076)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 8
+Plane 1's Predicted Position: (34.059109, -117.820038)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 9
+Plane 1's Predicted Position: (34.059113, -117.820007)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+
+
+Collision predicted? 0
+Distance between aircraft: 7917.962353
+
+
+vx 0.350000
+
+Our Velocity (vx ,vy): (0.350000, -0.290000)
+Our Position (X,Y): (34.059070, -117.820323)
+other (X,Y): (33.990908, -117.844849)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.130000
+Plane 2 Heading: 263.610000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059071, -117.820320)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 1
+Plane 1's Predicted Position: (34.059074, -117.820328)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 2
+Plane 1's Predicted Position: (34.059078, -117.820335)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 3
+Plane 1's Predicted Position: (34.059082, -117.820343)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 4
+Plane 1's Predicted Position: (34.059086, -117.820351)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 5
+Plane 1's Predicted Position: (34.059090, -117.820366)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 6
+Plane 1's Predicted Position: (34.059093, -117.820374)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 7
+Plane 1's Predicted Position: (34.059097, -117.820381)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 8
+Plane 1's Predicted Position: (34.059101, -117.820389)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+Interval: 9
+Plane 1's Predicted Position: (34.059105, -117.820396)
+Plane 2's Predicted Position: (33.989498, -117.844971)
+
+
+Collision predicted? 0
+Distance between aircraft: 7917.913687
+Our Velocity (vx ,vy): (-0.070000, 0.340000)
+Our Position (X,Y): (34.059073, -117.820326)
+other (X,Y): (33.990908, -117.844849)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.050000
+Plane 2 Heading: 263.840000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059074, -117.820328)
+Plane 2's Predicted Position: (33.989494, -117.844978)
+Interval: 1
+Plane 1's Predicted Position: (34.059071, -117.820335)
+Plane 2's Predicted Position: (33.990326, -117.844421)
+Interval: 2
+Plane 1's Predicted Position: (34.059067, -117.820351)
+Plane 2's Predicted Position: (33.991158, -117.843872)
+Interval: 3
+Plane 1's Predicted Position: (34.059063, -117.820358)
+Plane 2's Predicted Position: (33.991993, -117.843315)
+Interval: 4
+Plane 1's Predicted Position: (34.059059, -117.820374)
+Plane 2's Predicted Position: (33.992825, -117.842758)
+Interval: 5
+Plane 1's Predicted Position: (34.059055, -117.820389)
+Plane 2's Predicted Position: (33.993656, -117.842209)
+Interval: 6
+Plane 1's Predicted Position: (34.059052, -117.820396)
+Plane 2's Predicted Position: (33.994492, -117.841652)
+Interval: 7
+Plane 1's Predicted Position: (34.059048, -117.820412)
+Plane 2's Predicted Position: (33.995323, -117.841103)
+Interval: 8
+Plane 1's Predicted Position: (34.059044, -117.820419)
+Plane 2's Predicted Position: (33.996155, -117.840546)
+Interval: 9
+Plane 1's Predicted Position: (34.059040, -117.820435)
+Plane 2's Predicted Position: (33.996990, -117.839989)
+
+
+Collision predicted? 0
+Distance between aircraft: 7918.122490
+
+
+vx -0.270000
+
+Our Velocity (vx ,vy): (-0.270000, 0.620000)
+Our Position (X,Y): (34.059069, -117.820318)
+other (X,Y): (33.990908, -117.844849)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.070000
+Plane 2 Heading: 263.840000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059071, -117.820320)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 1
+Plane 1's Predicted Position: (34.059067, -117.820320)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 2
+Plane 1's Predicted Position: (34.059067, -117.820328)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 3
+Plane 1's Predicted Position: (34.059063, -117.820335)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 4
+Plane 1's Predicted Position: (34.059063, -117.820343)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 5
+Plane 1's Predicted Position: (34.059059, -117.820343)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 6
+Plane 1's Predicted Position: (34.059059, -117.820351)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 7
+Plane 1's Predicted Position: (34.059055, -117.820358)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 8
+Plane 1's Predicted Position: (34.059055, -117.820358)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+Interval: 9
+Plane 1's Predicted Position: (34.059052, -117.820366)
+Plane 2's Predicted Position: (33.989491, -117.844978)
+
+
+Collision predicted? 0
+Distance between aircraft: 7917.893669
+Our Velocity (vx ,vy): (-0.740000, 0.930000)
+Our Position (X,Y): (34.059063, -117.820312)
+other (X,Y): (33.990326, -117.851295)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.110000
+Plane 2 Heading: 263.860000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059063, -117.820312)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 1
+Plane 1's Predicted Position: (34.059059, -117.820320)
+Plane 2's Predicted Position: (33.989319, -117.851425)
+Interval: 2
+Plane 1's Predicted Position: (34.059055, -117.820320)
+Plane 2's Predicted Position: (33.989731, -117.851425)
+Interval: 3
+Plane 1's Predicted Position: (34.059052, -117.820328)
+Plane 2's Predicted Position: (33.990143, -117.851425)
+Interval: 4
+Plane 1's Predicted Position: (34.059048, -117.820335)
+Plane 2's Predicted Position: (33.990555, -117.851425)
+Interval: 5
+Plane 1's Predicted Position: (34.059044, -117.820343)
+Plane 2's Predicted Position: (33.990967, -117.851425)
+Interval: 6
+Plane 1's Predicted Position: (34.059036, -117.820351)
+Plane 2's Predicted Position: (33.991379, -117.851425)
+Interval: 7
+Plane 1's Predicted Position: (34.059032, -117.820351)
+Plane 2's Predicted Position: (33.991791, -117.851425)
+Interval: 8
+Plane 1's Predicted Position: (34.059029, -117.820358)
+Plane 2's Predicted Position: (33.992203, -117.851425)
+Interval: 9
+Plane 1's Predicted Position: (34.059025, -117.820366)
+Plane 2's Predicted Position: (33.992615, -117.851425)
+
+
+Collision predicted? 0
+Distance between aircraft: 8168.152086
+
+
+vx 0.100000
+
+Our Velocity (vx ,vy): (0.100000, -1.220000)
+Our Position (X,Y): (34.059058, -117.820329)
+other (X,Y): (33.990326, -117.851295)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 191.890000
+Plane 2 Heading: 263.860000
+Relative Heading: 71.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059059, -117.820328)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 1
+Plane 1's Predicted Position: (34.059067, -117.820290)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 2
+Plane 1's Predicted Position: (34.059074, -117.820244)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 3
+Plane 1's Predicted Position: (34.059082, -117.820206)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 4
+Plane 1's Predicted Position: (34.059090, -117.820168)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 5
+Plane 1's Predicted Position: (34.059097, -117.820122)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 6
+Plane 1's Predicted Position: (34.059105, -117.820084)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 7
+Plane 1's Predicted Position: (34.059109, -117.820045)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 8
+Plane 1's Predicted Position: (34.059116, -117.820000)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+Interval: 9
+Plane 1's Predicted Position: (34.059124, -117.819962)
+Plane 2's Predicted Position: (33.988903, -117.851425)
+
+
+Collision predicted? 0
+Distance between aircraft: 8167.106033
+Our Velocity (vx ,vy): (0.760000, -2.370000)
+Our Position (X,Y): (34.059056, -117.820350)
+other (X,Y): (33.990189, -117.853032)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 193.390000
+Plane 2 Heading: 263.860000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059055, -117.820351)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 1
+Plane 1's Predicted Position: (34.059063, -117.820328)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 2
+Plane 1's Predicted Position: (34.059067, -117.820305)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 3
+Plane 1's Predicted Position: (34.059074, -117.820282)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 4
+Plane 1's Predicted Position: (34.059078, -117.820259)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 5
+Plane 1's Predicted Position: (34.059086, -117.820244)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 6
+Plane 1's Predicted Position: (34.059090, -117.820221)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 7
+Plane 1's Predicted Position: (34.059097, -117.820198)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 8
+Plane 1's Predicted Position: (34.059101, -117.820175)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+Interval: 9
+Plane 1's Predicted Position: (34.059109, -117.820152)
+Plane 2's Predicted Position: (33.988766, -117.853165)
+
+
+Collision predicted? 0
+Distance between aircraft: 8237.845613
+
+
+vx -0.620000
+
+Our Velocity (vx ,vy): (-0.620000, 0.790000)
+Our Position (X,Y): (34.059053, -117.820346)
+other (X,Y): (33.998868, -117.829914)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 192.990000
+Plane 2 Heading: 299.490000
+Relative Heading: 106.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059052, -117.820351)
+Plane 2's Predicted Position: (33.997894, -117.829987)
+Interval: 1
+Plane 1's Predicted Position: (34.059040, -117.820404)
+Plane 2's Predicted Position: (33.916794, -117.840668)
+Interval: 2
+Plane 1's Predicted Position: (34.059029, -117.820465)
+Plane 2's Predicted Position: (33.835693, -117.851357)
+Interval: 3
+Plane 1's Predicted Position: (34.059017, -117.820526)
+Plane 2's Predicted Position: (33.754593, -117.862045)
+Interval: 4
+Plane 1's Predicted Position: (34.059002, -117.820587)
+Plane 2's Predicted Position: (33.673492, -117.872726)
+Interval: 5
+Plane 1's Predicted Position: (34.058990, -117.820648)
+Plane 2's Predicted Position: (33.592396, -117.883415)
+Interval: 6
+Plane 1's Predicted Position: (34.058979, -117.820709)
+Plane 2's Predicted Position: (33.511295, -117.894096)
+Interval: 7
+Plane 1's Predicted Position: (34.058968, -117.820770)
+Plane 2's Predicted Position: (33.430195, -117.904785)
+Interval: 8
+Plane 1's Predicted Position: (34.058956, -117.820831)
+Plane 2's Predicted Position: (33.349094, -117.915466)
+Interval: 9
+Plane 1's Predicted Position: (34.058941, -117.820885)
+Plane 2's Predicted Position: (33.267994, -117.926155)
+
+
+Collision predicted? 0
+Distance between aircraft: 6757.519168
+Our Velocity (vx ,vy): (-0.710000, -1.310000)
+Our Position (X,Y): (34.059045, -117.820351)
+other (X,Y): (33.998978, -117.830163)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 192.860000
+Plane 2 Heading: 299.490000
+Relative Heading: 106.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059044, -117.820351)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 1
+Plane 1's Predicted Position: (34.059044, -117.820312)
+Plane 2's Predicted Position: (33.998455, -117.830742)
+Interval: 2
+Plane 1's Predicted Position: (34.059044, -117.820274)
+Plane 2's Predicted Position: (33.998455, -117.831314)
+Interval: 3
+Plane 1's Predicted Position: (34.059044, -117.820229)
+Plane 2's Predicted Position: (33.998455, -117.831886)
+Interval: 4
+Plane 1's Predicted Position: (34.059040, -117.820190)
+Plane 2's Predicted Position: (33.998455, -117.832458)
+Interval: 5
+Plane 1's Predicted Position: (34.059040, -117.820152)
+Plane 2's Predicted Position: (33.998455, -117.833031)
+Interval: 6
+Plane 1's Predicted Position: (34.059040, -117.820114)
+Plane 2's Predicted Position: (33.998455, -117.833603)
+Interval: 7
+Plane 1's Predicted Position: (34.059040, -117.820068)
+Plane 2's Predicted Position: (33.998455, -117.834175)
+Interval: 8
+Plane 1's Predicted Position: (34.059040, -117.820030)
+Plane 2's Predicted Position: (33.998455, -117.834747)
+Interval: 9
+Plane 1's Predicted Position: (34.059036, -117.819992)
+Plane 2's Predicted Position: (33.998455, -117.835312)
+
+
+Collision predicted? 0
+Distance between aircraft: 6747.529516
+
+
+vx -0.660000
+
+Our Velocity (vx ,vy): (-0.660000, -0.110000)
+Our Position (X,Y): (34.059039, -117.820347)
+other (X,Y): (33.998978, -117.830163)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 192.800000
+Plane 2 Heading: 299.490000
+Relative Heading: 106.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059040, -117.820351)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 1
+Plane 1's Predicted Position: (34.059040, -117.820366)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 2
+Plane 1's Predicted Position: (34.059040, -117.820389)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 3
+Plane 1's Predicted Position: (34.059040, -117.820412)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 4
+Plane 1's Predicted Position: (34.059040, -117.820435)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 5
+Plane 1's Predicted Position: (34.059040, -117.820457)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 6
+Plane 1's Predicted Position: (34.059040, -117.820480)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 7
+Plane 1's Predicted Position: (34.059040, -117.820503)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 8
+Plane 1's Predicted Position: (34.059044, -117.820526)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+Interval: 9
+Plane 1's Predicted Position: (34.059044, -117.820549)
+Plane 2's Predicted Position: (33.998455, -117.830170)
+
+
+Collision predicted? 0
+Distance between aircraft: 6746.918411
+Our Velocity (vx ,vy): (-0.010000, 0.120000)
+Our Position (X,Y): (34.059036, -117.820346)
+other (X,Y): (33.989731, -117.857965)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 192.960000
+Plane 2 Heading: 263.880000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059036, -117.820343)
+Plane 2's Predicted Position: (33.988754, -117.858032)
+Interval: 1
+Plane 1's Predicted Position: (34.059044, -117.820351)
+Plane 2's Predicted Position: (34.070278, -117.846786)
+Interval: 2
+Plane 1's Predicted Position: (34.059048, -117.820351)
+Plane 2's Predicted Position: (34.151798, -117.835541)
+Interval: 3
+Plane 1's Predicted Position: (34.059055, -117.820358)
+Plane 2's Predicted Position: (34.233318, -117.824295)
+Interval: 4
+Plane 1's Predicted Position: (34.059059, -117.820366)
+Plane 2's Predicted Position: (34.314838, -117.813049)
+Interval: 5
+Plane 1's Predicted Position: (34.059067, -117.820366)
+Plane 2's Predicted Position: (34.396358, -117.801804)
+Interval: 6
+Plane 1's Predicted Position: (34.059071, -117.820374)
+Plane 2's Predicted Position: (34.477879, -117.790558)
+Interval: 7
+Plane 1's Predicted Position: (34.059078, -117.820374)
+Plane 2's Predicted Position: (34.559399, -117.779312)
+Interval: 8
+Plane 1's Predicted Position: (34.059082, -117.820381)
+Plane 2's Predicted Position: (34.640923, -117.768059)
+Interval: 9
+Plane 1's Predicted Position: (34.059090, -117.820381)
+Plane 2's Predicted Position: (34.722443, -117.756813)
+
+
+Collision predicted? 0
+Distance between aircraft: 8459.713699
+
+
+vx 0.150000
+
+Our Velocity (vx ,vy): (0.150000, 0.740000)
+Our Position (X,Y): (34.059034, -117.820346)
+other (X,Y): (33.989731, -117.857965)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 193.010000
+Plane 2 Heading: 263.880000
+Relative Heading: 70.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059032, -117.820343)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 1
+Plane 1's Predicted Position: (34.059036, -117.820358)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 2
+Plane 1's Predicted Position: (34.059036, -117.820366)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 3
+Plane 1's Predicted Position: (34.059036, -117.820381)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 4
+Plane 1's Predicted Position: (34.059040, -117.820396)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 5
+Plane 1's Predicted Position: (34.059040, -117.820404)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 6
+Plane 1's Predicted Position: (34.059044, -117.820419)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 7
+Plane 1's Predicted Position: (34.059044, -117.820427)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 8
+Plane 1's Predicted Position: (34.059044, -117.820442)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+Interval: 9
+Plane 1's Predicted Position: (34.059048, -117.820450)
+Plane 2's Predicted Position: (33.988304, -117.858093)
+
+
+Collision predicted? 0
+Distance between aircraft: 8459.410547
+Our Velocity (vx ,vy): (-0.100000, 0.150000)
+Our Position (X,Y): (34.059031, -117.820346)
+other (X,Y): (34.000125, -117.832546)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 193.010000
+Plane 2 Heading: 299.930000
+Relative Heading: 106.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059032, -117.820343)
+Plane 2's Predicted Position: (33.999149, -117.832626)
+Interval: 1
+Plane 1's Predicted Position: (34.059029, -117.820335)
+Plane 2's Predicted Position: (33.918041, -117.842186)
+Interval: 2
+Plane 1's Predicted Position: (34.059025, -117.820320)
+Plane 2's Predicted Position: (33.836929, -117.851746)
+Interval: 3
+Plane 1's Predicted Position: (34.059025, -117.820312)
+Plane 2's Predicted Position: (33.755821, -117.861298)
+Interval: 4
+Plane 1's Predicted Position: (34.059021, -117.820297)
+Plane 2's Predicted Position: (33.674713, -117.870857)
+Interval: 5
+Plane 1's Predicted Position: (34.059021, -117.820290)
+Plane 2's Predicted Position: (33.593605, -117.880417)
+Interval: 6
+Plane 1's Predicted Position: (34.059017, -117.820274)
+Plane 2's Predicted Position: (33.512497, -117.889977)
+Interval: 7
+Plane 1's Predicted Position: (34.059013, -117.820267)
+Plane 2's Predicted Position: (33.431389, -117.899536)
+Interval: 8
+Plane 1's Predicted Position: (34.059013, -117.820259)
+Plane 2's Predicted Position: (33.350281, -117.909096)
+Interval: 9
+Plane 1's Predicted Position: (34.059010, -117.820244)
+Plane 2's Predicted Position: (33.269173, -117.918655)
+
+
+Collision predicted? 0
+Distance between aircraft: 6653.129852
+
+
+vx -0.410000
+
+Our Velocity (vx ,vy): (-0.410000, 0.420000)
+Our Position (X,Y): (34.059028, -117.820340)
+other (X,Y): (34.000125, -117.832546)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 193.020000
+Plane 2 Heading: 299.930000
+Relative Heading: 106.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059029, -117.820343)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 1
+Plane 1's Predicted Position: (34.059025, -117.820343)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 2
+Plane 1's Predicted Position: (34.059021, -117.820351)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 3
+Plane 1's Predicted Position: (34.059021, -117.820358)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 4
+Plane 1's Predicted Position: (34.059017, -117.820358)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 5
+Plane 1's Predicted Position: (34.059013, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 6
+Plane 1's Predicted Position: (34.059013, -117.820374)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 7
+Plane 1's Predicted Position: (34.059010, -117.820374)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 8
+Plane 1's Predicted Position: (34.059006, -117.820381)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 9
+Plane 1's Predicted Position: (34.059002, -117.820389)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+
+
+Collision predicted? 0
+Distance between aircraft: 6652.968062
+Our Velocity (vx ,vy): (0.060000, -0.630000)
+Our Position (X,Y): (34.059019, -117.820350)
+other (X,Y): (34.000125, -117.832546)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 192.910000
+Plane 2 Heading: 299.930000
+Relative Heading: 107.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059021, -117.820351)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 1
+Plane 1's Predicted Position: (34.059025, -117.820328)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 2
+Plane 1's Predicted Position: (34.059029, -117.820312)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 3
+Plane 1's Predicted Position: (34.059032, -117.820290)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 4
+Plane 1's Predicted Position: (34.059036, -117.820267)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 5
+Plane 1's Predicted Position: (34.059040, -117.820251)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 6
+Plane 1's Predicted Position: (34.059044, -117.820229)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 7
+Plane 1's Predicted Position: (34.059048, -117.820213)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 8
+Plane 1's Predicted Position: (34.059052, -117.820190)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 9
+Plane 1's Predicted Position: (34.059055, -117.820168)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+
+
+Collision predicted? 0
+Distance between aircraft: 6651.821436
+
+
+vx 0.370000
+
+Our Velocity (vx ,vy): (0.370000, -0.570000)
+Our Position (X,Y): (34.059008, -117.820361)
+other (X,Y): (34.000125, -117.832546)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 192.890000
+Plane 2 Heading: 299.930000
+Relative Heading: 107.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059010, -117.820358)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 1
+Plane 1's Predicted Position: (34.059010, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 2
+Plane 1's Predicted Position: (34.059013, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 3
+Plane 1's Predicted Position: (34.059017, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 4
+Plane 1's Predicted Position: (34.059021, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 5
+Plane 1's Predicted Position: (34.059021, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 6
+Plane 1's Predicted Position: (34.059025, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 7
+Plane 1's Predicted Position: (34.059029, -117.820366)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 8
+Plane 1's Predicted Position: (34.059029, -117.820374)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 9
+Plane 1's Predicted Position: (34.059032, -117.820374)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+
+
+Collision predicted? 0
+Distance between aircraft: 6650.449284
+Our Velocity (vx ,vy): (-0.270000, -0.410000)
+Our Position (X,Y): (34.059003, -117.820384)
+other (X,Y): (34.000125, -117.832546)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 181.690000
+Plane 2 Heading: 299.930000
+Relative Heading: 118.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059002, -117.820381)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 1
+Plane 1's Predicted Position: (34.058998, -117.820389)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 2
+Plane 1's Predicted Position: (34.058990, -117.820389)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 3
+Plane 1's Predicted Position: (34.058987, -117.820396)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 4
+Plane 1's Predicted Position: (34.058979, -117.820396)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 5
+Plane 1's Predicted Position: (34.058975, -117.820396)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 6
+Plane 1's Predicted Position: (34.058968, -117.820404)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 7
+Plane 1's Predicted Position: (34.058964, -117.820404)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 8
+Plane 1's Predicted Position: (34.058956, -117.820412)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+Interval: 9
+Plane 1's Predicted Position: (34.058952, -117.820412)
+Plane 2's Predicted Position: (33.999599, -117.832573)
+
+
+Collision predicted? 0
+Distance between aircraft: 6649.498466
+
+
+vx -0.060000
+
+Our Velocity (vx ,vy): (-0.060000, -0.320000)
+Our Position (X,Y): (34.059000, -117.820397)
+other (X,Y): (33.989731, -117.857965)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 181.340000
+Plane 2 Heading: 263.880000
+Relative Heading: 82.000000
+Interval: 0
+Plane 1's Predicted Position: (34.058998, -117.820396)
+Plane 2's Predicted Position: (33.988754, -117.858040)
+Interval: 1
+Plane 1's Predicted Position: (34.059002, -117.820396)
+Plane 2's Predicted Position: (34.069862, -117.848495)
+Interval: 2
+Plane 1's Predicted Position: (34.059002, -117.820404)
+Plane 2's Predicted Position: (34.150970, -117.838943)
+Interval: 3
+Plane 1's Predicted Position: (34.059006, -117.820404)
+Plane 2's Predicted Position: (34.232079, -117.829391)
+Interval: 4
+Plane 1's Predicted Position: (34.059006, -117.820404)
+Plane 2's Predicted Position: (34.313187, -117.819839)
+Interval: 5
+Plane 1's Predicted Position: (34.059010, -117.820404)
+Plane 2's Predicted Position: (34.394295, -117.810287)
+Interval: 6
+Plane 1's Predicted Position: (34.059010, -117.820404)
+Plane 2's Predicted Position: (34.475403, -117.800735)
+Interval: 7
+Plane 1's Predicted Position: (34.059013, -117.820412)
+Plane 2's Predicted Position: (34.556511, -117.791191)
+Interval: 8
+Plane 1's Predicted Position: (34.059013, -117.820412)
+Plane 2's Predicted Position: (34.637619, -117.781639)
+Interval: 9
+Plane 1's Predicted Position: (34.059017, -117.820412)
+Plane 2's Predicted Position: (34.718727, -117.772087)
+
+
+Collision predicted? 0
+Distance between aircraft: 8454.045736
+Our Velocity (vx ,vy): (-0.410000, -0.080000)
+Our Position (X,Y): (34.059001, -117.820408)
+other (X,Y): (34.000125, -117.832546)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 180.730000
+Plane 2 Heading: 301.040000
+Relative Heading: 120.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059002, -117.820404)
+Plane 2's Predicted Position: (33.999149, -117.832611)
+Interval: 1
+Plane 1's Predicted Position: (34.058998, -117.820412)
+Plane 2's Predicted Position: (33.918041, -117.843872)
+Interval: 2
+Plane 1's Predicted Position: (34.058994, -117.820419)
+Plane 2's Predicted Position: (33.836929, -117.855125)
+Interval: 3
+Plane 1's Predicted Position: (34.058990, -117.820419)
+Plane 2's Predicted Position: (33.755821, -117.866379)
+Interval: 4
+Plane 1's Predicted Position: (34.058987, -117.820427)
+Plane 2's Predicted Position: (33.674713, -117.877640)
+Interval: 5
+Plane 1's Predicted Position: (34.058987, -117.820427)
+Plane 2's Predicted Position: (33.593605, -117.888893)
+Interval: 6
+Plane 1's Predicted Position: (34.058983, -117.820435)
+Plane 2's Predicted Position: (33.512497, -117.900146)
+Interval: 7
+Plane 1's Predicted Position: (34.058979, -117.820442)
+Plane 2's Predicted Position: (33.431389, -117.911407)
+Interval: 8
+Plane 1's Predicted Position: (34.058975, -117.820442)
+Plane 2's Predicted Position: (33.350281, -117.922661)
+Interval: 9
+Plane 1's Predicted Position: (34.058971, -117.820450)
+Plane 2's Predicted Position: (33.269173, -117.933914)
+
+
+Collision predicted? 0
+Distance between aircraft: 6648.893152
+
+
+vx -0.480000
+
+Our Velocity (vx ,vy): (-0.480000, -0.360000)
+Our Position (X,Y): (34.059005, -117.820415)
+other (X,Y): (34.002045, -117.836497)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 180.410000
+Plane 2 Heading: 301.040000
+Relative Heading: 120.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059006, -117.820419)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 1
+Plane 1's Predicted Position: (34.059006, -117.820412)
+Plane 2's Predicted Position: (34.001518, -117.835938)
+Interval: 2
+Plane 1's Predicted Position: (34.059006, -117.820404)
+Plane 2's Predicted Position: (34.001518, -117.835365)
+Interval: 3
+Plane 1's Predicted Position: (34.059002, -117.820396)
+Plane 2's Predicted Position: (34.001518, -117.834793)
+Interval: 4
+Plane 1's Predicted Position: (34.059002, -117.820396)
+Plane 2's Predicted Position: (34.001518, -117.834221)
+Interval: 5
+Plane 1's Predicted Position: (34.059002, -117.820389)
+Plane 2's Predicted Position: (34.001518, -117.833649)
+Interval: 6
+Plane 1's Predicted Position: (34.059002, -117.820381)
+Plane 2's Predicted Position: (34.001518, -117.833076)
+Interval: 7
+Plane 1's Predicted Position: (34.059002, -117.820381)
+Plane 2's Predicted Position: (34.001518, -117.832504)
+Interval: 8
+Plane 1's Predicted Position: (34.059002, -117.820374)
+Plane 2's Predicted Position: (34.001518, -117.831932)
+Interval: 9
+Plane 1's Predicted Position: (34.058998, -117.820366)
+Plane 2's Predicted Position: (34.001518, -117.831360)
+
+
+Collision predicted? 0
+Distance between aircraft: 6511.955688
+Our Velocity (vx ,vy): (-0.630000, -0.830000)
+Our Position (X,Y): (34.059013, -117.820441)
+other (X,Y): (34.002045, -117.836497)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 198.430000
+Plane 2 Heading: 301.470000
+Relative Heading: 103.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059013, -117.820442)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 1
+Plane 1's Predicted Position: (34.059013, -117.820435)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 2
+Plane 1's Predicted Position: (34.059010, -117.820427)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 3
+Plane 1's Predicted Position: (34.059010, -117.820412)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 4
+Plane 1's Predicted Position: (34.059010, -117.820404)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 5
+Plane 1's Predicted Position: (34.059006, -117.820396)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 6
+Plane 1's Predicted Position: (34.059006, -117.820389)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 7
+Plane 1's Predicted Position: (34.059002, -117.820381)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 8
+Plane 1's Predicted Position: (34.059002, -117.820366)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 9
+Plane 1's Predicted Position: (34.059002, -117.820358)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+
+
+Collision predicted? 0
+Distance between aircraft: 6512.283142
+
+
+vx 0.290000
+
+Our Velocity (vx ,vy): (0.290000, 0.630000)
+Our Position (X,Y): (34.059019, -117.820460)
+other (X,Y): (34.002045, -117.836497)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 198.970000
+Plane 2 Heading: 301.470000
+Relative Heading: 102.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059017, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 1
+Plane 1's Predicted Position: (34.059029, -117.820488)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 2
+Plane 1's Predicted Position: (34.059036, -117.820518)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 3
+Plane 1's Predicted Position: (34.059044, -117.820541)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 4
+Plane 1's Predicted Position: (34.059052, -117.820572)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 5
+Plane 1's Predicted Position: (34.059059, -117.820602)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 6
+Plane 1's Predicted Position: (34.059067, -117.820625)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 7
+Plane 1's Predicted Position: (34.059074, -117.820656)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 8
+Plane 1's Predicted Position: (34.059086, -117.820686)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 9
+Plane 1's Predicted Position: (34.059093, -117.820709)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+
+
+Collision predicted? 0
+Distance between aircraft: 6512.491769
+Our Velocity (vx ,vy): (0.220000, 0.670000)
+Our Position (X,Y): (34.059020, -117.820456)
+other (X,Y): (34.002045, -117.836497)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 212.720000
+Plane 2 Heading: 301.470000
+Relative Heading: 88.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059021, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 1
+Plane 1's Predicted Position: (34.059021, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 2
+Plane 1's Predicted Position: (34.059017, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 3
+Plane 1's Predicted Position: (34.059017, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 4
+Plane 1's Predicted Position: (34.059017, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 5
+Plane 1's Predicted Position: (34.059017, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 6
+Plane 1's Predicted Position: (34.059017, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 7
+Plane 1's Predicted Position: (34.059017, -117.820457)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 8
+Plane 1's Predicted Position: (34.059013, -117.820465)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+Interval: 9
+Plane 1's Predicted Position: (34.059013, -117.820465)
+Plane 2's Predicted Position: (34.001518, -117.836510)
+
+
+Collision predicted? 0
+Distance between aircraft: 6512.701140
+
+
+vx -0.180000
+
+Our Velocity (vx ,vy): (-0.180000, -0.080000)
+Our Position (X,Y): (34.059020, -117.820457)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 245.660000
+Plane 2 Heading: 263.650000
+Relative Heading: 17.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059021, -117.820457)
+Plane 2's Predicted Position: (33.986629, -117.881477)
+Interval: 1
+Plane 1's Predicted Position: (34.059017, -117.820442)
+Plane 2's Predicted Position: (34.066906, -117.871933)
+Interval: 2
+Plane 1's Predicted Position: (34.059013, -117.820427)
+Plane 2's Predicted Position: (34.147182, -117.862389)
+Interval: 3
+Plane 1's Predicted Position: (34.059010, -117.820412)
+Plane 2's Predicted Position: (34.227455, -117.852844)
+Interval: 4
+Plane 1's Predicted Position: (34.059006, -117.820396)
+Plane 2's Predicted Position: (34.307732, -117.843307)
+Interval: 5
+Plane 1's Predicted Position: (34.059002, -117.820389)
+Plane 2's Predicted Position: (34.388008, -117.833763)
+Interval: 6
+Plane 1's Predicted Position: (34.058998, -117.820374)
+Plane 2's Predicted Position: (34.468285, -117.824219)
+Interval: 7
+Plane 1's Predicted Position: (34.058994, -117.820358)
+Plane 2's Predicted Position: (34.548557, -117.814674)
+Interval: 8
+Plane 1's Predicted Position: (34.058990, -117.820343)
+Plane 2's Predicted Position: (34.628834, -117.805130)
+Interval: 9
+Plane 1's Predicted Position: (34.058987, -117.820328)
+Plane 2's Predicted Position: (34.709110, -117.795586)
+
+
+Collision predicted? 0
+Distance between aircraft: 9738.123823
+Our Velocity (vx ,vy): (-0.290000, -0.720000)
+Our Position (X,Y): (34.059024, -117.820461)
+other (X,Y): (34.002045, -117.836497)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 245.360000
+Plane 2 Heading: 301.470000
+Relative Heading: 56.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059025, -117.820465)
+Plane 2's Predicted Position: (34.001072, -117.836563)
+Interval: 1
+Plane 1's Predicted Position: (34.059021, -117.820450)
+Plane 2's Predicted Position: (33.920795, -117.846123)
+Interval: 2
+Plane 1's Predicted Position: (34.059021, -117.820435)
+Plane 2's Predicted Position: (33.840519, -117.855675)
+Interval: 3
+Plane 1's Predicted Position: (34.059021, -117.820427)
+Plane 2's Predicted Position: (33.760246, -117.865234)
+Interval: 4
+Plane 1's Predicted Position: (34.059021, -117.820412)
+Plane 2's Predicted Position: (33.679970, -117.874794)
+Interval: 5
+Plane 1's Predicted Position: (34.059017, -117.820404)
+Plane 2's Predicted Position: (33.599693, -117.884354)
+Interval: 6
+Plane 1's Predicted Position: (34.059017, -117.820389)
+Plane 2's Predicted Position: (33.519417, -117.893906)
+Interval: 7
+Plane 1's Predicted Position: (34.059017, -117.820374)
+Plane 2's Predicted Position: (33.439144, -117.903465)
+Interval: 8
+Plane 1's Predicted Position: (34.059017, -117.820366)
+Plane 2's Predicted Position: (33.358868, -117.913025)
+Interval: 9
+Plane 1's Predicted Position: (34.059013, -117.820351)
+Plane 2's Predicted Position: (33.278591, -117.922577)
+
+
+Collision predicted? 0
+Distance between aircraft: 6513.008652
+
+
+vx -0.750000
+
+Our Velocity (vx ,vy): (-0.750000, 2.480000)
+Our Position (X,Y): (34.059024, -117.820462)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 247.680000
+Plane 2 Heading: 263.650000
+Relative Heading: 15.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059025, -117.820465)
+Plane 2's Predicted Position: (33.986629, -117.881477)
+Interval: 1
+Plane 1's Predicted Position: (34.059021, -117.820526)
+Plane 2's Predicted Position: (34.066906, -117.871933)
+Interval: 2
+Plane 1's Predicted Position: (34.059017, -117.820587)
+Plane 2's Predicted Position: (34.147182, -117.862389)
+Interval: 3
+Plane 1's Predicted Position: (34.059013, -117.820648)
+Plane 2's Predicted Position: (34.227455, -117.852844)
+Interval: 4
+Plane 1's Predicted Position: (34.059006, -117.820709)
+Plane 2's Predicted Position: (34.307732, -117.843307)
+Interval: 5
+Plane 1's Predicted Position: (34.059002, -117.820770)
+Plane 2's Predicted Position: (34.388008, -117.833763)
+Interval: 6
+Plane 1's Predicted Position: (34.058998, -117.820831)
+Plane 2's Predicted Position: (34.468285, -117.824219)
+Interval: 7
+Plane 1's Predicted Position: (34.058994, -117.820885)
+Plane 2's Predicted Position: (34.548557, -117.814674)
+Interval: 8
+Plane 1's Predicted Position: (34.058990, -117.820946)
+Plane 2's Predicted Position: (34.628834, -117.805130)
+Interval: 9
+Plane 1's Predicted Position: (34.058987, -117.821007)
+Plane 2's Predicted Position: (34.709110, -117.795586)
+
+
+Collision predicted? 0
+Distance between aircraft: 9738.180769
+Our Velocity (vx ,vy): (0.590000, -1.540000)
+Our Position (X,Y): (34.059026, -117.820452)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 248.520000
+Plane 2 Heading: 263.650000
+Relative Heading: 15.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059025, -117.820450)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 1
+Plane 1's Predicted Position: (34.059036, -117.820374)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 2
+Plane 1's Predicted Position: (34.059048, -117.820297)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 3
+Plane 1's Predicted Position: (34.059063, -117.820221)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 4
+Plane 1's Predicted Position: (34.059074, -117.820145)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 5
+Plane 1's Predicted Position: (34.059086, -117.820068)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 6
+Plane 1's Predicted Position: (34.059097, -117.819992)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 7
+Plane 1's Predicted Position: (34.059109, -117.819916)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 8
+Plane 1's Predicted Position: (34.059120, -117.819839)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 9
+Plane 1's Predicted Position: (34.059132, -117.819763)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+
+
+Collision predicted? 0
+Distance between aircraft: 9738.871784
+
+
+vx 0.060000
+
+Our Velocity (vx ,vy): (0.060000, -2.430000)
+Our Position (X,Y): (34.059040, -117.820487)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 217.150000
+Plane 2 Heading: 263.450000
+Relative Heading: 46.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059040, -117.820488)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 1
+Plane 1's Predicted Position: (34.059036, -117.820473)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 2
+Plane 1's Predicted Position: (34.059032, -117.820457)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 3
+Plane 1's Predicted Position: (34.059025, -117.820435)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 4
+Plane 1's Predicted Position: (34.059021, -117.820419)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 5
+Plane 1's Predicted Position: (34.059017, -117.820404)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 6
+Plane 1's Predicted Position: (34.059013, -117.820389)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 7
+Plane 1's Predicted Position: (34.059006, -117.820366)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 8
+Plane 1's Predicted Position: (34.059002, -117.820351)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+Interval: 9
+Plane 1's Predicted Position: (34.058998, -117.820335)
+Plane 2's Predicted Position: (33.986183, -117.881531)
+
+
+Collision predicted? 0
+Distance between aircraft: 9738.289315
+Our Velocity (vx ,vy): (-0.100000, -0.060000)
+Our Position (X,Y): (34.059042, -117.820488)
+other (X,Y): (34.004471, -117.841429)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 217.500000
+Plane 2 Heading: 300.540000
+Relative Heading: 83.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059040, -117.820488)
+Plane 2's Predicted Position: (34.003494, -117.841499)
+Interval: 1
+Plane 1's Predicted Position: (34.059040, -117.820534)
+Plane 2's Predicted Position: (33.924049, -117.850502)
+Interval: 2
+Plane 1's Predicted Position: (34.059040, -117.820580)
+Plane 2's Predicted Position: (33.844608, -117.859505)
+Interval: 3
+Plane 1's Predicted Position: (34.059036, -117.820625)
+Plane 2's Predicted Position: (33.765163, -117.868507)
+Interval: 4
+Plane 1's Predicted Position: (34.059036, -117.820671)
+Plane 2's Predicted Position: (33.685722, -117.877502)
+Interval: 5
+Plane 1's Predicted Position: (34.059036, -117.820717)
+Plane 2's Predicted Position: (33.606277, -117.886505)
+Interval: 6
+Plane 1's Predicted Position: (34.059032, -117.820763)
+Plane 2's Predicted Position: (33.526836, -117.895508)
+Interval: 7
+Plane 1's Predicted Position: (34.059032, -117.820801)
+Plane 2's Predicted Position: (33.447392, -117.904510)
+Interval: 8
+Plane 1's Predicted Position: (34.059029, -117.820847)
+Plane 2's Predicted Position: (33.367950, -117.913513)
+Interval: 9
+Plane 1's Predicted Position: (34.059029, -117.820892)
+Plane 2's Predicted Position: (33.288509, -117.922516)
+
+
+Collision predicted? 0
+Distance between aircraft: 6374.515592
+
+
+vx -0.050000
+
+Our Velocity (vx ,vy): (-0.050000, 0.390000)
+Our Position (X,Y): (34.059042, -117.820482)
+other (X,Y): (34.004745, -117.841990)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 159.900000
+Plane 2 Heading: 300.790000
+Relative Heading: 140.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059040, -117.820480)
+Plane 2's Predicted Position: (34.004211, -117.842003)
+Interval: 1
+Plane 1's Predicted Position: (34.059044, -117.820488)
+Plane 2's Predicted Position: (34.003799, -117.842560)
+Interval: 2
+Plane 1's Predicted Position: (34.059044, -117.820496)
+Plane 2's Predicted Position: (34.003387, -117.843117)
+Interval: 3
+Plane 1's Predicted Position: (34.059044, -117.820511)
+Plane 2's Predicted Position: (34.002975, -117.843666)
+Interval: 4
+Plane 1's Predicted Position: (34.059044, -117.820518)
+Plane 2's Predicted Position: (34.002563, -117.844223)
+Interval: 5
+Plane 1's Predicted Position: (34.059044, -117.820526)
+Plane 2's Predicted Position: (34.002151, -117.844772)
+Interval: 6
+Plane 1's Predicted Position: (34.059044, -117.820534)
+Plane 2's Predicted Position: (34.001740, -117.845329)
+Interval: 7
+Plane 1's Predicted Position: (34.059044, -117.820541)
+Plane 2's Predicted Position: (34.001324, -117.845886)
+Interval: 8
+Plane 1's Predicted Position: (34.059044, -117.820549)
+Plane 2's Predicted Position: (34.000912, -117.846436)
+Interval: 9
+Plane 1's Predicted Position: (34.059048, -117.820557)
+Plane 2's Predicted Position: (34.000500, -117.846992)
+
+
+Collision predicted? 0
+Distance between aircraft: 6361.499551
+Our Velocity (vx ,vy): (-0.930000, 1.460000)
+Our Position (X,Y): (34.059047, -117.820471)
+other (X,Y): (34.004745, -117.841990)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 161.560000
+Plane 2 Heading: 300.790000
+Relative Heading: 139.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059048, -117.820473)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 1
+Plane 1's Predicted Position: (34.059040, -117.820496)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 2
+Plane 1's Predicted Position: (34.059032, -117.820511)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 3
+Plane 1's Predicted Position: (34.059025, -117.820534)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 4
+Plane 1's Predicted Position: (34.059017, -117.820557)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 5
+Plane 1's Predicted Position: (34.059010, -117.820572)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 6
+Plane 1's Predicted Position: (34.059002, -117.820595)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 7
+Plane 1's Predicted Position: (34.058994, -117.820618)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 8
+Plane 1's Predicted Position: (34.058987, -117.820633)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 9
+Plane 1's Predicted Position: (34.058975, -117.820656)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+
+
+Collision predicted? 0
+Distance between aircraft: 6362.389153
+
+
+vx 0.080000
+
+Our Velocity (vx ,vy): (0.080000, 1.200000)
+Our Position (X,Y): (34.059047, -117.820471)
+other (X,Y): (34.004745, -117.841990)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 119.110000
+Plane 2 Heading: 300.790000
+Relative Heading: 181.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059048, -117.820473)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 1
+Plane 1's Predicted Position: (34.059055, -117.820465)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 2
+Plane 1's Predicted Position: (34.059063, -117.820457)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 3
+Plane 1's Predicted Position: (34.059074, -117.820457)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 4
+Plane 1's Predicted Position: (34.059082, -117.820450)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 5
+Plane 1's Predicted Position: (34.059090, -117.820442)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 6
+Plane 1's Predicted Position: (34.059101, -117.820442)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 7
+Plane 1's Predicted Position: (34.059109, -117.820435)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 8
+Plane 1's Predicted Position: (34.059120, -117.820435)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+Interval: 9
+Plane 1's Predicted Position: (34.059128, -117.820427)
+Plane 2's Predicted Position: (34.004215, -117.842003)
+
+
+Collision predicted? 0
+Distance between aircraft: 6362.324696
+Our Velocity (vx ,vy): (0.630000, -1.950000)
+Our Position (X,Y): (34.059055, -117.820480)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 84.860000
+Plane 2 Heading: 263.450000
+Relative Heading: 178.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059055, -117.820480)
+Plane 2's Predicted Position: (33.986626, -117.881485)
+Interval: 1
+Plane 1's Predicted Position: (34.059059, -117.820419)
+Plane 2's Predicted Position: (34.066483, -117.871368)
+Interval: 2
+Plane 1's Predicted Position: (34.059063, -117.820358)
+Plane 2's Predicted Position: (34.146339, -117.861252)
+Interval: 3
+Plane 1's Predicted Position: (34.059071, -117.820297)
+Plane 2's Predicted Position: (34.226192, -117.851143)
+Interval: 4
+Plane 1's Predicted Position: (34.059074, -117.820244)
+Plane 2's Predicted Position: (34.306049, -117.841026)
+Interval: 5
+Plane 1's Predicted Position: (34.059078, -117.820183)
+Plane 2's Predicted Position: (34.385902, -117.830910)
+Interval: 6
+Plane 1's Predicted Position: (34.059086, -117.820122)
+Plane 2's Predicted Position: (34.465759, -117.820801)
+Interval: 7
+Plane 1's Predicted Position: (34.059090, -117.820061)
+Plane 2's Predicted Position: (34.545612, -117.810684)
+Interval: 8
+Plane 1's Predicted Position: (34.059093, -117.820000)
+Plane 2's Predicted Position: (34.625469, -117.800568)
+Interval: 9
+Plane 1's Predicted Position: (34.059097, -117.819939)
+Plane 2's Predicted Position: (34.705326, -117.790459)
+
+
+Collision predicted? 0
+Distance between aircraft: 9739.999638
+
+
+vx 0.370000
+
+Our Velocity (vx ,vy): (1.100000, -0.650000)
+Our Position (X,Y): (34.059057, -117.820494)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 70.970000
+Plane 2 Heading: 263.450000
+Relative Heading: 192.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059055, -117.820496)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 1
+Plane 1's Predicted Position: (34.059059, -117.820518)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 2
+Plane 1's Predicted Position: (34.059067, -117.820541)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 3
+Plane 1's Predicted Position: (34.059071, -117.820572)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 4
+Plane 1's Predicted Position: (34.059074, -117.820595)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 5
+Plane 1's Predicted Position: (34.059078, -117.820618)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 6
+Plane 1's Predicted Position: (34.059082, -117.820641)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 7
+Plane 1's Predicted Position: (34.059086, -117.820671)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 8
+Plane 1's Predicted Position: (34.059090, -117.820694)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 9
+Plane 1's Predicted Position: (34.059093, -117.820717)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+
+
+Collision predicted? 0
+Distance between aircraft: 9739.443499
+Our Velocity (vx ,vy): (-0.410000, -1.390000)
+Our Position (X,Y): (34.059060, -117.820501)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 54.130000
+Plane 2 Heading: 263.450000
+Relative Heading: 209.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059059, -117.820503)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 1
+Plane 1's Predicted Position: (34.059048, -117.820488)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 2
+Plane 1's Predicted Position: (34.059032, -117.820473)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 3
+Plane 1's Predicted Position: (34.059021, -117.820457)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 4
+Plane 1's Predicted Position: (34.059006, -117.820442)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 5
+Plane 1's Predicted Position: (34.058994, -117.820427)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 6
+Plane 1's Predicted Position: (34.058979, -117.820419)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 7
+Plane 1's Predicted Position: (34.058964, -117.820404)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 8
+Plane 1's Predicted Position: (34.058952, -117.820389)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+Interval: 9
+Plane 1's Predicted Position: (34.058937, -117.820374)
+Plane 2's Predicted Position: (33.986183, -117.881538)
+
+
+Collision predicted? 0
+Distance between aircraft: 9739.348188
+
+
+vx 0.550000
+
+Our Velocity (vx ,vy): (0.550000, 0.380000)
+Our Position (X,Y): (34.059061, -117.820505)
+other (X,Y): (34.005936, -117.844288)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 51.880000
+Plane 2 Heading: 301.210000
+Relative Heading: 249.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059059, -117.820503)
+Plane 2's Predicted Position: (34.004959, -117.844360)
+Interval: 1
+Plane 1's Predicted Position: (34.059071, -117.820541)
+Plane 2's Predicted Position: (33.925106, -117.853363)
+Interval: 2
+Plane 1's Predicted Position: (34.059078, -117.820572)
+Plane 2's Predicted Position: (33.845249, -117.862366)
+Interval: 3
+Plane 1's Predicted Position: (34.059086, -117.820610)
+Plane 2's Predicted Position: (33.765396, -117.871368)
+Interval: 4
+Plane 1's Predicted Position: (34.059093, -117.820641)
+Plane 2's Predicted Position: (33.685539, -117.880371)
+Interval: 5
+Plane 1's Predicted Position: (34.059105, -117.820671)
+Plane 2's Predicted Position: (33.605686, -117.889366)
+Interval: 6
+Plane 1's Predicted Position: (34.059113, -117.820709)
+Plane 2's Predicted Position: (33.525829, -117.898369)
+Interval: 7
+Plane 1's Predicted Position: (34.059120, -117.820740)
+Plane 2's Predicted Position: (33.445972, -117.907372)
+Interval: 8
+Plane 1's Predicted Position: (34.059128, -117.820778)
+Plane 2's Predicted Position: (33.366119, -117.916374)
+Interval: 9
+Plane 1's Predicted Position: (34.059139, -117.820808)
+Plane 2's Predicted Position: (33.286263, -117.925377)
+
+
+Collision predicted? 0
+Distance between aircraft: 6307.671147
+Our Velocity (vx ,vy): (-0.080000, -0.640000)
+Our Position (X,Y): (34.059067, -117.820505)
+other (X,Y): (34.005936, -117.844288)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 38.230000
+Plane 2 Heading: 301.210000
+Relative Heading: 262.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059067, -117.820503)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 1
+Plane 1's Predicted Position: (34.059063, -117.820488)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 2
+Plane 1's Predicted Position: (34.059055, -117.820465)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 3
+Plane 1's Predicted Position: (34.059052, -117.820450)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 4
+Plane 1's Predicted Position: (34.059044, -117.820427)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 5
+Plane 1's Predicted Position: (34.059040, -117.820404)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 6
+Plane 1's Predicted Position: (34.059032, -117.820389)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 7
+Plane 1's Predicted Position: (34.059029, -117.820366)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 8
+Plane 1's Predicted Position: (34.059021, -117.820351)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 9
+Plane 1's Predicted Position: (34.059017, -117.820328)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+
+
+Collision predicted? 0
+Distance between aircraft: 6308.269224
+
+
+vx 1.840000
+
+Our Velocity (vx ,vy): (1.840000, -3.860000)
+Our Position (X,Y): (34.059068, -117.820510)
+other (X,Y): (34.005936, -117.844288)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 115.270000
+Plane 2 Heading: 301.210000
+Relative Heading: 185.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059067, -117.820511)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 1
+Plane 1's Predicted Position: (34.059086, -117.820450)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 2
+Plane 1's Predicted Position: (34.059101, -117.820389)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 3
+Plane 1's Predicted Position: (34.059120, -117.820328)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 4
+Plane 1's Predicted Position: (34.059135, -117.820267)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 5
+Plane 1's Predicted Position: (34.059155, -117.820206)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 6
+Plane 1's Predicted Position: (34.059170, -117.820145)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 7
+Plane 1's Predicted Position: (34.059189, -117.820084)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 8
+Plane 1's Predicted Position: (34.059204, -117.820023)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+Interval: 9
+Plane 1's Predicted Position: (34.059223, -117.819962)
+Plane 2's Predicted Position: (34.005405, -117.844315)
+
+
+Collision predicted? 0
+Distance between aircraft: 6308.207578
+Our Velocity (vx ,vy): (1.170000, 3.570000)
+Our Position (X,Y): (34.059110, -117.820533)
+other (X,Y): (34.007034, -117.846474)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 120.070000
+Plane 2 Heading: 300.790000
+Relative Heading: 180.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059109, -117.820534)
+Plane 2's Predicted Position: (34.006504, -117.846504)
+Interval: 1
+Plane 1's Predicted Position: (34.059105, -117.820679)
+Plane 2's Predicted Position: (34.006504, -117.845947)
+Interval: 2
+Plane 1's Predicted Position: (34.059097, -117.820816)
+Plane 2's Predicted Position: (34.006504, -117.845398)
+Interval: 3
+Plane 1's Predicted Position: (34.059093, -117.820961)
+Plane 2's Predicted Position: (34.006504, -117.844841)
+Interval: 4
+Plane 1's Predicted Position: (34.059086, -117.821098)
+Plane 2's Predicted Position: (34.006504, -117.844284)
+Interval: 5
+Plane 1's Predicted Position: (34.059082, -117.821243)
+Plane 2's Predicted Position: (34.006504, -117.843735)
+Interval: 6
+Plane 1's Predicted Position: (34.059074, -117.821381)
+Plane 2's Predicted Position: (34.006504, -117.843178)
+Interval: 7
+Plane 1's Predicted Position: (34.059067, -117.821526)
+Plane 2's Predicted Position: (34.006504, -117.842628)
+Interval: 8
+Plane 1's Predicted Position: (34.059063, -117.821663)
+Plane 2's Predicted Position: (34.006504, -117.842072)
+Interval: 9
+Plane 1's Predicted Position: (34.059055, -117.821808)
+Plane 2's Predicted Position: (34.006504, -117.841515)
+
+
+Collision predicted? 0
+Distance between aircraft: 6271.501286
+
+
+vx 6.570000
+
+Our Velocity (vx ,vy): (6.570000, -3.430000)
+Our Position (X,Y): (34.059188, -117.820574)
+other (X,Y): (34.007341, -117.847080)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 215.560000
+Plane 2 Heading: 300.790000
+Relative Heading: 85.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059189, -117.820572)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 1
+Plane 1's Predicted Position: (34.059235, -117.820442)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 2
+Plane 1's Predicted Position: (34.059284, -117.820305)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 3
+Plane 1's Predicted Position: (34.059330, -117.820175)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 4
+Plane 1's Predicted Position: (34.059380, -117.820038)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 5
+Plane 1's Predicted Position: (34.059429, -117.819908)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 6
+Plane 1's Predicted Position: (34.059475, -117.819771)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 7
+Plane 1's Predicted Position: (34.059525, -117.819641)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 8
+Plane 1's Predicted Position: (34.059570, -117.819504)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+Interval: 9
+Plane 1's Predicted Position: (34.059620, -117.819374)
+Plane 2's Predicted Position: (34.006809, -117.847115)
+
+
+Collision predicted? 0
+Distance between aircraft: 6268.122998
+Our Velocity (vx ,vy): (1.580000, -0.470000)
+Our Position (X,Y): (34.059223, -117.820593)
+other (X,Y): (34.007760, -117.847996)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 260.670000
+Plane 2 Heading: 300.790000
+Relative Heading: 40.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059223, -117.820595)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 1
+Plane 1's Predicted Position: (34.059177, -117.820648)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 2
+Plane 1's Predicted Position: (34.059135, -117.820709)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 3
+Plane 1's Predicted Position: (34.059090, -117.820763)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 4
+Plane 1's Predicted Position: (34.059044, -117.820816)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 5
+Plane 1's Predicted Position: (34.059002, -117.820877)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 6
+Plane 1's Predicted Position: (34.058956, -117.820930)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 7
+Plane 1's Predicted Position: (34.058914, -117.820992)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 8
+Plane 1's Predicted Position: (34.058868, -117.821045)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 9
+Plane 1's Predicted Position: (34.058823, -117.821098)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+
+
+Collision predicted? 0
+Distance between aircraft: 6261.730686
+
+
+vx 1.060000
+
+Our Velocity (vx ,vy): (1.060000, -0.690000)
+Our Position (X,Y): (34.059223, -117.820601)
+other (X,Y): (34.007760, -117.847996)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 276.980000
+Plane 2 Heading: 300.790000
+Relative Heading: 23.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059223, -117.820602)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 1
+Plane 1's Predicted Position: (34.059219, -117.820595)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 2
+Plane 1's Predicted Position: (34.059216, -117.820595)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 3
+Plane 1's Predicted Position: (34.059208, -117.820587)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 4
+Plane 1's Predicted Position: (34.059204, -117.820587)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 5
+Plane 1's Predicted Position: (34.059200, -117.820580)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 6
+Plane 1's Predicted Position: (34.059196, -117.820580)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 7
+Plane 1's Predicted Position: (34.059189, -117.820572)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 8
+Plane 1's Predicted Position: (34.059185, -117.820564)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+Interval: 9
+Plane 1's Predicted Position: (34.059181, -117.820564)
+Plane 2's Predicted Position: (34.007229, -117.848030)
+
+
+Collision predicted? 0
+Distance between aircraft: 6261.455130
+Our Velocity (vx ,vy): (0.890000, -0.220000)
+Our Position (X,Y): (34.059227, -117.820622)
+other (X,Y): (34.008318, -117.849083)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 285.280000
+Plane 2 Heading: 300.110000
+Relative Heading: 14.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059227, -117.820625)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 1
+Plane 1's Predicted Position: (34.059227, -117.820633)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 2
+Plane 1's Predicted Position: (34.059223, -117.820641)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 3
+Plane 1's Predicted Position: (34.059223, -117.820648)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 4
+Plane 1's Predicted Position: (34.059219, -117.820656)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 5
+Plane 1's Predicted Position: (34.059219, -117.820663)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 6
+Plane 1's Predicted Position: (34.059219, -117.820679)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 7
+Plane 1's Predicted Position: (34.059216, -117.820686)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 8
+Plane 1's Predicted Position: (34.059216, -117.820694)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+Interval: 9
+Plane 1's Predicted Position: (34.059212, -117.820702)
+Plane 2's Predicted Position: (34.007786, -117.849113)
+
+
+Collision predicted? 0
+Distance between aircraft: 6245.685834
+
+
+vx 0.300000
+
+Our Velocity (vx ,vy): (0.300000, 1.060000)
+Our Position (X,Y): (34.059237, -117.820625)
+other (X,Y): (34.008505, -117.849541)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 294.470000
+Plane 2 Heading: 299.680000
+Relative Heading: 5.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059238, -117.820625)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 1
+Plane 1's Predicted Position: (34.059231, -117.820648)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 2
+Plane 1's Predicted Position: (34.059227, -117.820671)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 3
+Plane 1's Predicted Position: (34.059223, -117.820694)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 4
+Plane 1's Predicted Position: (34.059216, -117.820724)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 5
+Plane 1's Predicted Position: (34.059212, -117.820747)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 6
+Plane 1's Predicted Position: (34.059204, -117.820770)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 7
+Plane 1's Predicted Position: (34.059200, -117.820793)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 8
+Plane 1's Predicted Position: (34.059196, -117.820816)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 9
+Plane 1's Predicted Position: (34.059189, -117.820847)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+
+
+Collision predicted? 0
+Distance between aircraft: 6245.729653
+Our Velocity (vx ,vy): (0.800000, -0.360000)
+Our Position (X,Y): (34.059258, -117.820626)
+other (X,Y): (34.008505, -117.849541)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 292.840000
+Plane 2 Heading: 299.680000
+Relative Heading: 6.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059258, -117.820625)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 1
+Plane 1's Predicted Position: (34.059261, -117.820595)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 2
+Plane 1's Predicted Position: (34.059265, -117.820572)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 3
+Plane 1's Predicted Position: (34.059273, -117.820541)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 4
+Plane 1's Predicted Position: (34.059277, -117.820518)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 5
+Plane 1's Predicted Position: (34.059280, -117.820488)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 6
+Plane 1's Predicted Position: (34.059284, -117.820465)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 7
+Plane 1's Predicted Position: (34.059288, -117.820435)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 8
+Plane 1's Predicted Position: (34.059292, -117.820412)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+Interval: 9
+Plane 1's Predicted Position: (34.059296, -117.820381)
+Plane 2's Predicted Position: (34.007973, -117.849571)
+
+
+Collision predicted? 0
+Distance between aircraft: 6247.745744
+
+
+vx 2.100000
+
+Our Velocity (vx ,vy): (2.100000, -3.630000)
+Our Position (X,Y): (34.059290, -117.820663)
+other (X,Y): (34.009048, -117.850734)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.160000
+Plane 2 Heading: 299.430000
+Relative Heading: 9.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059288, -117.820663)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 1
+Plane 1's Predicted Position: (34.059299, -117.820602)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 2
+Plane 1's Predicted Position: (34.059311, -117.820541)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 3
+Plane 1's Predicted Position: (34.059322, -117.820473)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 4
+Plane 1's Predicted Position: (34.059338, -117.820412)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 5
+Plane 1's Predicted Position: (34.059349, -117.820351)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 6
+Plane 1's Predicted Position: (34.059361, -117.820290)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 7
+Plane 1's Predicted Position: (34.059372, -117.820229)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 8
+Plane 1's Predicted Position: (34.059383, -117.820168)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+Interval: 9
+Plane 1's Predicted Position: (34.059395, -117.820107)
+Plane 2's Predicted Position: (34.008518, -117.850769)
+
+
+Collision predicted? 0
+Distance between aircraft: 6242.909342
+Our Velocity (vx ,vy): (0.420000, 0.660000)
+Our Position (X,Y): (34.059312, -117.820675)
+other (X,Y): (34.009389, -117.851429)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.000000
+Plane 2 Heading: 299.430000
+Relative Heading: 9.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059311, -117.820679)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 1
+Plane 1's Predicted Position: (34.059296, -117.820755)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 2
+Plane 1's Predicted Position: (34.059284, -117.820839)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 3
+Plane 1's Predicted Position: (34.059269, -117.820923)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 4
+Plane 1's Predicted Position: (34.059254, -117.820999)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 5
+Plane 1's Predicted Position: (34.059238, -117.821083)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 6
+Plane 1's Predicted Position: (34.059223, -117.821167)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 7
+Plane 1's Predicted Position: (34.059208, -117.821251)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 8
+Plane 1's Predicted Position: (34.059193, -117.821327)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+Interval: 9
+Plane 1's Predicted Position: (34.059177, -117.821411)
+Plane 2's Predicted Position: (34.008858, -117.851463)
+
+
+Collision predicted? 0
+Distance between aircraft: 6239.636601
+
+
+vx 1.600000
+
+Our Velocity (vx ,vy): (1.600000, -1.090000)
+Our Position (X,Y): (34.059329, -117.820686)
+other (X,Y): (34.009552, -117.851743)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.070000
+Plane 2 Heading: 299.000000
+Relative Heading: 8.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059330, -117.820686)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 1
+Plane 1's Predicted Position: (34.059341, -117.820656)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 2
+Plane 1's Predicted Position: (34.059349, -117.820618)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 3
+Plane 1's Predicted Position: (34.059361, -117.820587)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 4
+Plane 1's Predicted Position: (34.059372, -117.820557)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 5
+Plane 1's Predicted Position: (34.059383, -117.820518)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 6
+Plane 1's Predicted Position: (34.059391, -117.820488)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 7
+Plane 1's Predicted Position: (34.059402, -117.820450)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 8
+Plane 1's Predicted Position: (34.059414, -117.820419)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+Interval: 9
+Plane 1's Predicted Position: (34.059425, -117.820389)
+Plane 2's Predicted Position: (34.009022, -117.851776)
+
+
+Collision predicted? 0
+Distance between aircraft: 6237.929908
+Our Velocity (vx ,vy): (-0.330000, -3.520000)
+Our Position (X,Y): (34.059309, -117.820693)
+other (X,Y): (34.009948, -117.852573)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.120000
+Plane 2 Heading: 299.000000
+Relative Heading: 8.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059311, -117.820694)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 1
+Plane 1's Predicted Position: (34.059292, -117.820648)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 2
+Plane 1's Predicted Position: (34.059277, -117.820602)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 3
+Plane 1's Predicted Position: (34.059258, -117.820557)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 4
+Plane 1's Predicted Position: (34.059242, -117.820511)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 5
+Plane 1's Predicted Position: (34.059223, -117.820465)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 6
+Plane 1's Predicted Position: (34.059208, -117.820419)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 7
+Plane 1's Predicted Position: (34.059189, -117.820366)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 8
+Plane 1's Predicted Position: (34.059174, -117.820320)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 9
+Plane 1's Predicted Position: (34.059155, -117.820274)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+
+
+Collision predicted? 0
+Distance between aircraft: 6232.339016
+
+
+vx 0.150000
+
+Our Velocity (vx ,vy): (-0.160000, 0.610000)
+Our Position (X,Y): (34.059289, -117.820692)
+other (X,Y): (34.009948, -117.852573)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.270000
+Plane 2 Heading: 299.000000
+Relative Heading: 8.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059288, -117.820694)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 1
+Plane 1's Predicted Position: (34.059292, -117.820770)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 2
+Plane 1's Predicted Position: (34.059292, -117.820847)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 3
+Plane 1's Predicted Position: (34.059296, -117.820930)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 4
+Plane 1's Predicted Position: (34.059296, -117.821007)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 5
+Plane 1's Predicted Position: (34.059296, -117.821083)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 6
+Plane 1's Predicted Position: (34.059299, -117.821167)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 7
+Plane 1's Predicted Position: (34.059299, -117.821243)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 8
+Plane 1's Predicted Position: (34.059303, -117.821320)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 9
+Plane 1's Predicted Position: (34.059303, -117.821404)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+
+
+Collision predicted? 0
+Distance between aircraft: 6230.452607
+Our Velocity (vx ,vy): (0.020000, 0.560000)
+Our Position (X,Y): (34.059267, -117.820674)
+other (X,Y): (34.009948, -117.852573)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.600000
+Plane 2 Heading: 298.330000
+Relative Heading: 7.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059265, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 1
+Plane 1's Predicted Position: (34.059269, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 2
+Plane 1's Predicted Position: (34.059269, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 3
+Plane 1's Predicted Position: (34.059273, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 4
+Plane 1's Predicted Position: (34.059273, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 5
+Plane 1's Predicted Position: (34.059277, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 6
+Plane 1's Predicted Position: (34.059277, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 7
+Plane 1's Predicted Position: (34.059277, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 8
+Plane 1's Predicted Position: (34.059280, -117.820663)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 9
+Plane 1's Predicted Position: (34.059280, -117.820663)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+
+
+Collision predicted? 0
+Distance between aircraft: 6229.006247
+
+
+vx -0.400000
+
+Our Velocity (vx ,vy): (-0.400000, 0.850000)
+Our Position (X,Y): (34.059253, -117.820666)
+other (X,Y): (34.009948, -117.852573)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.840000
+Plane 2 Heading: 298.330000
+Relative Heading: 7.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059254, -117.820663)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 1
+Plane 1's Predicted Position: (34.059250, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 2
+Plane 1's Predicted Position: (34.059246, -117.820679)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 3
+Plane 1's Predicted Position: (34.059242, -117.820686)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 4
+Plane 1's Predicted Position: (34.059238, -117.820686)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 5
+Plane 1's Predicted Position: (34.059235, -117.820694)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 6
+Plane 1's Predicted Position: (34.059231, -117.820702)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 7
+Plane 1's Predicted Position: (34.059227, -117.820702)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 8
+Plane 1's Predicted Position: (34.059223, -117.820709)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 9
+Plane 1's Predicted Position: (34.059219, -117.820717)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+
+
+Collision predicted? 0
+Distance between aircraft: 6228.026260
+Our Velocity (vx ,vy): (-0.010000, -0.240000)
+Our Position (X,Y): (34.059251, -117.820672)
+other (X,Y): (34.009948, -117.852573)
+The aircraft we are pulling from is :10585455.000000
+Plane 1 Heading: 290.980000
+Plane 2 Heading: 298.330000
+Relative Heading: 7.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059250, -117.820671)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 1
+Plane 1's Predicted Position: (34.059254, -117.820648)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 2
+Plane 1's Predicted Position: (34.059258, -117.820633)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 3
+Plane 1's Predicted Position: (34.059261, -117.820610)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 4
+Plane 1's Predicted Position: (34.059265, -117.820587)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 5
+Plane 1's Predicted Position: (34.059269, -117.820572)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 6
+Plane 1's Predicted Position: (34.059273, -117.820549)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 7
+Plane 1's Predicted Position: (34.059277, -117.820526)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 8
+Plane 1's Predicted Position: (34.059277, -117.820503)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+Interval: 9
+Plane 1's Predicted Position: (34.059280, -117.820488)
+Plane 2's Predicted Position: (34.009415, -117.852608)
+
+
+Collision predicted? 0
+Distance between aircraft: 6227.518362
+
+
+vx -0.470000
+
+Our Velocity (vx ,vy): (-0.470000, 1.250000)
+Our Position (X,Y): (34.059251, -117.820677)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 291.160000
+Plane 2 Heading: 263.380000
+Relative Heading: 27.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059250, -117.820679)
+Plane 2's Predicted Position: (33.986633, -117.881493)
+Interval: 1
+Plane 1's Predicted Position: (34.059246, -117.820702)
+Plane 2's Predicted Position: (34.065243, -117.873055)
+Interval: 2
+Plane 1's Predicted Position: (34.059242, -117.820732)
+Plane 2's Predicted Position: (34.143856, -117.864616)
+Interval: 3
+Plane 1's Predicted Position: (34.059238, -117.820763)
+Plane 2's Predicted Position: (34.222466, -117.856178)
+Interval: 4
+Plane 1's Predicted Position: (34.059235, -117.820793)
+Plane 2's Predicted Position: (34.301075, -117.847740)
+Interval: 5
+Plane 1's Predicted Position: (34.059231, -117.820816)
+Plane 2's Predicted Position: (34.379684, -117.839310)
+Interval: 6
+Plane 1's Predicted Position: (34.059227, -117.820847)
+Plane 2's Predicted Position: (34.458294, -117.830872)
+Interval: 7
+Plane 1's Predicted Position: (34.059223, -117.820877)
+Plane 2's Predicted Position: (34.536903, -117.822433)
+Interval: 8
+Plane 1's Predicted Position: (34.059219, -117.820900)
+Plane 2's Predicted Position: (34.615517, -117.813995)
+Interval: 9
+Plane 1's Predicted Position: (34.059216, -117.820930)
+Plane 2's Predicted Position: (34.694126, -117.805557)
+
+
+Collision predicted? 0
+Distance between aircraft: 9747.422018
+Our Velocity (vx ,vy): (-0.050000, 0.340000)
+Our Position (X,Y): (34.059251, -117.820682)
+other (X,Y): (33.987603, -117.881412)
+The aircraft we are pulling from is :11173498.000000
+Plane 1 Heading: 291.310000
+Plane 2 Heading: 263.380000
+Relative Heading: 27.000000
+Interval: 0
+Plane 1's Predicted Position: (34.059250, -117.820679)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 1
+Plane 1's Predicted Position: (34.059254, -117.820663)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 2
+Plane 1's Predicted Position: (34.059258, -117.820648)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 3
+Plane 1's Predicted Position: (34.059261, -117.820633)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 4
+Plane 1's Predicted Position: (34.059265, -117.820610)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 5
+Plane 1's Predicted Position: (34.059269, -117.820595)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 6
+Plane 1's Predicted Position: (34.059273, -117.820580)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 7
+Plane 1's Predicted Position: (34.059277, -117.820557)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 8
+Plane 1's Predicted Position: (34.059280, -117.820541)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+Interval: 9
+Plane 1's Predicted Position: (34.059284, -117.820526)
+Plane 2's Predicted Position: (33.986198, -117.881538)
+
+
+Collision predicted? 0
+Distance between aircraft: 9747.162938
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+
