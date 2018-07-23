@@ -363,14 +363,14 @@ struct aircraftInfo {
 
 	//Aircraft positions
 	// 0: current position, 1: last position (one second in the past), 2: very last position (two seconds in the past)
-	double lat [3];
-	double lon [3];
-	double alt [3];
+	double lat [2];
+	double lon [2];
+	double alt [2];
 
 	//Aircraft velocity and accelerations
 	//0: current velocity/acceleration, 1: last velocity (one second in the past)
-	double velocityX [2];
-	double velocityY [2];
+	double velocityX [1];
+	double velocityY [1];
 	double xAcc;
 	double yAcc;
 
@@ -378,15 +378,17 @@ struct aircraftInfo {
 	//0: Predicted point
 	//1: Point that is .01 second in front of the predicted point
 	//2: Distance between predicted point 0 and 1
-	double futureDistx [3];
-	double futureDisty [3];
+	double futureDistx [2];
+	double futureDisty [2];
 
 	//Predicted heading
 	double Hdg;
 
 
-    //Grab ICAO
+    //Everything from ADS-B
     double ICAO;
+
+
 
 
 	

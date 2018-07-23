@@ -1406,6 +1406,14 @@ aircraftInfo() {
 	priority = 0;
     ICAO;
 
+
+
+
+
+
+
+
+
 }
 
 void
@@ -1547,6 +1555,8 @@ CA_predict_thread()
 	double vx;
 	double vy;
     double rH;
+
+
 	while ( ! time_to_exit ) {
 
 
@@ -1557,25 +1567,32 @@ CA_predict_thread()
 		//Update our aircraft position (X, Y) A
 		ourAircraft.lat[2] = ourAircraft.lat[1];
 		ourAircraft.lon[2] = ourAircraft.lon[1];
+        //ourAircraft.alt[2] = ourAircraft.alt[1];
 
 		ourAircraft.lat[1] = ourAircraft.lat[0];		
 		ourAircraft.lon[1] = ourAircraft.lon[0];
+        //ourAircraft.alt[1] = ourAircraft.alt[0];
 
 		ourAircraft.lat[0] = gpos.lat / 1E7;
 		ourAircraft.lon[0] = gpos.lon / 1E7;
+        //ourAircraft.alt[0] = gpos.alt / 1E7;
 			
 
 		//Update other aircraft position (X, Y) B
 		otherAircraft.lat[2] = otherAircraft.lat[1];
 		otherAircraft.lon[2] = otherAircraft.lon[1];
+        //otherAircraft.alt[2] = otherAircraft.alt[1];
 
 		otherAircraft.lat[1] = otherAircraft.lat[0];		
 		otherAircraft.lon[1] = otherAircraft.lon[0];
+        //otherAircraft.alt[1] = otherAircraft.alt[0];
 
 		otherAircraft.lat[0] = adsb.lat / 1E7;
 		otherAircraft.lon[0] = adsb.lon / 1E7;
+        //otherAircraft.alt[0] = adsb.altitude / 1E7;
 
 
+        ///Hard Coded inital point
 		//otherAircraft.lat[0] = 33.9324539;
 		//otherAircraft.lon[0] = -117.6311865;
 			
@@ -1584,7 +1601,7 @@ CA_predict_thread()
 		ourAircraft.velocityY[1] = ourAircraft.velocityY[0];
 
 		vx = gpos.vx;
-		vy = gpos.vy;		
+		vy = gpos.vy;
 
 		ourAircraft.velocityX[0] = vx / 100.0;
 		ourAircraft.velocityY[0] = vy / 100.0;
@@ -1594,6 +1611,7 @@ CA_predict_thread()
         //Experimental Heading
         ourAircraft.Hdg = gpos.hdg / 100.0;
         otherAircraft.Hdg = adsb.heading / 100.0;
+        rH = abs(otherAircraft.Hdg - ourAircraft.Hdg);
 
 		//Update other aircraft velocity (v) B
 		otherAircraft.velocityX[1] = otherAircraft.velocityX[0];
@@ -1603,7 +1621,7 @@ CA_predict_thread()
 		otherAircraft.velocityY[0] = adsb.ver_velocity;
 
 
-		//Hard coded velocity
+		///Hard coded velocity for a stationary point
 		//otherAircraft.velocityX[0] = 0;
 		//otherAircraft.velocityY[0] = 0;
 
@@ -1618,23 +1636,25 @@ CA_predict_thread()
 
 
         //Determining potential Aircrafts in the area...
+
         otherAircraft.ICAO = adsb.ICAO_address;
 
-        rH = abs(otherAircraft.Hdg - ourAircraft.Hdg);
-
 		printf("Our Velocity (vx ,vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
-		printf("Our Position (X,Y): (%f, %f)\nother (X,Y): (%f, %f)\n",
-		ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]);
+		printf("Our Position (X,Y): (%f, %f,%f)\nother (X,Y): (%f, %f,%f)\n",
+		ourAircraft.lat[0], ourAircraft.lon[0], ourAircraft.alt[0], otherAircraft.lat[0], otherAircraft.lon[0],otherAircraft.alt[0]);
         printf("The aircraft we are pulling from is :%f\n", otherAircraft.ICAO);
         printf("Plane 1 Heading: %f\n", ourAircraft.Hdg);
         printf("Plane 2 Heading: %f\n", otherAircraft.Hdg);
         printf("Relative Heading: %f\n", rH);
 
+        printf("\n\n");
 
-		//Predict
-		collision = CA_Predict(ourAircraft, otherAircraft);
-		printf("Collision predicted? %d\n", collision.collisionDetected);
-	
+		///Predict
+        if (otherAircraft.ICAO == 76475.000000) {
+            collision = CA_Predict(ourAircraft, otherAircraft);
+            printf("Collision predicted? %d\n", collision.collisionDetected);
+        }
+
 		//Avoid if necessary
 		if (collision.collisionDetected == true && AVOID_DELAY == 0) {
 
@@ -1646,6 +1666,7 @@ CA_predict_thread()
 		}
 
 		printf("Distance between aircraft: %f\n", gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]));
+        printf("\n\n");
 		if (AVOID_DELAY > 0) {
 			AVOID_DELAY--;
 			printf("Waiting for aircraft to avoid...\n");
@@ -1722,7 +1743,7 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 
 
         ///---------------
-        ///  Unnecessary code, calculates our and another planes heading.... ACCURATE  however we can pull from devices so not necessary
+        ///  Code calculates our and another planes heading.... ACCURATE  however we can pull from devices so not necessary
 
             /*
 
@@ -1991,7 +2012,7 @@ CA_Avoid( aircraftInfo & aircraftA, aircraftInfo & aircraftB, predictedCollision
 				}
 
 
-		
+/*
 
 		if (makeCircle == true && approachingFromRight == true && headOnCollision == false) {
 			printf("Rotate CounterClockwise\n\n");
