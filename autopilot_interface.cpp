@@ -1487,9 +1487,7 @@ void
 Autopilot_Interface::
 CA_predict_thread()
 {
-    ///
-    ///	Testing Merge for GITHUB
-	///
+
 	CA_status = true;
 
 	predictedCollision collision;
@@ -1564,6 +1562,33 @@ CA_predict_thread()
 		gpos = current_messages.global_position_int;
 		adsb = current_messages.adsb_vehicle_t;
 
+
+		/*
+		///First store temp data into storedAircraft
+		///block data copying --> statement --> if tempdata distance to is less than current otherdata || tempdata.ICAO == other.ICAO update otherdata
+
+		///Create another object that will grab location of current plane and store it, compare new object to old object and if new object is closer than old object store
+		///store new object as old object
+
+		storedAircraft.lat[2] = storedAircraft.lat[1];
+		storedAircraft.lat[1] = storedAircraft.lat[0];
+		storedAircraft.lon[2] = storedAircraft.lon[1];
+		storedAircraft.lon[1] = storedAircraft.lon[0];
+		
+
+		storedAircraft.velocityX[1] = storedAircraft.velocityX[0];
+		storedAircraft.velocityY[1] = storedAircraft.velocityY[0];
+
+		storedAircraft.xAcc = (storedAircraft.velocityX[0] - storedAircraft.velocityX[1]);
+		storedAircraft.yAcc = (storedAircraft.velocityY[0] - storedAircraft.velocityY[1]);
+
+		// ..// ----> Steal from otherAircraft .. // storedAircraft.ICAO = adsb.ICAO_address;
+
+
+
+		*/
+
+
 		//Update our aircraft position (X, Y) A
 		ourAircraft.lat[2] = ourAircraft.lat[1];
 		ourAircraft.lon[2] = ourAircraft.lon[1];
@@ -1575,7 +1600,7 @@ CA_predict_thread()
 
 		ourAircraft.lat[0] = gpos.lat / 1E7;
 		ourAircraft.lon[0] = gpos.lon / 1E7;
-        //ourAircraft.alt[0] = gpos.alt / 1E7;
+        //ourAircraft.alt[0] = gpos.alt / 1E3;
 			
 
 		//Update other aircraft position (X, Y) B
@@ -1611,7 +1636,7 @@ CA_predict_thread()
         //Experimental Heading
         ourAircraft.Hdg = gpos.hdg / 100.0;
         otherAircraft.Hdg = adsb.heading / 100.0;
-        rH = abs(otherAircraft.Hdg - ourAircraft.Hdg);
+        rH = (ourAircraft.Hdg- otherAircraft.Hdg);
 
 		//Update other aircraft velocity (v) B
 		otherAircraft.velocityX[1] = otherAircraft.velocityX[0];
@@ -1636,42 +1661,81 @@ CA_predict_thread()
 
 
         //Determining potential Aircrafts in the area...
-
+		///Store two of these for storedAircraft?
         otherAircraft.ICAO = adsb.ICAO_address;
 
-		printf("Our Velocity (vx ,vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
-		printf("Our Position (X,Y): (%f, %f,%f)\nother (X,Y): (%f, %f,%f)\n",
-		ourAircraft.lat[0], ourAircraft.lon[0], ourAircraft.alt[0], otherAircraft.lat[0], otherAircraft.lon[0],otherAircraft.alt[0]);
-        printf("The aircraft we are pulling from is :%f\n", otherAircraft.ICAO);
-        printf("Plane 1 Heading: %f\n", ourAircraft.Hdg);
-        printf("Plane 2 Heading: %f\n", otherAircraft.Hdg);
-        printf("Relative Heading: %f\n", rH);
+
+		printf("Our Velocity (Vx ,Vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
+		printf("Our Position (X,Y): (%f, %f)\nPlane 2 Position (X,Y): (%f,%f)\n",
+		ourAircraft.lat[0], ourAircraft.lon[0],otherAircraft.lat[0], otherAircraft.lon[0]);
+
+
 
         printf("\n\n");
+        ///Predict
 
-		///Predict
-        if (otherAircraft.ICAO == 76475.000000) {
-            collision = CA_Predict(ourAircraft, otherAircraft);
-            printf("Collision predicted? %d\n", collision.collisionDetected);
+
+        if ((ourAircraft.lat[0] - 0.2 <= otherAircraft.lat[0]  && ourAircraft.lat[0] + 0.2 >= otherAircraft.lat[0]) &&
+                (ourAircraft.lon[0] - 0.2 <= otherAircraft.lon[0] && ourAircraft.lon[0] + 0.2 >= otherAircraft.lon[0])) {
+
+            printf("The aircraft we are pulling from is :%f\n", otherAircraft.ICAO);
+            printf("Another aircraft in the area is :%f\n", storedAircraft.ICAO);
+            printf("Plane 1 Heading: %f\n", ourAircraft.Hdg);
+            printf("Plane 2 Heading: %f\n", otherAircraft.Hdg);
+            printf("Relative Heading: %f\n", rH);
+
+            //if (otherAircraft.ICAO == 76475.000000) {
+                collision = CA_Predict(ourAircraft, otherAircraft);
+                printf("Collision predicted? %d\n", collision.collisionDetected);
+            //}
+
+            //Avoid if necessary
+            if (collision.collisionDetected == true && AVOID_DELAY == 0) {
+
+                AVOID_DELAY = 3;
+
+                printf("Time to collision from in here: %f\n", collision.timeToCollision);
+                CA_Avoid(ourAircraft, otherAircraft, collision);
+
+            }
+
+            printf("Distance between aircraft: %f\n",
+                   gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]));
+
+
+
+
+			///-----------------
+			///
+			///	Statement to determine which will compare distances from stored aircraft and other aircraft, if stored aircraft is closer keep it otherwise make
+			/// stored aircraft will now become otheraircraft
+			///
+			///-----------------
+
+			/*
+			if( gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]) <
+					gpsDistance(ourAircraft.lat[0],ourAircraft.lon[0],storedAircraft.lat[0],storedAircraft.lon[0])){
+				storedAircraft.lat[0] = otherAircraft.lat[0];
+				storedAircraft.lon[0] = otherAircraft.lon[0];
+				storedAircraft.ICAO = otherAircraft.ICAO;
+				storedAircraft.velocityX[0] = otherAircraft.velocityX[0];
+				storedAircraft.velocityY[0] = otherAircraft.velocityY[0];
+			}
+			 */
+
+            printf("\n\n");
+            if (AVOID_DELAY > 0) {
+                AVOID_DELAY--;
+                printf("Waiting for aircraft to avoid...\n");
+            }
+
         }
 
-		//Avoid if necessary
-		if (collision.collisionDetected == true && AVOID_DELAY == 0) {
+        else {
+            printf("There is no aircraft in the general vicinity . . . waiting for aircraft to appear. . . \n\n\n");
 
-			AVOID_DELAY = 3;
+        }
 
-			printf("Time to collision from in here: %f\n", collision.timeToCollision);
-			CA_Avoid(ourAircraft, otherAircraft, collision);
-
-		}
-
-		printf("Distance between aircraft: %f\n", gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]));
-        printf("\n\n");
-		if (AVOID_DELAY > 0) {
-			AVOID_DELAY--;
-			printf("Waiting for aircraft to avoid...\n");
-		}
- 
 		sleep (1);
 
 	}
@@ -1720,7 +1784,6 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		aircraftA.futureDistx[2] = aircraftA.futureDistx[1] - aircraftA.futureDistx[0];//dx
 		aircraftA.futureDisty[2] = aircraftA.futureDisty[1] - aircraftA.futureDisty[0];//dy
 
-
 		//---------------------------------------------------------------------------------------------------------
 		//	The Other Aircraft's prediction for future positions
 		//---------------------------------------------------------------------------------------------------------
@@ -1736,11 +1799,6 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
 		aircraftB.futureDisty[2] = aircraftB.futureDisty[1] - aircraftB.futureDisty[0];//dy
 
         //printf("\n");
-
-		//printf("Future latitude distance of plane A (%f, %f, %f)\n", aircraftA.futureDistx[0], aircraftA.futureDistx[1], aircraftA.futureDistx[2]);
-        //printf("Future longitude distance of plane A (%f, %f, %f)\n", aircraftA.futureDisty[0], aircraftA.futureDisty[1], aircraftA.futureDisty[2]);
-
-
 
         ///---------------
         ///  Code calculates our and another planes heading.... ACCURATE  however we can pull from devices so not necessary
@@ -1859,14 +1917,13 @@ CA_Predict(aircraftInfo & aircraftA, aircraftInfo & aircraftB) {
         /// If ADS-B or GPS is acting up this SHOULD be sufficient to give an accurate heading HOWEVER you need to be moving pretty fast
         ///---------------
 
-
 		//-----------------------------------------------------------------------------------------------
 		//
 		//	This is converting our current values into gps (not finished yet) [here we use the Lat/Lon array to store the planes position in gps]
 		//
 		//-----------------------------------------------------------------------------------------------
 
-        printf("Interval: %i\n", t);
+        printf("Time Interval: %i\n", t);
 
 		//Creates a future position item based on the current position and future distance
 		mavlink_mission_item_t ourFuturePos = NewAvoidWaypoint(aircraftA.futureDistx[2], aircraftA.futureDisty[2], aircraftA);
@@ -1982,57 +2039,84 @@ CA_Avoid( aircraftInfo & aircraftA, aircraftInfo & aircraftB, predictedCollision
 		double yDisplacement = k * (slopeBC / sqrt(1 + (slopeBC*slopeBC)));
 		
 	printf("X displacement: %f Y displacement: %f\n", xDisplacement, yDisplacement);
-/*
+
 		float rH = collision.relativeHeading;
 	
 
-		
+    ///---------------------|
+    ///
+    ///     These need to be changed, right now if other plane is approaching from right or left it will think its coming from the left all the time
+    ///
+    ///---------------------|
+/*
 			if (rH <= 20 || rH >= 340) 
 				{
 				printf("MAKE A CIRCLE: ");
 				makeCircle = true;
 				}
+
+            else if( rH > 20 && rH < 170){
+             printf("Plane 2 is approaching from the right");
+                approachingFromRight = true;
+
+            }
 		
-			else if (170 <= rH && rH <= 190)
+			else if (170 <= rH && rH <= 200 || )
 				{
 				printf("HEAD ON COLLISION: ");
 				headOnCollision = true;
 				}
 
-	
-			else if (rH < 360 && rH > 180)
-				{
-				printf("Plane 2 is approaching from the right: ");
-				approachingFromRight = true;
-				}
 
 			else
 				{
 				printf("Plane 2 is approaching from the left: ");
 				}
 
+*/
+    /// Not Sure If these are the correct relative headings
 
-/*
+    if ((rH <= 20 || rH >= 340) || (rH >= -20 || rH < -340)){
+        printf("MAKE A CIRCLE");
+        makeCircle = true;
+    }
 
-		if (makeCircle == true && approachingFromRight == true && headOnCollision == false) {
+
+
+    else if (( rH >= -340 && rH <= -200 ) || (rH > 200 && rH <= 340)){
+        printf("Plane 2 is approaching from the right");
+        approachingFromRight = true;
+
+    }
+    else if(( rH > -200 && rH <= -170) || (rH >= 170 && rH < 200)) {
+        printf("HEAD ON COLLISION");
+        headOnCollision = true;
+
+    }
+    else {//if ((rH > -170 && rH < 0) || (rH > 200 && rH <= 360)){
+        printf("Plane 2 is approaching from the Left");
+
+    }
+
+		if (makeCircle == true && approachingFromRight == true && !headOnCollision) {
 			printf("Rotate CounterClockwise\n\n");
 			avoidWaypoint = NewAvoidWaypoint(-xDisplacement, -yDisplacement, aircraftA);
 		}
 
-			else if (makeCircle == true && approachingFromRight == false && headOnCollision == false) {
+			else if (makeCircle == true && approachingFromRight == false && !headOnCollision) {
 				printf("Rotate Clockwise\n\n");
 				avoidWaypoint = NewAvoidWaypoint(xDisplacement, yDisplacement, aircraftA);
 			}
 
 
-			else if (approachingFromRight == true && headOnCollision == false) {
+			else if (approachingFromRight == true && !headOnCollision) {
 				turnRight = true;
 				printf("Turn Right\n");
 				avoidWaypoint = NewAvoidWaypoint(xDisplacement, yDisplacement, aircraftA);
 				}
 
 
-			else if (approachingFromRight == false && headOnCollision == false) {
+			else if (!approachingFromRight && !headOnCollision) {
 				turnRight = false;
 				printf("Turn Left\n\n");
 				avoidWaypoint = NewAvoidWaypoint(-xDisplacement, -yDisplacement, aircraftA);
@@ -2044,7 +2128,7 @@ CA_Avoid( aircraftInfo & aircraftA, aircraftInfo & aircraftB, predictedCollision
 				avoidWaypoint = NewAvoidWaypoint(xDisplacement, yDisplacement, aircraftA);
 			}
 
-		*/
+
 		avoidWaypoint = NewAvoidWaypoint(xDisplacement, yDisplacement, aircraftA);
 		insert_waypoint( avoidWaypoint, currentWaypoint);			
 

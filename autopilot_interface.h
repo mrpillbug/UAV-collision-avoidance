@@ -381,7 +381,7 @@ struct aircraftInfo {
 	double futureDistx [2];
 	double futureDisty [2];
 
-	//Predicted heading
+	//used for predicted heading
 	double Hdg;
 
 
@@ -463,7 +463,7 @@ public:
 	
 
 
-	aircraftInfo ourAircraft, otherAircraft;
+	aircraftInfo ourAircraft, otherAircraft, storedAircraft;
 	std::vector<mavlink_mission_item_t> currentMission;
 	predictedCollision collisionPoint;
 
