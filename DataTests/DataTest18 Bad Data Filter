@@ -1,0 +1,76 @@
+July 25, 2018
+Ground Data Test 3
+
+START READ THREAD 
+
+CHECK FOR MESSAGES
+Found
+
+GOT VEHICLE SYSTEM ID: 1
+GOT AUTOPILOT COMPONENT ID: 1
+
+START WRITE THREAD 
+
+START COLLISION AVOIDANCESTART COLLISION AVOIDANCE THREAD
+
+
+
+vx 0.010000
+
+
+POSITION LOGGED
+Our Velocity (Vx ,Vy): (0.010000, 0.000000)
+Our Position (X,Y): (34.059149, -117.820454)
+Plane 2 Position (X,Y): (0.001639,-1.677722)
+
+
+There is no aircraft in the general vicinity . . . waiting for aircraft to appear. . . 
+
+
+Our Velocity (Vx ,Vy): (-0.070000, -0.030000)
+Our Position (X,Y): (34.059150, -117.820455)
+Plane 2 Position (X,Y): (0.001639,-1.677722)
+
+
+There is no aircraft in the general vicinity . . . waiting for aircraft to appear. . . 
+
+
+
+
+vx -0.060000
+
+Our Velocity (Vx ,Vy): (-0.060000, 0.000000)
+Our Position (X,Y): (34.059151, -117.820456)
+Plane 2 Position (X,Y): (0.001639,-1.677722)
+
+
+There is no aircraft in the general vicinity . . . waiting for aircraft to appear. . . 
+
+
+Our Velocity (Vx ,Vy): (-0.030000, 0.000000)
+Our Position (X,Y): (34.059151, -117.820456)
+Plane 2 Position (X,Y): (0.001639,-1.677722)
+
+
+There is no aircraft in the general vicinity . . . waiting for aircraft to appear. . . 
+
+
+
+
+vx 0.000000
+
+Our Velocity (Vx ,Vy): (0.000000, 0.020000)
+Our Position (X,Y): (34.059152, -117.820456)
+Plane 2 Position (X,Y): (0.001639,-1.677722)
+
+
+There is no aircraft in the general vicinity . . . waiting for aircraft to appear. . . 
+
+
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+

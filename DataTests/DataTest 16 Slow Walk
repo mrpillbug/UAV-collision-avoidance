@@ -1,0 +1,247 @@
+July 23, 2018
+Not getting heading from Cub, ran code for a minute, had a slow walk towards the cub. Created an avoid waypoint 
+
+
+
+
+
+
+Our Velocity (vx ,vy): (0.010000, 0.050000)
+Our Position (X,Y): (34.059179, -117.821921,34.059179)
+other (X,Y): (34.059076, -117.820644,34.059076)
+The aircraft we are pulling from is :76475.000000
+Plane 1 Heading: 102.060000
+Plane 2 Heading: 0.000000
+Relative Heading: 102.000000
+
+
+Interval: 0
+Plane 1's Predicted Position: (34.059177, -117.821922)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 1
+Plane 1's Predicted Position: (34.059177, -117.821922)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 2
+Plane 1's Predicted Position: (34.059177, -117.821922)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 3
+Plane 1's Predicted Position: (34.059177, -117.821915)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 4
+Plane 1's Predicted Position: (34.059177, -117.821915)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 5
+Plane 1's Predicted Position: (34.059177, -117.821907)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 6
+Plane 1's Predicted Position: (34.059177, -117.821899)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 7
+Plane 1's Predicted Position: (34.059177, -117.821892)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 8
+Plane 1's Predicted Position: (34.059177, -117.821877)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 9
+Plane 1's Predicted Position: (34.059177, -117.821861)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+
+
+Collision predicted? 0
+Distance between aircraft: 118.269640
+
+
+
+
+vx -0.100000
+
+Our Velocity (vx ,vy): (-0.100000, 1.670000)
+Our Position (X,Y): (34.059178, -117.821910,34.059179)
+other (X,Y): (34.059076, -117.820644,34.059076)
+The aircraft we are pulling from is :76475.000000
+Plane 1 Heading: 109.260000
+Plane 2 Heading: 0.000000
+Relative Heading: 109.000000
+
+
+Interval: 0
+Plane 1's Predicted Position: (34.059177, -117.821907)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 1
+Plane 1's Predicted Position: (34.059162, -117.821945)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 2
+Plane 1's Predicted Position: (34.059147, -117.821915)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 3
+Plane 1's Predicted Position: (34.059132, -117.821815)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 4
+Plane 1's Predicted Position: (34.059116, -117.821648)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 5
+Plane 1's Predicted Position: (34.059101, -117.821419)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 6
+Plane 1's Predicted Position: (34.059082, -117.821121)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 7
+Plane 1's Predicted Position: (34.059067, -117.820755)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Predicted distance between planes at collision: 9.886956 m
+Collision predicted? 1
+Time to collision from in here: 7.000000
+Time to collision from in here: 7.000000
+
+COLLISION DETECTED
+REQUESTING WAYPOINTS
+
+
+vx 0.000000
+
+
+
+vx 0.080000
+
+
+
+vx -0.080000
+
+
+
+vx 0.170000
+
+
+
+vx 0.160000
+
+WAYPOINT COUNT NOT RECEIVED: TRY AGAIN
+REQUESTING WAYPOINTS
+Number of waypoints: 17
+
+avoid buffer size: 100
+X displacement: 111.068156 Y displacement: 8.954985
+MAKE A CIRCLE: Rotate Clockwise
+
+Sending Waypoints
+Waypoint 0 Lat: 34.059174, Long: -117.821785, Alt: 272.029999, Seq: 0
+Waypoint 1 Lat: 34.058182, Long: -117.821739, Alt: 0.000000, Seq: 1
+Waypoint 2 Lat: 34.057999, Long: -117.820900, Alt: 0.000000, Seq: 2
+Waypoint 3 Lat: 34.058010, Long: -117.820686, Alt: 0.000000, Seq: 3
+Waypoint 4 Lat: 34.058685, Long: -117.822456, Alt: 0.000000, Seq: 4
+Waypoint 5 Lat: 34.058411, Long: -117.821968, Alt: 0.000000, Seq: 5
+Waypoint 6 Lat: 34.058582, Long: -117.822296, Alt: 0.000000, Seq: 6
+Waypoint 7 Lat: 34.058517, Long: -117.822083, Alt: 0.000000, Seq: 7
+Waypoint 8 Lat: 34.058399, Long: -117.822334, Alt: 0.000000, Seq: 8
+Waypoint 9 Lat: 34.058540, Long: -117.822197, Alt: 0.000000, Seq: 9
+Waypoint 10 Lat: 34.058769, Long: -117.822571, Alt: 0.000000, Seq: 10
+Waypoint 11 Lat: 34.058502, Long: -117.818893, Alt: 0.000000, Seq: 11
+Waypoint 12 Lat: 34.058300, Long: -117.821541, Alt: 0.000000, Seq: 12
+Waypoint 13 Lat: 34.058300, Long: -117.821541, Alt: 0.000000, Seq: 13
+Waypoint 14 Lat: 34.058300, Long: -117.821541, Alt: 0.000000, Seq: 14
+Waypoint 15 Lat: 34.058300, Long: -117.821541, Alt: 0.000000, Seq: 15
+Waypoint 16 Lat: 34.058300, Long: -117.821541, Alt: 0.000000, Seq: 16
+Waypoint 17 Lat: 34.058857, Long: -117.821342, Alt: 0.000000, Seq: 17
+sh: 1: PAUSE: not found
+
+
+Collision point created
+Distance between aircraft: 117.221645
+
+
+Waiting for aircraft to avoid...
+Our Velocity (vx ,vy): (0.030000, 1.510000)
+Our Position (X,Y): (34.059177, -117.821737,34.059180)
+other (X,Y): (34.059076, -117.820644,34.059076)
+The aircraft we are pulling from is :76475.000000
+Plane 1 Heading: 101.140000
+Plane 2 Heading: 0.000000
+Relative Heading: 101.000000
+
+
+Interval: 0
+Plane 1's Predicted Position: (34.059177, -117.821739)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 1
+Plane 1's Predicted Position: (34.059162, -117.821762)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 2
+Plane 1's Predicted Position: (34.059151, -117.821732)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 3
+Plane 1's Predicted Position: (34.059139, -117.821648)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 4
+Plane 1's Predicted Position: (34.059124, -117.821503)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 5
+Plane 1's Predicted Position: (34.059113, -117.821297)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 6
+Plane 1's Predicted Position: (34.059097, -117.821037)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 7
+Plane 1's Predicted Position: (34.059086, -117.820717)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Predicted distance between planes at collision: 6.459278 m
+Collision predicted? 1
+Distance between aircraft: 101.422836
+
+
+Waiting for aircraft to avoid...
+
+
+vx 0.050000
+
+Our Velocity (vx ,vy): (0.150000, 0.960000)
+Our Position (X,Y): (34.059177, -117.821722,34.059179)
+other (X,Y): (34.059076, -117.820644,34.059076)
+The aircraft we are pulling from is :76475.000000
+Plane 1 Heading: 105.680000
+Plane 2 Heading: 0.000000
+Relative Heading: 105.000000
+
+
+Interval: 0
+Plane 1's Predicted Position: (34.059177, -117.821724)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 1
+Plane 1's Predicted Position: (34.059170, -117.821739)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 2
+Plane 1's Predicted Position: (34.059162, -117.821716)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 3
+Plane 1's Predicted Position: (34.059155, -117.821663)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 4
+Plane 1's Predicted Position: (34.059147, -117.821571)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 5
+Plane 1's Predicted Position: (34.059143, -117.821449)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 6
+Plane 1's Predicted Position: (34.059135, -117.821297)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 7
+Plane 1's Predicted Position: (34.059128, -117.821106)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 8
+Plane 1's Predicted Position: (34.059120, -117.820877)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Interval: 9
+Plane 1's Predicted Position: (34.059113, -117.820618)
+Plane 2's Predicted Position: (34.059074, -117.820648)
+Predicted distance between planes at collision: 5.094416 m
+Collision predicted? 1
+Distance between aircraft: 100.031050
+
+
+Waiting for aircraft to avoid...
+^C
+TERMINATING AT USER REQUEST
+
+CLOSE THREADS
+
+CLOSE PORT
+
