@@ -1563,36 +1563,21 @@ CA_predict_thread()
 		adsb = current_messages.adsb_vehicle_t;
 
 
-		/*
-		///First store temp data into storedAircraft
-		///block data copying --> statement --> if tempdata distance to is less than current otherdata || tempdata.ICAO == other.ICAO update otherdata
-
-		///Create another object that will grab location of current plane and store it, compare new object to old object and if new object is closer than old object store
-		///store new object as old object
-
-		storedAircraft.lat[2] = storedAircraft.lat[1];
-		storedAircraft.lat[1] = storedAircraft.lat[0];
-		storedAircraft.lon[2] = storedAircraft.lon[1];
-		storedAircraft.lon[1] = storedAircraft.lon[0];
-		
-
-		storedAircraft.velocityX[1] = storedAircraft.velocityX[0];
-		storedAircraft.velocityY[1] = storedAircraft.velocityY[0];
-
-		storedAircraft.xAcc = (storedAircraft.velocityX[0] - storedAircraft.velocityX[1]);
-		storedAircraft.yAcc = (storedAircraft.velocityY[0] - storedAircraft.velocityY[1]);
-
-		// ..// ----> Steal from otherAircraft .. // storedAircraft.ICAO = adsb.ICAO_address;
-
-
-
-		*/
+        ///---------------------------------
+        ///
+        /// Gather All Parameters for Our Plane, such as lat,lon,velocity,acceleration, Heading,
+        ///
+        ///----------------------------------
 
 
 		//Update our aircraft position (X, Y) A
+        ///-------------------------------
+        ///         Use Array to Shift position storing [2] as very last. [0] represents current location, working on altitude . . .
+        ///-------------------------------
 		ourAircraft.lat[2] = ourAircraft.lat[1];
 		ourAircraft.lon[2] = ourAircraft.lon[1];
         //ourAircraft.alt[2] = ourAircraft.alt[1];
+
 
 		ourAircraft.lat[1] = ourAircraft.lat[0];		
 		ourAircraft.lon[1] = ourAircraft.lon[0];
@@ -1601,9 +1586,34 @@ CA_predict_thread()
 		ourAircraft.lat[0] = gpos.lat / 1E7;
 		ourAircraft.lon[0] = gpos.lon / 1E7;
         //ourAircraft.alt[0] = gpos.alt / 1E3;
-			
 
-		//Update other aircraft position (X, Y) B
+        //Update our aircraft velocity (v) A
+        ourAircraft.velocityX[1] = ourAircraft.velocityX[0];
+        ourAircraft.velocityY[1] = ourAircraft.velocityY[0];
+
+        vx = gpos.vx;
+        vy = gpos.vy;
+
+        ourAircraft.velocityX[0] = vx / 100.0;
+        ourAircraft.velocityY[0] = vy / 100.0;
+
+        ourAircraft.Hdg = gpos.hdg / 100.0;
+
+        //Update our aircraft acceleration (acc) A
+        ourAircraft.xAcc = (ourAircraft.velocityX[0] - ourAircraft.velocityX[1]);//xAcc
+        ourAircraft.yAcc = (ourAircraft.velocityY[0] - ourAircraft.velocityY[1]);//yAcc
+
+
+        ///------------------------------------
+        ///
+        ///     Input Another object, to store temporary data. AKA StoredAircraft
+        ///     if storedAircraft.Distance < otherAircraft.Distance ||
+        ///     storedAircraft.ICAO == otherAircraft.ICAO
+        ///     UPDATE OTHERIARCRAFT
+        ///
+        ///-------------------------------------
+
+        //Update other aircraft position (X, Y) B
 		otherAircraft.lat[2] = otherAircraft.lat[1];
 		otherAircraft.lon[2] = otherAircraft.lon[1];
         //otherAircraft.alt[2] = otherAircraft.alt[1];
@@ -1615,26 +1625,15 @@ CA_predict_thread()
 		otherAircraft.lat[0] = adsb.lat / 1E7;
 		otherAircraft.lon[0] = adsb.lon / 1E7;
         //otherAircraft.alt[0] = adsb.altitude / 1E7;
-
-
         ///Hard Coded inital point
 		//otherAircraft.lat[0] = 33.9324539;
 		//otherAircraft.lon[0] = -117.6311865;
-			
-		//Update our aircraft velocity (v) A
-		ourAircraft.velocityX[1] = ourAircraft.velocityX[0];
-		ourAircraft.velocityY[1] = ourAircraft.velocityY[0];
 
-		vx = gpos.vx;
-		vy = gpos.vy;
-
-		ourAircraft.velocityX[0] = vx / 100.0;
-		ourAircraft.velocityY[0] = vy / 100.0;
 
 
 
         //Experimental Heading
-        ourAircraft.Hdg = gpos.hdg / 100.0;
+
         otherAircraft.Hdg = adsb.heading / 100.0;
         rH = (ourAircraft.Hdg- otherAircraft.Hdg);
 
@@ -1651,10 +1650,6 @@ CA_predict_thread()
 		//otherAircraft.velocityY[0] = 0;
 
 
-		//Update our aircraft acceleration (acc) A
-		ourAircraft.xAcc = (ourAircraft.velocityX[0] - ourAircraft.velocityX[1]);//xAcc
-		ourAircraft.yAcc = (ourAircraft.velocityY[0] - ourAircraft.velocityY[1]);//yAcc
-
 		//Update our aircraft acceleration (acc) B
 		otherAircraft.xAcc = (otherAircraft.velocityX[0] - otherAircraft.velocityX[1]);//xAcc
 		otherAircraft.yAcc = (otherAircraft.velocityY[0] - otherAircraft.velocityY[1]);//yAcc
@@ -1663,6 +1658,7 @@ CA_predict_thread()
         //Determining potential Aircrafts in the area...
 		///Store two of these for storedAircraft?
         otherAircraft.ICAO = adsb.ICAO_address;
+        //storedAircraft.ICAO = adsb.ICAO_address;
 
 
 		printf("Our Velocity (Vx ,Vy): (%f, %f)\n", ourAircraft.velocityX[0], ourAircraft.velocityY[0]);
@@ -1674,12 +1670,15 @@ CA_predict_thread()
         printf("\n\n");
         ///Predict
 
+        //printf("Distance between aircraft: %f\n",
+          //     gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]));
+
 
         if ((ourAircraft.lat[0] - 0.2 <= otherAircraft.lat[0]  && ourAircraft.lat[0] + 0.2 >= otherAircraft.lat[0]) &&
                 (ourAircraft.lon[0] - 0.2 <= otherAircraft.lon[0] && ourAircraft.lon[0] + 0.2 >= otherAircraft.lon[0])) {
 
             printf("The aircraft we are pulling from is :%f\n", otherAircraft.ICAO);
-            printf("Another aircraft in the area is :%f\n", storedAircraft.ICAO);
+            //printf("Another aircraft in the area is :%f\n", storedAircraft.ICAO);
             printf("Plane 1 Heading: %f\n", ourAircraft.Hdg);
             printf("Plane 2 Heading: %f\n", otherAircraft.Hdg);
             printf("Relative Heading: %f\n", rH);
@@ -1703,26 +1702,6 @@ CA_predict_thread()
                    gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]));
 
 
-
-
-			///-----------------
-			///
-			///	Statement to determine which will compare distances from stored aircraft and other aircraft, if stored aircraft is closer keep it otherwise make
-			/// stored aircraft will now become otheraircraft
-			///
-			///-----------------
-
-			/*
-			if( gpsDistance(ourAircraft.lat[0], ourAircraft.lon[0], otherAircraft.lat[0], otherAircraft.lon[0]) <
-					gpsDistance(ourAircraft.lat[0],ourAircraft.lon[0],storedAircraft.lat[0],storedAircraft.lon[0])){
-				storedAircraft.lat[0] = otherAircraft.lat[0];
-				storedAircraft.lon[0] = otherAircraft.lon[0];
-				storedAircraft.ICAO = otherAircraft.ICAO;
-				storedAircraft.velocityX[0] = otherAircraft.velocityX[0];
-				storedAircraft.velocityY[0] = otherAircraft.velocityY[0];
-			}
-			 */
-
             printf("\n\n");
             if (AVOID_DELAY > 0) {
                 AVOID_DELAY--;
@@ -1736,6 +1715,7 @@ CA_predict_thread()
 
         }
 
+        //Refresh Rate
 		sleep (1);
 
 	}
